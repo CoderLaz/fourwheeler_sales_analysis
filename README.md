@@ -1,6 +1,6 @@
 # 🚗 Sales Data Analysis & Visualization
 
-![License](https://img.shields.io/github/license/your-username/repo-name?style=flat-square) ![Stars](https://img.shields.io/github/stars/your-username/repo-name?style=flat-square) ![Issues](https://img.shields.io/github/issues/your-username/repo-name?style=flat-square)
+![License](https://img.shields.io/github/license/CoderLaz/fourwheeler_sales_analysis?style=flat-square) ![Stars](https://img.shields.io/github/stars/CoderLaz/fourwheeler_sales_analysis?style=flat-square) ![Issues](https://img.shields.io/github/issues/CoderLaz/fourwheeler_sales_analysis?style=flat-square)
 
 ## 🎨 About the Project
 
@@ -103,11 +103,11 @@ Install the required packages listed in `requirements.txt`. Key dependencies inc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/CoderLaz/fourwheeler_sales_analysis.git
    ```
 2. Navigate to the project directory and launch Jupyter Notebook:
    ```bash
-   cd repo-name
+   cd fourwheeler_sales_analysis
    jupyter notebook
    ```
 3. Open the notebook and execute the cells to preprocess the data and export the cleaned dataset.
