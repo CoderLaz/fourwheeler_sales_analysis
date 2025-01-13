@@ -1,0 +1,5127 @@
+make,model,date,month,year,sales
+Maruti Suzuki,Grand Vitara,Aug 22,Aug,2022,0.0
+Maruti Suzuki,Celerio,Aug 22,Aug,2022,5852.0
+Maruti Suzuki,Baleno,Aug 22,Aug,2022,18418.0
+Maruti Suzuki,S-Presso,Aug 22,Aug,2022,7774.0
+Maruti Suzuki,Alto K10,Aug 22,Aug,2022,
+Maruti Suzuki,Dzire,Aug 22,Aug,2022,11868.0
+Maruti Suzuki,Ertiga,Aug 22,Aug,2022,9314.0
+Maruti Suzuki,Swift,Aug 22,Aug,2022,11275.0
+Maruti Suzuki,XL6,Aug 22,Aug,2022,2425.0
+Maruti Suzuki,Brezza,Aug 22,Aug,2022,
+Maruti Suzuki,Wagon R,Aug 22,Aug,2022,18398.0
+Maruti Suzuki,Jimny,Aug 22,Aug,2022,0.0
+Hyundai,Verna,Aug 22,Aug,2022,1734.0
+Hyundai,Aura,Aug 22,Aug,2022,4378.0
+Hyundai,Grand i10 Nios,Aug 22,Aug,2022,
+Maruti Suzuki,Ciaz,Aug 22,Aug,2022,1516.0
+Hyundai,Exter,Aug 22,Aug,2022,0.0
+Hyundai,Creta N Line,Aug 22,Aug,2022,
+Hyundai,Tucson,Aug 22,Aug,2022,343.0
+Maruti Suzuki,Eeco,Aug 22,Aug,2022,11999.0
+Hyundai,i20,Aug 22,Aug,2022,
+Maruti Suzuki,Invicto,Aug 22,Aug,2022,0.0
+Hyundai,Creta,Aug 22,Aug,2022,12577.0
+Hyundai,Alcazar,Aug 22,Aug,2022,2304.0
+Hyundai,Venue,Aug 22,Aug,2022,11240.0
+Tata,Tiago NRG BS6,Aug 22,Aug,2022,
+Tata,Tiago,Aug 22,Aug,2022,7209.0
+Tata,Punch EV,Aug 22,Aug,2022,
+Tata,Tigor,Aug 22,Aug,2022,3486.0
+Tata,Nexon EV,Aug 22,Aug,2022,
+Tata,Altroz,Aug 22,Aug,2022,4968.0
+Tata,Harrier,Aug 22,Aug,2022,2596.0
+Tata,Tiago EV,Aug 22,Aug,2022,
+Hyundai,Venue N Line,Aug 22,Aug,2022,
+Hyundai,Ioniq 5,Aug 22,Aug,2022,0.0
+Tata,Safari,Aug 22,Aug,2022,1820.0
+Tata,Punch,Aug 22,Aug,2022,12006.0
+Hyundai,Kona Electric,Aug 22,Aug,2022,102.0
+Tata,Xpres-T EV,Aug 22,Aug,2022,
+Mahindra,Scorpio Classic,Aug 22,Aug,2022,
+Tata,Altroz CNG,Aug 22,Aug,2022,
+Tata,Altroz Racer,Aug 22,Aug,2022,
+Mahindra,Thar,Aug 22,Aug,2022,
+Toyota,Innova Crysta,Aug 22,Aug,2022,
+Mahindra,XUV700,Aug 22,Aug,2022,
+Mahindra,Bolero,Aug 22,Aug,2022,8246.0
+Mahindra,XUV 400 Electric,Aug 22,Aug,2022,0.0
+Mahindra,Scorpio N,Aug 22,Aug,2022,
+Mahindra,XUV 3X0,Aug 22,Aug,2022,
+Mahindra,Bolero Neo,Aug 22,Aug,2022,
+Mahindra,Bolero Neo Plus,Aug 22,Aug,2022,
+Tata,Tigor CNG,Aug 22,Aug,2022,
+Tata,Tiago CNG,Aug 22,Aug,2022,
+Tata,Punch CNG,Aug 22,Aug,2022,
+Tata,Magic Mantra 10 Seater,Aug 22,Aug,2022,
+Toyota,Fortuner,Aug 22,Aug,2022,2581.0
+Toyota,Innova Hycross,Aug 22,Aug,2022,6036.0
+Toyota,Land Cruiser LC300,Aug 22,Aug,2022,
+Toyota,Hilux,Aug 22,Aug,2022,20.0
+Toyota,Camry,Aug 22,Aug,2022,62.0
+Toyota,Vellfire,Aug 22,Aug,2022,118.0
+Toyota,Fortuner Legender,Aug 22,Aug,2022,
+Toyota,Urban Cruiser HyRyder,Aug 22,Aug,2022,0.0
+Toyota,Glanza,Aug 22,Aug,2022,3011.0
+Mahindra,KUV100 NXT,Aug 22,Aug,2022,
+Toyota,Taisor,Aug 22,Aug,2022,
+Toyota,Rumion,Aug 22,Aug,2022,
+Mahindra,XUV 300,Aug 22,Aug,2022,4322.0
+BMW,M4 Competition,Aug 22,Aug,2022,
+BMW,X7,Aug 22,Aug,2022,
+KIA,Carens,Aug 22,Aug,2022,5558.0
+BMW,7-Series,Aug 22,Aug,2022,
+BMW,X1,Aug 22,Aug,2022,
+BMW,2 Series Gran Coupe,Aug 22,Aug,2022,
+BMW,3 Series Gran Limousine,Aug 22,Aug,2022,
+BMW,Z4,Aug 22,Aug,2022,
+BMW,M2,Aug 22,Aug,2022,
+BMW,6 Series,Aug 22,Aug,2022,
+BMW,X5,Aug 22,Aug,2022,
+KIA,Sonet,Aug 22,Aug,2022,
+BMW,X3,Aug 22,Aug,2022,
+BMW,M8 Coupe Competition,Aug 22,Aug,2022,
+KIA,EV6,Aug 22,Aug,2022,0.0
+BMW,i7,Aug 22,Aug,2022,
+BMW,XM,Aug 22,Aug,2022,
+MG,Gloster,Aug 22,Aug,2022,185.0
+MG,Comet EV,Aug 22,Aug,2022,0.0
+Honda,Elevate,Aug 22,Aug,2022,0.0
+Honda,City,Aug 22,Aug,2022,3488.0
+BMW,i5,Aug 22,Aug,2022,
+MG,Astor,Aug 22,Aug,2022,1324.0
+MG,Hector,Aug 22,Aug,2022,1917.0
+MG,Hector Plus,Aug 22,Aug,2022,
+MG,ZS EV,Aug 22,Aug,2022,397.0
+BMW,X4,Aug 22,Aug,2022,
+BMW,iX Electric,Aug 22,Aug,2022,
+BMW,3-Series,Aug 22,Aug,2022,
+BMW,iX1,Aug 22,Aug,2022,
+Honda,Amaze,Aug 22,Aug,2022,3418.0
+Honda,City Hybrid,Aug 22,Aug,2022,
+Mahindra,Marazzo,Aug 22,Aug,2022,45.0
+Skoda,Superb,Aug 22,Aug,2022,135.0
+Tata,Magic Express 10 Seater,Aug 22,Aug,2022,
+Volkswagen,Virtus,Aug 22,Aug,2022,873.0
+BMW,i4,Aug 22,Aug,2022,
+Skoda,Kushaq,Aug 22,Aug,2022,1876.0
+KIA,Seltos,Aug 22,Aug,2022,8652.0
+Tata,Tigor EV,Aug 22,Aug,2022,
+Skoda,Slavia,Aug 22,Aug,2022,1941.0
+Skoda,Kodiaq,Aug 22,Aug,2022,151.0
+Maruti Suzuki,Ignis,Aug 22,Aug,2022,5746.0
+Hyundai,i20 N Line,Aug 22,Aug,2022,
+Maruti Suzuki,Fronx,Aug 22,Aug,2022,0.0
+Jeep,Grand Cherokee,Aug 22,Aug,2022,
+Land Rover,Range Rover Velar,Aug 22,Aug,2022,
+Land Rover,Range Rover Evoque,Aug 22,Aug,2022,
+Audi,A4,Aug 22,Aug,2022,
+Land Rover,Range Rover,Aug 22,Aug,2022,
+Land Rover,Discovery Sport,Aug 22,Aug,2022,
+Land Rover,Range Rover Sport,Aug 22,Aug,2022,
+Land Rover,Discovery,Aug 22,Aug,2022,
+Jeep,Wrangler,Aug 22,Aug,2022,
+Jeep,Compass,Aug 22,Aug,2022,921.0
+Volkswagen,Tiguan,Aug 22,Aug,2022,155.0
+Audi,Q3,Aug 22,Aug,2022,
+Audi,Q3 Sportback,Aug 22,Aug,2022,
+Jeep,Meridian,Aug 22,Aug,2022,400.0
+Land Rover,Defender,Aug 22,Aug,2022,
+Audi,RS Q8,Aug 22,Aug,2022,
+Audi,RS5,Aug 22,Aug,2022,
+Audi,e-tron,Aug 22,Aug,2022,
+Audi,Q8,Aug 22,Aug,2022,
+Volvo,S90,Aug 22,Aug,2022,
+Audi,A8L,Aug 22,Aug,2022,
+Volvo,XC60,Aug 22,Aug,2022,
+Volvo,XC90,Aug 22,Aug,2022,
+Volvo,XC40 Recharge,Aug 22,Aug,2022,
+Volvo,C40 Recharge,Aug 22,Aug,2022,
+Jaguar,F-Type,Aug 22,Aug,2022,
+Jaguar,I-Pace,Aug 22,Aug,2022,
+Audi,S5 Sportback,Aug 22,Aug,2022,
+Audi,Q5,Aug 22,Aug,2022,
+Jaguar,F-Pace,Aug 22,Aug,2022,
+Audi,Q7,Aug 22,Aug,2022,
+Audi,Q8 e-tron,Aug 22,Aug,2022,
+Porsche,Macan,Aug 22,Aug,2022,
+Porsche,Cayenne,Aug 22,Aug,2022,
+Porsche,Cayenne Coupe,Aug 22,Aug,2022,
+Citroen,C3,Aug 22,Aug,2022,825.0
+Citroen,eC3,Aug 22,Aug,2022,0.0
+Lamborghini,Urus,Aug 22,Aug,2022,
+Citroen,C5 Aircross,Aug 22,Aug,2022,25.0
+Porsche,Panamera,Aug 22,Aug,2022,
+Lamborghini,Revuelto,Aug 22,Aug,2022,
+Porsche,718,Aug 22,Aug,2022,
+BYD Auto,Atto 3,Aug 22,Aug,2022,
+Lamborghini,Huracan EVO,Aug 22,Aug,2022,
+Renault,Triber,Aug 22,Aug,2022,2667.0
+Nissan,Magnite,Aug 22,Aug,2022,3194.0
+Porsche,Taycan,Aug 22,Aug,2022,
+Lexus,LC 500h,Aug 22,Aug,2022,
+Lexus,ES,Aug 22,Aug,2022,
+Lexus,LS 500h,Aug 22,Aug,2022,
+Rolls-Royce,Cullinan,Aug 22,Aug,2022,
+Lexus,NX,Aug 22,Aug,2022,
+Lexus,RX,Aug 22,Aug,2022,
+Lexus,LM 350h,Aug 22,Aug,2022,
+Mini,Cooper SE,Aug 22,Aug,2022,
+Rolls-Royce,Phantom,Aug 22,Aug,2022,
+BYD Auto,Seal EV,Aug 22,Aug,2022,
+Rolls-Royce,Ghost,Aug 22,Aug,2022,
+Rolls-Royce,Wraith,Aug 22,Aug,2022,
+Rolls-Royce,Dawn,Aug 22,Aug,2022,
+Mini,Cooper Countryman,Aug 22,Aug,2022,
+Mini,3 Door,Aug 22,Aug,2022,
+Lexus,LX,Aug 22,Aug,2022,
+Renault,Kiger,Aug 22,Aug,2022,2641.0
+Ferrari,F8 Tributo,Aug 22,Aug,2022,
+Ferrari,SF90 Stradale,Aug 22,Aug,2022,
+Ferrari,812,Aug 22,Aug,2022,
+Maserati,Quattroporte,Aug 22,Aug,2022,
+Isuzu,S-Cab,Aug 22,Aug,2022,
+Maserati,Ghibli,Aug 22,Aug,2022,
+Isuzu,Hi-Lander,Aug 22,Aug,2022,
+Maserati,GranTurismo,Aug 22,Aug,2022,
+Maserati,GranCabrio,Aug 22,Aug,2022,
+Isuzu,V-Cross,Aug 22,Aug,2022,
+Isuzu,MU-X,Aug 22,Aug,2022,
+Isuzu,D-Max,Aug 22,Aug,2022,
+Mclaren,GT,Aug 22,Aug,2022,
+Mclaren,750S,Aug 22,Aug,2022,
+Force,Gurkha,Aug 22,Aug,2022,
+Force,Gurkha 5 Door,Aug 22,Aug,2022,
+Ferrari,Roma,Aug 22,Aug,2022,
+Ferrari,296 GTB,Aug 22,Aug,2022,
+Mercedes-Benz,G-Class,Aug 22,Aug,2022,
+Aston Martin,DBX,Aug 22,Aug,2022,
+Mercedes-Benz,C-Class,Aug 22,Aug,2022,
+Mercedes-Benz,GLS,Aug 22,Aug,2022,
+Mercedes-Benz,A Class Sedan Limousine,Aug 22,Aug,2022,
+Mercedes-Benz,GLA,Aug 22,Aug,2022,
+Mercedes-Benz,GLC,Aug 22,Aug,2022,
+Mercedes-Benz,Maybach S-Class,Aug 22,Aug,2022,
+Mercedes-Benz,E-Class,Aug 22,Aug,2022,
+Mercedes-Benz,GLE-Class,Aug 22,Aug,2022,
+Mercedes-Benz,GLB,Aug 22,Aug,2022,
+Mercedes-Benz,AMG E 53 Cabriolet,Aug 22,Aug,2022,
+Mercedes-Benz,GLC Coupe,Aug 22,Aug,2022,
+Aston Martin,Vantage,Aug 22,Aug,2022,
+Mercedes-Benz,AMG E 53,Aug 22,Aug,2022,
+Mercedes-Benz,AMG A 45 S,Aug 22,Aug,2022,
+Aston Martin,DB 12,Aug 22,Aug,2022,
+Mercedes-Benz,S Class,Aug 22,Aug,2022,
+Pravaig,Defy,Aug 22,Aug,2022,
+Mercedes-Benz,EQS,Aug 22,Aug,2022,
+Mercedes-Benz,AMG GLE 53 Coupe,Aug 22,Aug,2022,
+Mercedes-Benz,AMG GLC 43,Aug 22,Aug,2022,
+Bajaj,Qute (RE60),Aug 22,Aug,2022,
+Strom Motors,R3,Aug 22,Aug,2022,
+Bentley,Bentayga,Aug 22,Aug,2022,
+Porsche,911,Aug 22,Aug,2022,
+Audi,A6,Aug 22,Aug,2022,
+Mercedes-Benz,EQB,Aug 22,Aug,2022,
+Volkswagen,Taigun,Aug 22,Aug,2022,1019.0
+Citroen,C3 Aircross,Aug 22,Aug,2022,0.0
+BYD Auto,E6 Electric,Aug 22,Aug,2022,
+Mercedes-Benz,AMG E 63,Aug 22,Aug,2022,
+Mclaren,720S,Aug 22,Aug,2022,
+Mercedes-Benz,EQE,Aug 22,Aug,2022,
+Tata,Nexon,Aug 22,Aug,2022,15085.0
+Renault,Kwid,Aug 22,Aug,2022,1704.0
+Audi,RS E-Tron GT,Aug 22,Aug,2022,
+Audi,E-Tron GT,Aug 22,Aug,2022,
+Maruti Suzuki,Grand Vitara,Aug 23,Aug,2023,11818.0
+Maruti Suzuki,Celerio,Aug 23,Aug,2023,4038.0
+Maruti Suzuki,Baleno,Aug 23,Aug,2023,18516.0
+Maruti Suzuki,S-Presso,Aug 23,Aug,2023,2606.0
+Maruti Suzuki,Alto K10,Aug 23,Aug,2023,
+Maruti Suzuki,Dzire,Aug 23,Aug,2023,13293.0
+Maruti Suzuki,Ertiga,Aug 23,Aug,2023,12315.0
+Maruti Suzuki,Swift,Aug 23,Aug,2023,18653.0
+Maruti Suzuki,XL6,Aug 23,Aug,2023,4184.0
+Maruti Suzuki,Brezza,Aug 23,Aug,2023,
+Maruti Suzuki,Wagon R,Aug 23,Aug,2023,15578.0
+Maruti Suzuki,Jimny,Aug 23,Aug,2023,3104.0
+Hyundai,Verna,Aug 23,Aug,2023,2576.0
+Hyundai,Aura,Aug 23,Aug,2023,4892.0
+Hyundai,Grand i10 Nios,Aug 23,Aug,2023,
+Maruti Suzuki,Ciaz,Aug 23,Aug,2023,849.0
+Hyundai,Exter,Aug 23,Aug,2023,7430.0
+Hyundai,Creta N Line,Aug 23,Aug,2023,
+Hyundai,Tucson,Aug 23,Aug,2023,236.0
+Maruti Suzuki,Eeco,Aug 23,Aug,2023,11859.0
+Hyundai,i20,Aug 23,Aug,2023,
+Maruti Suzuki,Invicto,Aug 23,Aug,2023,589.0
+Hyundai,Creta,Aug 23,Aug,2023,13832.0
+Hyundai,Alcazar,Aug 23,Aug,2023,1493.0
+Hyundai,Venue,Aug 23,Aug,2023,10948.0
+Tata,Tiago NRG BS6,Aug 23,Aug,2023,
+Tata,Tiago,Aug 23,Aug,2023,9463.0
+Tata,Punch EV,Aug 23,Aug,2023,
+Tata,Tigor,Aug 23,Aug,2023,2947.0
+Tata,Nexon EV,Aug 23,Aug,2023,
+Tata,Altroz,Aug 23,Aug,2023,7825.0
+Tata,Harrier,Aug 23,Aug,2023,1689.0
+Tata,Tiago EV,Aug 23,Aug,2023,
+Hyundai,Venue N Line,Aug 23,Aug,2023,
+Hyundai,Ioniq 5,Aug 23,Aug,2023,130.0
+Tata,Safari,Aug 23,Aug,2023,1019.0
+Tata,Punch,Aug 23,Aug,2023,14523.0
+Hyundai,Kona Electric,Aug 23,Aug,2023,91.0
+Tata,Xpres-T EV,Aug 23,Aug,2023,
+Mahindra,Scorpio Classic,Aug 23,Aug,2023,
+Tata,Altroz CNG,Aug 23,Aug,2023,
+Tata,Altroz Racer,Aug 23,Aug,2023,
+Mahindra,Thar,Aug 23,Aug,2023,
+Toyota,Innova Crysta,Aug 23,Aug,2023,
+Mahindra,XUV700,Aug 23,Aug,2023,
+Mahindra,Bolero,Aug 23,Aug,2023,9092.0
+Mahindra,XUV 400 Electric,Aug 23,Aug,2023,778.0
+Mahindra,Scorpio N,Aug 23,Aug,2023,
+Mahindra,XUV 3X0,Aug 23,Aug,2023,
+Mahindra,Bolero Neo,Aug 23,Aug,2023,
+Mahindra,Bolero Neo Plus,Aug 23,Aug,2023,
+Tata,Tigor CNG,Aug 23,Aug,2023,
+Tata,Tiago CNG,Aug 23,Aug,2023,
+Tata,Punch CNG,Aug 23,Aug,2023,
+Tata,Magic Mantra 10 Seater,Aug 23,Aug,2023,
+Toyota,Fortuner,Aug 23,Aug,2023,2825.0
+Toyota,Innova Hycross,Aug 23,Aug,2023,8666.0
+Toyota,Land Cruiser LC300,Aug 23,Aug,2023,
+Toyota,Hilux,Aug 23,Aug,2023,133.0
+Toyota,Camry,Aug 23,Aug,2023,181.0
+Toyota,Vellfire,Aug 23,Aug,2023,0.0
+Toyota,Fortuner Legender,Aug 23,Aug,2023,
+Toyota,Urban Cruiser HyRyder,Aug 23,Aug,2023,4121.0
+Toyota,Glanza,Aug 23,Aug,2023,4932.0
+Mahindra,KUV100 NXT,Aug 23,Aug,2023,
+Toyota,Taisor,Aug 23,Aug,2023,
+Toyota,Rumion,Aug 23,Aug,2023,
+Mahindra,XUV 300,Aug 23,Aug,2023,4992.0
+BMW,M4 Competition,Aug 23,Aug,2023,
+BMW,X7,Aug 23,Aug,2023,
+KIA,Carens,Aug 23,Aug,2023,4359.0
+BMW,7-Series,Aug 23,Aug,2023,
+BMW,X1,Aug 23,Aug,2023,
+BMW,2 Series Gran Coupe,Aug 23,Aug,2023,
+BMW,3 Series Gran Limousine,Aug 23,Aug,2023,
+BMW,Z4,Aug 23,Aug,2023,
+BMW,M2,Aug 23,Aug,2023,
+BMW,6 Series,Aug 23,Aug,2023,
+BMW,X5,Aug 23,Aug,2023,
+KIA,Sonet,Aug 23,Aug,2023,
+BMW,X3,Aug 23,Aug,2023,
+BMW,M8 Coupe Competition,Aug 23,Aug,2023,
+KIA,EV6,Aug 23,Aug,2023,42.0
+BMW,i7,Aug 23,Aug,2023,
+BMW,XM,Aug 23,Aug,2023,
+MG,Gloster,Aug 23,Aug,2023,240.0
+MG,Comet EV,Aug 23,Aug,2023,651.0
+Honda,Elevate,Aug 23,Aug,2023,2822.0
+Honda,City,Aug 23,Aug,2023,1494.0
+BMW,i5,Aug 23,Aug,2023,
+MG,Astor,Aug 23,Aug,2023,814.0
+MG,Hector,Aug 23,Aug,2023,2059.0
+MG,Hector Plus,Aug 23,Aug,2023,
+MG,ZS EV,Aug 23,Aug,2023,421.0
+BMW,X4,Aug 23,Aug,2023,
+BMW,iX Electric,Aug 23,Aug,2023,
+BMW,3-Series,Aug 23,Aug,2023,
+BMW,iX1,Aug 23,Aug,2023,
+Honda,Amaze,Aug 23,Aug,2023,3564.0
+Honda,City Hybrid,Aug 23,Aug,2023,
+Mahindra,Marazzo,Aug 23,Aug,2023,47.0
+Skoda,Superb,Aug 23,Aug,2023,0.0
+Tata,Magic Express 10 Seater,Aug 23,Aug,2023,
+Volkswagen,Virtus,Aug 23,Aug,2023,2140.0
+BMW,i4,Aug 23,Aug,2023,
+Skoda,Kushaq,Aug 23,Aug,2023,2409.0
+KIA,Seltos,Aug 23,Aug,2023,10698.0
+Tata,Tigor EV,Aug 23,Aug,2023,
+Skoda,Slavia,Aug 23,Aug,2023,1657.0
+Skoda,Kodiaq,Aug 23,Aug,2023,241.0
+Maruti Suzuki,Ignis,Aug 23,Aug,2023,2373.0
+Hyundai,i20 N Line,Aug 23,Aug,2023,
+Maruti Suzuki,Fronx,Aug 23,Aug,2023,12164.0
+Jeep,Grand Cherokee,Aug 23,Aug,2023,
+Land Rover,Range Rover Velar,Aug 23,Aug,2023,
+Land Rover,Range Rover Evoque,Aug 23,Aug,2023,
+Audi,A4,Aug 23,Aug,2023,
+Land Rover,Range Rover,Aug 23,Aug,2023,
+Land Rover,Discovery Sport,Aug 23,Aug,2023,
+Land Rover,Range Rover Sport,Aug 23,Aug,2023,
+Land Rover,Discovery,Aug 23,Aug,2023,
+Jeep,Wrangler,Aug 23,Aug,2023,
+Jeep,Compass,Aug 23,Aug,2023,172.0
+Volkswagen,Tiguan,Aug 23,Aug,2023,91.0
+Audi,Q3,Aug 23,Aug,2023,
+Audi,Q3 Sportback,Aug 23,Aug,2023,
+Jeep,Meridian,Aug 23,Aug,2023,127.0
+Land Rover,Defender,Aug 23,Aug,2023,
+Audi,RS Q8,Aug 23,Aug,2023,
+Audi,RS5,Aug 23,Aug,2023,
+Audi,e-tron,Aug 23,Aug,2023,
+Audi,Q8,Aug 23,Aug,2023,
+Volvo,S90,Aug 23,Aug,2023,
+Audi,A8L,Aug 23,Aug,2023,
+Volvo,XC60,Aug 23,Aug,2023,
+Volvo,XC90,Aug 23,Aug,2023,
+Volvo,XC40 Recharge,Aug 23,Aug,2023,
+Volvo,C40 Recharge,Aug 23,Aug,2023,
+Jaguar,F-Type,Aug 23,Aug,2023,
+Jaguar,I-Pace,Aug 23,Aug,2023,
+Audi,S5 Sportback,Aug 23,Aug,2023,
+Audi,Q5,Aug 23,Aug,2023,
+Jaguar,F-Pace,Aug 23,Aug,2023,
+Audi,Q7,Aug 23,Aug,2023,
+Audi,Q8 e-tron,Aug 23,Aug,2023,
+Porsche,Macan,Aug 23,Aug,2023,
+Porsche,Cayenne,Aug 23,Aug,2023,
+Porsche,Cayenne Coupe,Aug 23,Aug,2023,
+Citroen,C3,Aug 23,Aug,2023,250.0
+Citroen,eC3,Aug 23,Aug,2023,271.0
+Lamborghini,Urus,Aug 23,Aug,2023,
+Citroen,C5 Aircross,Aug 23,Aug,2023,4.0
+Porsche,Panamera,Aug 23,Aug,2023,
+Lamborghini,Revuelto,Aug 23,Aug,2023,
+Porsche,718,Aug 23,Aug,2023,
+BYD Auto,Atto 3,Aug 23,Aug,2023,
+Lamborghini,Huracan EVO,Aug 23,Aug,2023,
+Renault,Triber,Aug 23,Aug,2023,1821.0
+Nissan,Magnite,Aug 23,Aug,2023,2258.0
+Porsche,Taycan,Aug 23,Aug,2023,
+Lexus,LC 500h,Aug 23,Aug,2023,
+Lexus,ES,Aug 23,Aug,2023,
+Lexus,LS 500h,Aug 23,Aug,2023,
+Rolls-Royce,Cullinan,Aug 23,Aug,2023,
+Lexus,NX,Aug 23,Aug,2023,
+Lexus,RX,Aug 23,Aug,2023,
+Lexus,LM 350h,Aug 23,Aug,2023,
+Mini,Cooper SE,Aug 23,Aug,2023,
+Rolls-Royce,Phantom,Aug 23,Aug,2023,
+BYD Auto,Seal EV,Aug 23,Aug,2023,
+Rolls-Royce,Ghost,Aug 23,Aug,2023,
+Rolls-Royce,Wraith,Aug 23,Aug,2023,
+Rolls-Royce,Dawn,Aug 23,Aug,2023,
+Mini,Cooper Countryman,Aug 23,Aug,2023,
+Mini,3 Door,Aug 23,Aug,2023,
+Lexus,LX,Aug 23,Aug,2023,
+Renault,Kiger,Aug 23,Aug,2023,929.0
+Ferrari,F8 Tributo,Aug 23,Aug,2023,
+Ferrari,SF90 Stradale,Aug 23,Aug,2023,
+Ferrari,812,Aug 23,Aug,2023,
+Maserati,Quattroporte,Aug 23,Aug,2023,
+Isuzu,S-Cab,Aug 23,Aug,2023,
+Maserati,Ghibli,Aug 23,Aug,2023,
+Isuzu,Hi-Lander,Aug 23,Aug,2023,
+Maserati,GranTurismo,Aug 23,Aug,2023,
+Maserati,GranCabrio,Aug 23,Aug,2023,
+Isuzu,V-Cross,Aug 23,Aug,2023,
+Isuzu,MU-X,Aug 23,Aug,2023,
+Isuzu,D-Max,Aug 23,Aug,2023,
+Mclaren,GT,Aug 23,Aug,2023,
+Mclaren,750S,Aug 23,Aug,2023,
+Force,Gurkha,Aug 23,Aug,2023,
+Force,Gurkha 5 Door,Aug 23,Aug,2023,
+Ferrari,Roma,Aug 23,Aug,2023,
+Ferrari,296 GTB,Aug 23,Aug,2023,
+Mercedes-Benz,G-Class,Aug 23,Aug,2023,
+Aston Martin,DBX,Aug 23,Aug,2023,
+Mercedes-Benz,C-Class,Aug 23,Aug,2023,
+Mercedes-Benz,GLS,Aug 23,Aug,2023,
+Mercedes-Benz,A Class Sedan Limousine,Aug 23,Aug,2023,
+Mercedes-Benz,GLA,Aug 23,Aug,2023,
+Mercedes-Benz,GLC,Aug 23,Aug,2023,
+Mercedes-Benz,Maybach S-Class,Aug 23,Aug,2023,
+Mercedes-Benz,E-Class,Aug 23,Aug,2023,
+Mercedes-Benz,GLE-Class,Aug 23,Aug,2023,
+Mercedes-Benz,GLB,Aug 23,Aug,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,Aug 23,Aug,2023,
+Mercedes-Benz,GLC Coupe,Aug 23,Aug,2023,
+Aston Martin,Vantage,Aug 23,Aug,2023,
+Mercedes-Benz,AMG E 53,Aug 23,Aug,2023,
+Mercedes-Benz,AMG A 45 S,Aug 23,Aug,2023,
+Aston Martin,DB 12,Aug 23,Aug,2023,
+Mercedes-Benz,S Class,Aug 23,Aug,2023,
+Pravaig,Defy,Aug 23,Aug,2023,
+Mercedes-Benz,EQS,Aug 23,Aug,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,Aug 23,Aug,2023,
+Mercedes-Benz,AMG GLC 43,Aug 23,Aug,2023,
+Bajaj,Qute (RE60),Aug 23,Aug,2023,
+Strom Motors,R3,Aug 23,Aug,2023,
+Bentley,Bentayga,Aug 23,Aug,2023,
+Porsche,911,Aug 23,Aug,2023,
+Audi,A6,Aug 23,Aug,2023,
+Mercedes-Benz,EQB,Aug 23,Aug,2023,
+Volkswagen,Taigun,Aug 23,Aug,2023,1943.0
+Citroen,C3 Aircross,Aug 23,Aug,2023,51.0
+BYD Auto,E6 Electric,Aug 23,Aug,2023,
+Mercedes-Benz,AMG E 63,Aug 23,Aug,2023,
+Mclaren,720S,Aug 23,Aug,2023,
+Mercedes-Benz,EQE,Aug 23,Aug,2023,
+Tata,Nexon,Aug 23,Aug,2023,8049.0
+Renault,Kwid,Aug 23,Aug,2023,883.0
+Audi,RS E-Tron GT,Aug 23,Aug,2023,
+Audi,E-Tron GT,Aug 23,Aug,2023,
+Maruti Suzuki,Grand Vitara,Dec 22,Dec,2022,6171.0
+Maruti Suzuki,Celerio,Dec 22,Dec,2022,1090.0
+Maruti Suzuki,Baleno,Dec 22,Dec,2022,16932.0
+Maruti Suzuki,S-Presso,Dec 22,Dec,2022,1117.0
+Maruti Suzuki,Alto K10,Dec 22,Dec,2022,
+Maruti Suzuki,Dzire,Dec 22,Dec,2022,11997.0
+Maruti Suzuki,Ertiga,Dec 22,Dec,2022,12273.0
+Maruti Suzuki,Swift,Dec 22,Dec,2022,12061.0
+Maruti Suzuki,XL6,Dec 22,Dec,2022,3364.0
+Maruti Suzuki,Brezza,Dec 22,Dec,2022,
+Maruti Suzuki,Wagon R,Dec 22,Dec,2022,10181.0
+Maruti Suzuki,Jimny,Dec 22,Dec,2022,0.0
+Hyundai,Verna,Dec 22,Dec,2022,1538.0
+Hyundai,Aura,Dec 22,Dec,2022,4156.0
+Hyundai,Grand i10 Nios,Dec 22,Dec,2022,
+Maruti Suzuki,Ciaz,Dec 22,Dec,2022,1154.0
+Hyundai,Exter,Dec 22,Dec,2022,0.0
+Hyundai,Creta N Line,Dec 22,Dec,2022,
+Hyundai,Tucson,Dec 22,Dec,2022,12.0
+Maruti Suzuki,Eeco,Dec 22,Dec,2022,10581.0
+Hyundai,i20,Dec 22,Dec,2022,
+Maruti Suzuki,Invicto,Dec 22,Dec,2022,0.0
+Hyundai,Creta,Dec 22,Dec,2022,10205.0
+Hyundai,Alcazar,Dec 22,Dec,2022,1478.0
+Hyundai,Venue,Dec 22,Dec,2022,8285.0
+Tata,Tiago NRG BS6,Dec 22,Dec,2022,
+Tata,Tiago,Dec 22,Dec,2022,6052.0
+Tata,Punch EV,Dec 22,Dec,2022,
+Tata,Tigor,Dec 22,Dec,2022,3669.0
+Tata,Nexon EV,Dec 22,Dec,2022,
+Tata,Altroz,Dec 22,Dec,2022,4055.0
+Tata,Harrier,Dec 22,Dec,2022,2128.0
+Tata,Tiago EV,Dec 22,Dec,2022,
+Hyundai,Venue N Line,Dec 22,Dec,2022,
+Hyundai,Ioniq 5,Dec 22,Dec,2022,0.0
+Tata,Safari,Dec 22,Dec,2022,1502.0
+Tata,Punch,Dec 22,Dec,2022,10586.0
+Hyundai,Kona Electric,Dec 22,Dec,2022,120.0
+Tata,Xpres-T EV,Dec 22,Dec,2022,
+Mahindra,Scorpio Classic,Dec 22,Dec,2022,
+Tata,Altroz CNG,Dec 22,Dec,2022,
+Tata,Altroz Racer,Dec 22,Dec,2022,
+Mahindra,Thar,Dec 22,Dec,2022,3374.0
+Toyota,Innova Crysta,Dec 22,Dec,2022,
+Mahindra,XUV700,Dec 22,Dec,2022,5623.0
+Mahindra,Bolero,Dec 22,Dec,2022,7311.0
+Mahindra,XUV 400 Electric,Dec 22,Dec,2022,
+Mahindra,Scorpio N,Dec 22,Dec,2022,
+Mahindra,XUV 3X0,Dec 22,Dec,2022,
+Mahindra,Bolero Neo,Dec 22,Dec,2022,
+Mahindra,Bolero Neo Plus,Dec 22,Dec,2022,
+Tata,Tigor CNG,Dec 22,Dec,2022,
+Tata,Tiago CNG,Dec 22,Dec,2022,
+Tata,Punch CNG,Dec 22,Dec,2022,
+Tata,Magic Mantra 10 Seater,Dec 22,Dec,2022,
+Toyota,Fortuner,Dec 22,Dec,2022,1603.0
+Toyota,Innova Hycross,Dec 22,Dec,2022,36.0
+Toyota,Land Cruiser LC300,Dec 22,Dec,2022,
+Toyota,Hilux,Dec 22,Dec,2022,5.0
+Toyota,Camry,Dec 22,Dec,2022,71.0
+Toyota,Vellfire,Dec 22,Dec,2022,40.0
+Toyota,Fortuner Legender,Dec 22,Dec,2022,
+Toyota,Urban Cruiser HyRyder,Dec 22,Dec,2022,4201.0
+Toyota,Glanza,Dec 22,Dec,2022,4465.0
+Mahindra,KUV100 NXT,Dec 22,Dec,2022,
+Toyota,Taisor,Dec 22,Dec,2022,
+Toyota,Rumion,Dec 22,Dec,2022,0.0
+Mahindra,XUV 300,Dec 22,Dec,2022,4850.0
+BMW,M4 Competition,Dec 22,Dec,2022,
+BMW,X7,Dec 22,Dec,2022,
+KIA,Carens,Dec 22,Dec,2022,3195.0
+BMW,7-Series,Dec 22,Dec,2022,
+BMW,X1,Dec 22,Dec,2022,
+BMW,2 Series Gran Coupe,Dec 22,Dec,2022,
+BMW,3 Series Gran Limousine,Dec 22,Dec,2022,
+BMW,Z4,Dec 22,Dec,2022,
+BMW,M2,Dec 22,Dec,2022,
+BMW,6 Series,Dec 22,Dec,2022,
+BMW,X5,Dec 22,Dec,2022,
+KIA,Sonet,Dec 22,Dec,2022,5772.0
+BMW,X3,Dec 22,Dec,2022,
+BMW,M8 Coupe Competition,Dec 22,Dec,2022,
+KIA,EV6,Dec 22,Dec,2022,134.0
+BMW,i7,Dec 22,Dec,2022,
+BMW,XM,Dec 22,Dec,2022,
+MG,Gloster,Dec 22,Dec,2022,111.0
+MG,Comet EV,Dec 22,Dec,2022,0.0
+Honda,Elevate,Dec 22,Dec,2022,0.0
+Honda,City,Dec 22,Dec,2022,3086.0
+BMW,i5,Dec 22,Dec,2022,
+MG,Astor,Dec 22,Dec,2022,1687.0
+MG,Hector,Dec 22,Dec,2022,1575.0
+MG,Hector Plus,Dec 22,Dec,2022,
+MG,ZS EV,Dec 22,Dec,2022,526.0
+BMW,X4,Dec 22,Dec,2022,
+BMW,iX Electric,Dec 22,Dec,2022,
+BMW,3-Series,Dec 22,Dec,2022,
+BMW,iX1,Dec 22,Dec,2022,
+Honda,Amaze,Dec 22,Dec,2022,3614.0
+Honda,City Hybrid,Dec 22,Dec,2022,
+Mahindra,Marazzo,Dec 22,Dec,2022,171.0
+Skoda,Superb,Dec 22,Dec,2022,110.0
+Tata,Magic Express 10 Seater,Dec 22,Dec,2022,
+Volkswagen,Virtus,Dec 22,Dec,2022,1888.0
+BMW,i4,Dec 22,Dec,2022,
+Skoda,Kushaq,Dec 22,Dec,2022,2186.0
+KIA,Seltos,Dec 22,Dec,2022,5995.0
+Tata,Tigor EV,Dec 22,Dec,2022,
+Skoda,Slavia,Dec 22,Dec,2022,2257.0
+Skoda,Kodiaq,Dec 22,Dec,2022,107.0
+Maruti Suzuki,Ignis,Dec 22,Dec,2022,5241.0
+Hyundai,i20 N Line,Dec 22,Dec,2022,
+Maruti Suzuki,Fronx,Dec 22,Dec,2022,0.0
+Jeep,Grand Cherokee,Dec 22,Dec,2022,
+Land Rover,Range Rover Velar,Dec 22,Dec,2022,
+Land Rover,Range Rover Evoque,Dec 22,Dec,2022,
+Audi,A4,Dec 22,Dec,2022,
+Land Rover,Range Rover,Dec 22,Dec,2022,
+Land Rover,Discovery Sport,Dec 22,Dec,2022,
+Land Rover,Range Rover Sport,Dec 22,Dec,2022,
+Land Rover,Discovery,Dec 22,Dec,2022,
+Jeep,Wrangler,Dec 22,Dec,2022,
+Jeep,Compass,Dec 22,Dec,2022,484.0
+Volkswagen,Tiguan,Dec 22,Dec,2022,130.0
+Audi,Q3,Dec 22,Dec,2022,
+Audi,Q3 Sportback,Dec 22,Dec,2022,
+Jeep,Meridian,Dec 22,Dec,2022,285.0
+Land Rover,Defender,Dec 22,Dec,2022,
+Audi,RS Q8,Dec 22,Dec,2022,
+Audi,RS5,Dec 22,Dec,2022,
+Audi,e-tron,Dec 22,Dec,2022,
+Audi,Q8,Dec 22,Dec,2022,
+Volvo,S90,Dec 22,Dec,2022,
+Audi,A8L,Dec 22,Dec,2022,
+Volvo,XC60,Dec 22,Dec,2022,
+Volvo,XC90,Dec 22,Dec,2022,
+Volvo,XC40 Recharge,Dec 22,Dec,2022,
+Volvo,C40 Recharge,Dec 22,Dec,2022,
+Jaguar,F-Type,Dec 22,Dec,2022,
+Jaguar,I-Pace,Dec 22,Dec,2022,
+Audi,S5 Sportback,Dec 22,Dec,2022,
+Audi,Q5,Dec 22,Dec,2022,
+Jaguar,F-Pace,Dec 22,Dec,2022,
+Audi,Q7,Dec 22,Dec,2022,
+Audi,Q8 e-tron,Dec 22,Dec,2022,
+Porsche,Macan,Dec 22,Dec,2022,
+Porsche,Cayenne,Dec 22,Dec,2022,
+Porsche,Cayenne Coupe,Dec 22,Dec,2022,
+Citroen,C3,Dec 22,Dec,2022,913.0
+Citroen,eC3,Dec 22,Dec,2022,0.0
+Lamborghini,Urus,Dec 22,Dec,2022,
+Citroen,C5 Aircross,Dec 22,Dec,2022,19.0
+Porsche,Panamera,Dec 22,Dec,2022,
+Lamborghini,Revuelto,Dec 22,Dec,2022,
+Porsche,718,Dec 22,Dec,2022,
+BYD Auto,Atto 3,Dec 22,Dec,2022,
+Lamborghini,Huracan EVO,Dec 22,Dec,2022,
+Renault,Triber,Dec 22,Dec,2022,2203.0
+Nissan,Magnite,Dec 22,Dec,2022,2020.0
+Porsche,Taycan,Dec 22,Dec,2022,
+Lexus,LC 500h,Dec 22,Dec,2022,
+Lexus,ES,Dec 22,Dec,2022,
+Lexus,LS 500h,Dec 22,Dec,2022,
+Rolls-Royce,Cullinan,Dec 22,Dec,2022,
+Lexus,NX,Dec 22,Dec,2022,
+Lexus,RX,Dec 22,Dec,2022,
+Lexus,LM 350h,Dec 22,Dec,2022,
+Mini,Cooper SE,Dec 22,Dec,2022,
+Rolls-Royce,Phantom,Dec 22,Dec,2022,
+BYD Auto,Seal EV,Dec 22,Dec,2022,
+Rolls-Royce,Ghost,Dec 22,Dec,2022,
+Rolls-Royce,Wraith,Dec 22,Dec,2022,
+Rolls-Royce,Dawn,Dec 22,Dec,2022,
+Mini,Cooper Countryman,Dec 22,Dec,2022,
+Mini,3 Door,Dec 22,Dec,2022,
+Lexus,LX,Dec 22,Dec,2022,
+Renault,Kiger,Dec 22,Dec,2022,2096.0
+Ferrari,F8 Tributo,Dec 22,Dec,2022,
+Ferrari,SF90 Stradale,Dec 22,Dec,2022,
+Ferrari,812,Dec 22,Dec,2022,
+Maserati,Quattroporte,Dec 22,Dec,2022,
+Isuzu,S-Cab,Dec 22,Dec,2022,
+Maserati,Ghibli,Dec 22,Dec,2022,
+Isuzu,Hi-Lander,Dec 22,Dec,2022,
+Maserati,GranTurismo,Dec 22,Dec,2022,
+Maserati,GranCabrio,Dec 22,Dec,2022,
+Isuzu,V-Cross,Dec 22,Dec,2022,
+Isuzu,MU-X,Dec 22,Dec,2022,
+Isuzu,D-Max,Dec 22,Dec,2022,
+Mclaren,GT,Dec 22,Dec,2022,
+Mclaren,750S,Dec 22,Dec,2022,
+Force,Gurkha,Dec 22,Dec,2022,
+Force,Gurkha 5 Door,Dec 22,Dec,2022,
+Ferrari,Roma,Dec 22,Dec,2022,
+Ferrari,296 GTB,Dec 22,Dec,2022,
+Mercedes-Benz,G-Class,Dec 22,Dec,2022,
+Aston Martin,DBX,Dec 22,Dec,2022,
+Mercedes-Benz,C-Class,Dec 22,Dec,2022,
+Mercedes-Benz,GLS,Dec 22,Dec,2022,
+Mercedes-Benz,A Class Sedan Limousine,Dec 22,Dec,2022,
+Mercedes-Benz,GLA,Dec 22,Dec,2022,
+Mercedes-Benz,GLC,Dec 22,Dec,2022,
+Mercedes-Benz,Maybach S-Class,Dec 22,Dec,2022,
+Mercedes-Benz,E-Class,Dec 22,Dec,2022,
+Mercedes-Benz,GLE-Class,Dec 22,Dec,2022,
+Mercedes-Benz,GLB,Dec 22,Dec,2022,
+Mercedes-Benz,AMG E 53 Cabriolet,Dec 22,Dec,2022,
+Mercedes-Benz,GLC Coupe,Dec 22,Dec,2022,
+Aston Martin,Vantage,Dec 22,Dec,2022,
+Mercedes-Benz,AMG E 53,Dec 22,Dec,2022,
+Mercedes-Benz,AMG A 45 S,Dec 22,Dec,2022,
+Aston Martin,DB 12,Dec 22,Dec,2022,
+Mercedes-Benz,S Class,Dec 22,Dec,2022,
+Pravaig,Defy,Dec 22,Dec,2022,
+Mercedes-Benz,EQS,Dec 22,Dec,2022,
+Mercedes-Benz,AMG GLE 53 Coupe,Dec 22,Dec,2022,
+Mercedes-Benz,AMG GLC 43,Dec 22,Dec,2022,
+Bajaj,Qute (RE60),Dec 22,Dec,2022,
+Strom Motors,R3,Dec 22,Dec,2022,
+Bentley,Bentayga,Dec 22,Dec,2022,
+Porsche,911,Dec 22,Dec,2022,
+Audi,A6,Dec 22,Dec,2022,
+Mercedes-Benz,EQB,Dec 22,Dec,2022,
+Volkswagen,Taigun,Dec 22,Dec,2022,2691.0
+Citroen,C3 Aircross,Dec 22,Dec,2022,0.0
+BYD Auto,E6 Electric,Dec 22,Dec,2022,
+Mercedes-Benz,AMG E 63,Dec 22,Dec,2022,
+Mclaren,720S,Dec 22,Dec,2022,
+Mercedes-Benz,EQE,Dec 22,Dec,2022,
+Tata,Nexon,Dec 22,Dec,2022,12053.0
+Renault,Kwid,Dec 22,Dec,2022,1827.0
+Audi,RS E-Tron GT,Dec 22,Dec,2022,
+Audi,E-Tron GT,Dec 22,Dec,2022,
+Maruti Suzuki,Grand Vitara,Dec 23,Dec,2023,6988.0
+Maruti Suzuki,Celerio,Dec 23,Dec,2023,247.0
+Maruti Suzuki,Baleno,Dec 23,Dec,2023,10669.0
+Maruti Suzuki,S-Presso,Dec 23,Dec,2023,60.0
+Maruti Suzuki,Alto K10,Dec 23,Dec,2023,
+Maruti Suzuki,Dzire,Dec 23,Dec,2023,14012.0
+Maruti Suzuki,Ertiga,Dec 23,Dec,2023,12975.0
+Maruti Suzuki,Swift,Dec 23,Dec,2023,11843.0
+Maruti Suzuki,XL6,Dec 23,Dec,2023,2226.0
+Maruti Suzuki,Brezza,Dec 23,Dec,2023,
+Maruti Suzuki,Wagon R,Dec 23,Dec,2023,8578.0
+Maruti Suzuki,Jimny,Dec 23,Dec,2023,730.0
+Hyundai,Verna,Dec 23,Dec,2023,712.0
+Hyundai,Aura,Dec 23,Dec,2023,3812.0
+Hyundai,Grand i10 Nios,Dec 23,Dec,2023,
+Maruti Suzuki,Ciaz,Dec 23,Dec,2023,489.0
+Hyundai,Exter,Dec 23,Dec,2023,7516.0
+Hyundai,Creta N Line,Dec 23,Dec,2023,
+Hyundai,Tucson,Dec 23,Dec,2023,209.0
+Maruti Suzuki,Eeco,Dec 23,Dec,2023,10034.0
+Hyundai,i20,Dec 23,Dec,2023,
+Maruti Suzuki,Invicto,Dec 23,Dec,2023,502.0
+Hyundai,Creta,Dec 23,Dec,2023,9243.0
+Hyundai,Alcazar,Dec 23,Dec,2023,954.0
+Hyundai,Venue,Dec 23,Dec,2023,10383.0
+Tata,Tiago NRG BS6,Dec 23,Dec,2023,
+Tata,Tiago,Dec 23,Dec,2023,4852.0
+Tata,Punch EV,Dec 23,Dec,2023,
+Tata,Tigor,Dec 23,Dec,2023,1960.0
+Tata,Nexon EV,Dec 23,Dec,2023,
+Tata,Altroz,Dec 23,Dec,2023,4081.0
+Tata,Harrier,Dec 23,Dec,2023,1404.0
+Tata,Tiago EV,Dec 23,Dec,2023,
+Hyundai,Venue N Line,Dec 23,Dec,2023,
+Hyundai,Ioniq 5,Dec 23,Dec,2023,81.0
+Tata,Safari,Dec 23,Dec,2023,2103.0
+Tata,Punch,Dec 23,Dec,2023,13787.0
+Hyundai,Kona Electric,Dec 23,Dec,2023,19.0
+Tata,Xpres-T EV,Dec 23,Dec,2023,
+Mahindra,Scorpio Classic,Dec 23,Dec,2023,
+Tata,Altroz CNG,Dec 23,Dec,2023,
+Tata,Altroz Racer,Dec 23,Dec,2023,
+Mahindra,Thar,Dec 23,Dec,2023,5793.0
+Toyota,Innova Crysta,Dec 23,Dec,2023,
+Mahindra,XUV700,Dec 23,Dec,2023,5881.0
+Mahindra,Bolero,Dec 23,Dec,2023,7995.0
+Mahindra,XUV 400 Electric,Dec 23,Dec,2023,
+Mahindra,Scorpio N,Dec 23,Dec,2023,
+Mahindra,XUV 3X0,Dec 23,Dec,2023,
+Mahindra,Bolero Neo,Dec 23,Dec,2023,
+Mahindra,Bolero Neo Plus,Dec 23,Dec,2023,
+Tata,Tigor CNG,Dec 23,Dec,2023,
+Tata,Tiago CNG,Dec 23,Dec,2023,
+Tata,Punch CNG,Dec 23,Dec,2023,
+Tata,Magic Mantra 10 Seater,Dec 23,Dec,2023,
+Toyota,Fortuner,Dec 23,Dec,2023,3104.0
+Toyota,Innova Hycross,Dec 23,Dec,2023,7832.0
+Toyota,Land Cruiser LC300,Dec 23,Dec,2023,
+Toyota,Hilux,Dec 23,Dec,2023,322.0
+Toyota,Camry,Dec 23,Dec,2023,180.0
+Toyota,Vellfire,Dec 23,Dec,2023,37.0
+Toyota,Fortuner Legender,Dec 23,Dec,2023,
+Toyota,Urban Cruiser HyRyder,Dec 23,Dec,2023,4976.0
+Toyota,Glanza,Dec 23,Dec,2023,4088.0
+Mahindra,KUV100 NXT,Dec 23,Dec,2023,
+Toyota,Taisor,Dec 23,Dec,2023,
+Toyota,Rumion,Dec 23,Dec,2023,833.0
+Mahindra,XUV 300,Dec 23,Dec,2023,3550.0
+BMW,M4 Competition,Dec 23,Dec,2023,
+BMW,X7,Dec 23,Dec,2023,
+KIA,Carens,Dec 23,Dec,2023,2563.0
+BMW,7-Series,Dec 23,Dec,2023,
+BMW,X1,Dec 23,Dec,2023,
+BMW,2 Series Gran Coupe,Dec 23,Dec,2023,
+BMW,3 Series Gran Limousine,Dec 23,Dec,2023,
+BMW,Z4,Dec 23,Dec,2023,
+BMW,M2,Dec 23,Dec,2023,
+BMW,6 Series,Dec 23,Dec,2023,
+BMW,X5,Dec 23,Dec,2023,
+KIA,Sonet,Dec 23,Dec,2023,10.0
+BMW,X3,Dec 23,Dec,2023,
+BMW,M8 Coupe Competition,Dec 23,Dec,2023,
+KIA,EV6,Dec 23,Dec,2023,6.0
+BMW,i7,Dec 23,Dec,2023,
+BMW,XM,Dec 23,Dec,2023,
+MG,Gloster,Dec 23,Dec,2023,140.0
+MG,Comet EV,Dec 23,Dec,2023,791.0
+Honda,Elevate,Dec 23,Dec,2023,4376.0
+Honda,City,Dec 23,Dec,2023,1112.0
+BMW,i5,Dec 23,Dec,2023,
+MG,Astor,Dec 23,Dec,2023,821.0
+MG,Hector,Dec 23,Dec,2023,2184.0
+MG,Hector Plus,Dec 23,Dec,2023,
+MG,ZS EV,Dec 23,Dec,2023,464.0
+BMW,X4,Dec 23,Dec,2023,
+BMW,iX Electric,Dec 23,Dec,2023,
+BMW,3-Series,Dec 23,Dec,2023,
+BMW,iX1,Dec 23,Dec,2023,
+Honda,Amaze,Dec 23,Dec,2023,2414.0
+Honda,City Hybrid,Dec 23,Dec,2023,
+Mahindra,Marazzo,Dec 23,Dec,2023,62.0
+Skoda,Superb,Dec 23,Dec,2023,0.0
+Tata,Magic Express 10 Seater,Dec 23,Dec,2023,
+Volkswagen,Virtus,Dec 23,Dec,2023,2199.0
+BMW,i4,Dec 23,Dec,2023,
+Skoda,Kushaq,Dec 23,Dec,2023,2485.0
+KIA,Seltos,Dec 23,Dec,2023,9957.0
+Tata,Tigor EV,Dec 23,Dec,2023,
+Skoda,Slavia,Dec 23,Dec,2023,1960.0
+Skoda,Kodiaq,Dec 23,Dec,2023,225.0
+Maruti Suzuki,Ignis,Dec 23,Dec,2023,392.0
+Hyundai,i20 N Line,Dec 23,Dec,2023,
+Maruti Suzuki,Fronx,Dec 23,Dec,2023,9692.0
+Jeep,Grand Cherokee,Dec 23,Dec,2023,
+Land Rover,Range Rover Velar,Dec 23,Dec,2023,
+Land Rover,Range Rover Evoque,Dec 23,Dec,2023,
+Audi,A4,Dec 23,Dec,2023,
+Land Rover,Range Rover,Dec 23,Dec,2023,
+Land Rover,Discovery Sport,Dec 23,Dec,2023,
+Land Rover,Range Rover Sport,Dec 23,Dec,2023,
+Land Rover,Discovery,Dec 23,Dec,2023,
+Jeep,Wrangler,Dec 23,Dec,2023,
+Jeep,Compass,Dec 23,Dec,2023,246.0
+Volkswagen,Tiguan,Dec 23,Dec,2023,275.0
+Audi,Q3,Dec 23,Dec,2023,
+Audi,Q3 Sportback,Dec 23,Dec,2023,
+Jeep,Meridian,Dec 23,Dec,2023,190.0
+Land Rover,Defender,Dec 23,Dec,2023,
+Audi,RS Q8,Dec 23,Dec,2023,
+Audi,RS5,Dec 23,Dec,2023,
+Audi,e-tron,Dec 23,Dec,2023,
+Audi,Q8,Dec 23,Dec,2023,
+Volvo,S90,Dec 23,Dec,2023,
+Audi,A8L,Dec 23,Dec,2023,
+Volvo,XC60,Dec 23,Dec,2023,
+Volvo,XC90,Dec 23,Dec,2023,
+Volvo,XC40 Recharge,Dec 23,Dec,2023,
+Volvo,C40 Recharge,Dec 23,Dec,2023,
+Jaguar,F-Type,Dec 23,Dec,2023,
+Jaguar,I-Pace,Dec 23,Dec,2023,
+Audi,S5 Sportback,Dec 23,Dec,2023,
+Audi,Q5,Dec 23,Dec,2023,
+Jaguar,F-Pace,Dec 23,Dec,2023,
+Audi,Q7,Dec 23,Dec,2023,
+Audi,Q8 e-tron,Dec 23,Dec,2023,
+Porsche,Macan,Dec 23,Dec,2023,
+Porsche,Cayenne,Dec 23,Dec,2023,
+Porsche,Cayenne Coupe,Dec 23,Dec,2023,
+Citroen,C3,Dec 23,Dec,2023,309.0
+Citroen,eC3,Dec 23,Dec,2023,0.0
+Lamborghini,Urus,Dec 23,Dec,2023,
+Citroen,C5 Aircross,Dec 23,Dec,2023,2.0
+Porsche,Panamera,Dec 23,Dec,2023,
+Lamborghini,Revuelto,Dec 23,Dec,2023,
+Porsche,718,Dec 23,Dec,2023,
+BYD Auto,Atto 3,Dec 23,Dec,2023,
+Lamborghini,Huracan EVO,Dec 23,Dec,2023,
+Renault,Triber,Dec 23,Dec,2023,665.0
+Nissan,Magnite,Dec 23,Dec,2023,2150.0
+Porsche,Taycan,Dec 23,Dec,2023,
+Lexus,LC 500h,Dec 23,Dec,2023,
+Lexus,ES,Dec 23,Dec,2023,
+Lexus,LS 500h,Dec 23,Dec,2023,
+Rolls-Royce,Cullinan,Dec 23,Dec,2023,
+Lexus,NX,Dec 23,Dec,2023,
+Lexus,RX,Dec 23,Dec,2023,
+Lexus,LM 350h,Dec 23,Dec,2023,
+Mini,Cooper SE,Dec 23,Dec,2023,
+Rolls-Royce,Phantom,Dec 23,Dec,2023,
+BYD Auto,Seal EV,Dec 23,Dec,2023,
+Rolls-Royce,Ghost,Dec 23,Dec,2023,
+Rolls-Royce,Wraith,Dec 23,Dec,2023,
+Rolls-Royce,Dawn,Dec 23,Dec,2023,
+Mini,Cooper Countryman,Dec 23,Dec,2023,
+Mini,3 Door,Dec 23,Dec,2023,
+Lexus,LX,Dec 23,Dec,2023,
+Renault,Kiger,Dec 23,Dec,2023,865.0
+Ferrari,F8 Tributo,Dec 23,Dec,2023,
+Ferrari,SF90 Stradale,Dec 23,Dec,2023,
+Ferrari,812,Dec 23,Dec,2023,
+Maserati,Quattroporte,Dec 23,Dec,2023,
+Isuzu,S-Cab,Dec 23,Dec,2023,
+Maserati,Ghibli,Dec 23,Dec,2023,
+Isuzu,Hi-Lander,Dec 23,Dec,2023,
+Maserati,GranTurismo,Dec 23,Dec,2023,
+Maserati,GranCabrio,Dec 23,Dec,2023,
+Isuzu,V-Cross,Dec 23,Dec,2023,
+Isuzu,MU-X,Dec 23,Dec,2023,
+Isuzu,D-Max,Dec 23,Dec,2023,
+Mclaren,GT,Dec 23,Dec,2023,
+Mclaren,750S,Dec 23,Dec,2023,
+Force,Gurkha,Dec 23,Dec,2023,
+Force,Gurkha 5 Door,Dec 23,Dec,2023,
+Ferrari,Roma,Dec 23,Dec,2023,
+Ferrari,296 GTB,Dec 23,Dec,2023,
+Mercedes-Benz,G-Class,Dec 23,Dec,2023,
+Aston Martin,DBX,Dec 23,Dec,2023,
+Mercedes-Benz,C-Class,Dec 23,Dec,2023,
+Mercedes-Benz,GLS,Dec 23,Dec,2023,
+Mercedes-Benz,A Class Sedan Limousine,Dec 23,Dec,2023,
+Mercedes-Benz,GLA,Dec 23,Dec,2023,
+Mercedes-Benz,GLC,Dec 23,Dec,2023,
+Mercedes-Benz,Maybach S-Class,Dec 23,Dec,2023,
+Mercedes-Benz,E-Class,Dec 23,Dec,2023,
+Mercedes-Benz,GLE-Class,Dec 23,Dec,2023,
+Mercedes-Benz,GLB,Dec 23,Dec,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,Dec 23,Dec,2023,
+Mercedes-Benz,GLC Coupe,Dec 23,Dec,2023,
+Aston Martin,Vantage,Dec 23,Dec,2023,
+Mercedes-Benz,AMG E 53,Dec 23,Dec,2023,
+Mercedes-Benz,AMG A 45 S,Dec 23,Dec,2023,
+Aston Martin,DB 12,Dec 23,Dec,2023,
+Mercedes-Benz,S Class,Dec 23,Dec,2023,
+Pravaig,Defy,Dec 23,Dec,2023,
+Mercedes-Benz,EQS,Dec 23,Dec,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,Dec 23,Dec,2023,
+Mercedes-Benz,AMG GLC 43,Dec 23,Dec,2023,
+Bajaj,Qute (RE60),Dec 23,Dec,2023,
+Strom Motors,R3,Dec 23,Dec,2023,
+Bentley,Bentayga,Dec 23,Dec,2023,
+Porsche,911,Dec 23,Dec,2023,
+Audi,A6,Dec 23,Dec,2023,
+Mercedes-Benz,EQB,Dec 23,Dec,2023,
+Volkswagen,Taigun,Dec 23,Dec,2023,2456.0
+Citroen,C3 Aircross,Dec 23,Dec,2023,339.0
+BYD Auto,E6 Electric,Dec 23,Dec,2023,
+Mercedes-Benz,AMG E 63,Dec 23,Dec,2023,
+Mclaren,720S,Dec 23,Dec,2023,
+Mercedes-Benz,EQE,Dec 23,Dec,2023,
+Tata,Nexon,Dec 23,Dec,2023,15284.0
+Renault,Kwid,Dec 23,Dec,2023,457.0
+Audi,RS E-Tron GT,Dec 23,Dec,2023,
+Audi,E-Tron GT,Dec 23,Dec,2023,
+Maruti Suzuki,Grand Vitara,Feb 23,Feb,2023,9183.0
+Maruti Suzuki,Celerio,Feb 23,Feb,2023,4458.0
+Maruti Suzuki,Baleno,Feb 23,Feb,2023,18592.0
+Maruti Suzuki,S-Presso,Feb 23,Feb,2023,3761.0
+Maruti Suzuki,Alto K10,Feb 23,Feb,2023,
+Maruti Suzuki,Dzire,Feb 23,Feb,2023,16798.0
+Maruti Suzuki,Ertiga,Feb 23,Feb,2023,6472.0
+Maruti Suzuki,Swift,Feb 23,Feb,2023,18412.0
+Maruti Suzuki,XL6,Feb 23,Feb,2023,2108.0
+Maruti Suzuki,Brezza,Feb 23,Feb,2023,
+Maruti Suzuki,Wagon R,Feb 23,Feb,2023,16889.0
+Maruti Suzuki,Jimny,Feb 23,Feb,2023,0.0
+Hyundai,Verna,Feb 23,Feb,2023,47.0
+Hyundai,Aura,Feb 23,Feb,2023,5524.0
+Hyundai,Grand i10 Nios,Feb 23,Feb,2023,
+Maruti Suzuki,Ciaz,Feb 23,Feb,2023,792.0
+Hyundai,Exter,Feb 23,Feb,2023,0.0
+Hyundai,Creta N Line,Feb 23,Feb,2023,
+Hyundai,Tucson,Feb 23,Feb,2023,498.0
+Maruti Suzuki,Eeco,Feb 23,Feb,2023,11352.0
+Hyundai,i20,Feb 23,Feb,2023,
+Maruti Suzuki,Invicto,Feb 23,Feb,2023,0.0
+Hyundai,Creta,Feb 23,Feb,2023,10421.0
+Hyundai,Alcazar,Feb 23,Feb,2023,1559.0
+Hyundai,Venue,Feb 23,Feb,2023,9997.0
+Tata,Tiago NRG BS6,Feb 23,Feb,2023,
+Tata,Tiago,Feb 23,Feb,2023,7457.0
+Tata,Punch EV,Feb 23,Feb,2023,
+Tata,Tigor,Feb 23,Feb,2023,3064.0
+Tata,Nexon EV,Feb 23,Feb,2023,
+Tata,Altroz,Feb 23,Feb,2023,3955.0
+Tata,Harrier,Feb 23,Feb,2023,2054.0
+Tata,Tiago EV,Feb 23,Feb,2023,
+Hyundai,Venue N Line,Feb 23,Feb,2023,
+Hyundai,Ioniq 5,Feb 23,Feb,2023,0.0
+Tata,Safari,Feb 23,Feb,2023,1252.0
+Tata,Punch,Feb 23,Feb,2023,11169.0
+Hyundai,Kona Electric,Feb 23,Feb,2023,0.0
+Tata,Xpres-T EV,Feb 23,Feb,2023,
+Mahindra,Scorpio Classic,Feb 23,Feb,2023,
+Tata,Altroz CNG,Feb 23,Feb,2023,
+Tata,Altroz Racer,Feb 23,Feb,2023,
+Mahindra,Thar,Feb 23,Feb,2023,5004.0
+Toyota,Innova Crysta,Feb 23,Feb,2023,
+Mahindra,XUV700,Feb 23,Feb,2023,4505.0
+Mahindra,Bolero,Feb 23,Feb,2023,9782.0
+Mahindra,XUV 400 Electric,Feb 23,Feb,2023,0.0
+Mahindra,Scorpio N,Feb 23,Feb,2023,
+Mahindra,XUV 3X0,Feb 23,Feb,2023,
+Mahindra,Bolero Neo,Feb 23,Feb,2023,
+Mahindra,Bolero Neo Plus,Feb 23,Feb,2023,
+Tata,Tigor CNG,Feb 23,Feb,2023,
+Tata,Tiago CNG,Feb 23,Feb,2023,
+Tata,Punch CNG,Feb 23,Feb,2023,
+Tata,Magic Mantra 10 Seater,Feb 23,Feb,2023,
+Toyota,Fortuner,Feb 23,Feb,2023,3426.0
+Toyota,Innova Hycross,Feb 23,Feb,2023,4169.0
+Toyota,Land Cruiser LC300,Feb 23,Feb,2023,
+Toyota,Hilux,Feb 23,Feb,2023,15.0
+Toyota,Camry,Feb 23,Feb,2023,67.0
+Toyota,Vellfire,Feb 23,Feb,2023,60.0
+Toyota,Fortuner Legender,Feb 23,Feb,2023,
+Toyota,Urban Cruiser HyRyder,Feb 23,Feb,2023,3307.0
+Toyota,Glanza,Feb 23,Feb,2023,4223.0
+Mahindra,KUV100 NXT,Feb 23,Feb,2023,
+Toyota,Taisor,Feb 23,Feb,2023,
+Toyota,Rumion,Feb 23,Feb,2023,0.0
+Mahindra,XUV 300,Feb 23,Feb,2023,3809.0
+BMW,M4 Competition,Feb 23,Feb,2023,
+BMW,X7,Feb 23,Feb,2023,
+KIA,Carens,Feb 23,Feb,2023,6248.0
+BMW,7-Series,Feb 23,Feb,2023,
+BMW,X1,Feb 23,Feb,2023,
+BMW,2 Series Gran Coupe,Feb 23,Feb,2023,
+BMW,3 Series Gran Limousine,Feb 23,Feb,2023,
+BMW,Z4,Feb 23,Feb,2023,
+BMW,M2,Feb 23,Feb,2023,
+BMW,6 Series,Feb 23,Feb,2023,
+BMW,X5,Feb 23,Feb,2023,
+KIA,Sonet,Feb 23,Feb,2023,9836.0
+BMW,X3,Feb 23,Feb,2023,
+BMW,M8 Coupe Competition,Feb 23,Feb,2023,
+KIA,EV6,Feb 23,Feb,2023,0.0
+BMW,i7,Feb 23,Feb,2023,
+BMW,XM,Feb 23,Feb,2023,
+MG,Gloster,Feb 23,Feb,2023,101.0
+MG,Comet EV,Feb 23,Feb,2023,0.0
+Honda,Elevate,Feb 23,Feb,2023,0.0
+Honda,City,Feb 23,Feb,2023,1963.0
+BMW,i5,Feb 23,Feb,2023,
+MG,Astor,Feb 23,Feb,2023,1020.0
+MG,Hector,Feb 23,Feb,2023,2558.0
+MG,Hector Plus,Feb 23,Feb,2023,
+MG,ZS EV,Feb 23,Feb,2023,514.0
+BMW,X4,Feb 23,Feb,2023,
+BMW,iX Electric,Feb 23,Feb,2023,
+BMW,3-Series,Feb 23,Feb,2023,
+BMW,iX1,Feb 23,Feb,2023,
+Honda,Amaze,Feb 23,Feb,2023,4123.0
+Honda,City Hybrid,Feb 23,Feb,2023,
+Mahindra,Marazzo,Feb 23,Feb,2023,171.0
+Skoda,Superb,Feb 23,Feb,2023,90.0
+Tata,Magic Express 10 Seater,Feb 23,Feb,2023,
+Volkswagen,Virtus,Feb 23,Feb,2023,1563.0
+BMW,i4,Feb 23,Feb,2023,
+Skoda,Kushaq,Feb 23,Feb,2023,1783.0
+KIA,Seltos,Feb 23,Feb,2023,8012.0
+Tata,Tigor EV,Feb 23,Feb,2023,
+Skoda,Slavia,Feb 23,Feb,2023,1274.0
+Skoda,Kodiaq,Feb 23,Feb,2023,189.0
+Maruti Suzuki,Ignis,Feb 23,Feb,2023,4749.0
+Hyundai,i20 N Line,Feb 23,Feb,2023,
+Maruti Suzuki,Fronx,Feb 23,Feb,2023,0.0
+Jeep,Grand Cherokee,Feb 23,Feb,2023,
+Land Rover,Range Rover Velar,Feb 23,Feb,2023,
+Land Rover,Range Rover Evoque,Feb 23,Feb,2023,
+Audi,A4,Feb 23,Feb,2023,
+Land Rover,Range Rover,Feb 23,Feb,2023,
+Land Rover,Discovery Sport,Feb 23,Feb,2023,
+Land Rover,Range Rover Sport,Feb 23,Feb,2023,
+Land Rover,Discovery,Feb 23,Feb,2023,
+Jeep,Wrangler,Feb 23,Feb,2023,
+Jeep,Compass,Feb 23,Feb,2023,406.0
+Volkswagen,Tiguan,Feb 23,Feb,2023,93.0
+Audi,Q3,Feb 23,Feb,2023,
+Audi,Q3 Sportback,Feb 23,Feb,2023,
+Jeep,Meridian,Feb 23,Feb,2023,313.0
+Land Rover,Defender,Feb 23,Feb,2023,
+Audi,RS Q8,Feb 23,Feb,2023,
+Audi,RS5,Feb 23,Feb,2023,
+Audi,e-tron,Feb 23,Feb,2023,
+Audi,Q8,Feb 23,Feb,2023,
+Volvo,S90,Feb 23,Feb,2023,
+Audi,A8L,Feb 23,Feb,2023,
+Volvo,XC60,Feb 23,Feb,2023,
+Volvo,XC90,Feb 23,Feb,2023,
+Volvo,XC40 Recharge,Feb 23,Feb,2023,
+Volvo,C40 Recharge,Feb 23,Feb,2023,
+Jaguar,F-Type,Feb 23,Feb,2023,
+Jaguar,I-Pace,Feb 23,Feb,2023,
+Audi,S5 Sportback,Feb 23,Feb,2023,
+Audi,Q5,Feb 23,Feb,2023,
+Jaguar,F-Pace,Feb 23,Feb,2023,
+Audi,Q7,Feb 23,Feb,2023,
+Audi,Q8 e-tron,Feb 23,Feb,2023,
+Porsche,Macan,Feb 23,Feb,2023,
+Porsche,Cayenne,Feb 23,Feb,2023,
+Porsche,Cayenne Coupe,Feb 23,Feb,2023,
+Citroen,C3,Feb 23,Feb,2023,111.0
+Citroen,eC3,Feb 23,Feb,2023,213.0
+Lamborghini,Urus,Feb 23,Feb,2023,
+Citroen,C5 Aircross,Feb 23,Feb,2023,4.0
+Porsche,Panamera,Feb 23,Feb,2023,
+Lamborghini,Revuelto,Feb 23,Feb,2023,
+Porsche,718,Feb 23,Feb,2023,
+BYD Auto,Atto 3,Feb 23,Feb,2023,
+Lamborghini,Huracan EVO,Feb 23,Feb,2023,
+Renault,Triber,Feb 23,Feb,2023,3056.0
+Nissan,Magnite,Feb 23,Feb,2023,2184.0
+Porsche,Taycan,Feb 23,Feb,2023,
+Lexus,LC 500h,Feb 23,Feb,2023,
+Lexus,ES,Feb 23,Feb,2023,
+Lexus,LS 500h,Feb 23,Feb,2023,
+Rolls-Royce,Cullinan,Feb 23,Feb,2023,
+Lexus,NX,Feb 23,Feb,2023,
+Lexus,RX,Feb 23,Feb,2023,
+Lexus,LM 350h,Feb 23,Feb,2023,
+Mini,Cooper SE,Feb 23,Feb,2023,
+Rolls-Royce,Phantom,Feb 23,Feb,2023,
+BYD Auto,Seal EV,Feb 23,Feb,2023,
+Rolls-Royce,Ghost,Feb 23,Feb,2023,
+Rolls-Royce,Wraith,Feb 23,Feb,2023,
+Rolls-Royce,Dawn,Feb 23,Feb,2023,
+Mini,Cooper Countryman,Feb 23,Feb,2023,
+Mini,3 Door,Feb 23,Feb,2023,
+Lexus,LX,Feb 23,Feb,2023,
+Renault,Kiger,Feb 23,Feb,2023,1802.0
+Ferrari,F8 Tributo,Feb 23,Feb,2023,
+Ferrari,SF90 Stradale,Feb 23,Feb,2023,
+Ferrari,812,Feb 23,Feb,2023,
+Maserati,Quattroporte,Feb 23,Feb,2023,
+Isuzu,S-Cab,Feb 23,Feb,2023,
+Maserati,Ghibli,Feb 23,Feb,2023,
+Isuzu,Hi-Lander,Feb 23,Feb,2023,
+Maserati,GranTurismo,Feb 23,Feb,2023,
+Maserati,GranCabrio,Feb 23,Feb,2023,
+Isuzu,V-Cross,Feb 23,Feb,2023,
+Isuzu,MU-X,Feb 23,Feb,2023,
+Isuzu,D-Max,Feb 23,Feb,2023,
+Mclaren,GT,Feb 23,Feb,2023,
+Mclaren,750S,Feb 23,Feb,2023,
+Force,Gurkha,Feb 23,Feb,2023,
+Force,Gurkha 5 Door,Feb 23,Feb,2023,
+Ferrari,Roma,Feb 23,Feb,2023,
+Ferrari,296 GTB,Feb 23,Feb,2023,
+Mercedes-Benz,G-Class,Feb 23,Feb,2023,
+Aston Martin,DBX,Feb 23,Feb,2023,
+Mercedes-Benz,C-Class,Feb 23,Feb,2023,
+Mercedes-Benz,GLS,Feb 23,Feb,2023,
+Mercedes-Benz,A Class Sedan Limousine,Feb 23,Feb,2023,
+Mercedes-Benz,GLA,Feb 23,Feb,2023,
+Mercedes-Benz,GLC,Feb 23,Feb,2023,
+Mercedes-Benz,Maybach S-Class,Feb 23,Feb,2023,
+Mercedes-Benz,E-Class,Feb 23,Feb,2023,
+Mercedes-Benz,GLE-Class,Feb 23,Feb,2023,
+Mercedes-Benz,GLB,Feb 23,Feb,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,Feb 23,Feb,2023,
+Mercedes-Benz,GLC Coupe,Feb 23,Feb,2023,
+Aston Martin,Vantage,Feb 23,Feb,2023,
+Mercedes-Benz,AMG E 53,Feb 23,Feb,2023,
+Mercedes-Benz,AMG A 45 S,Feb 23,Feb,2023,
+Aston Martin,DB 12,Feb 23,Feb,2023,
+Mercedes-Benz,S Class,Feb 23,Feb,2023,
+Pravaig,Defy,Feb 23,Feb,2023,
+Mercedes-Benz,EQS,Feb 23,Feb,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,Feb 23,Feb,2023,
+Mercedes-Benz,AMG GLC 43,Feb 23,Feb,2023,
+Bajaj,Qute (RE60),Feb 23,Feb,2023,
+Strom Motors,R3,Feb 23,Feb,2023,
+Bentley,Bentayga,Feb 23,Feb,2023,
+Porsche,911,Feb 23,Feb,2023,
+Audi,A6,Feb 23,Feb,2023,
+Mercedes-Benz,EQB,Feb 23,Feb,2023,
+Volkswagen,Taigun,Feb 23,Feb,2023,1657.0
+Citroen,C3 Aircross,Feb 23,Feb,2023,0.0
+BYD Auto,E6 Electric,Feb 23,Feb,2023,
+Mercedes-Benz,AMG E 63,Feb 23,Feb,2023,
+Mclaren,720S,Feb 23,Feb,2023,
+Mercedes-Benz,EQE,Feb 23,Feb,2023,
+Tata,Nexon,Feb 23,Feb,2023,13914.0
+Renault,Kwid,Feb 23,Feb,2023,1758.0
+Audi,RS E-Tron GT,Feb 23,Feb,2023,
+Audi,E-Tron GT,Feb 23,Feb,2023,
+Maruti Suzuki,Grand Vitara,Feb 24,Feb,2024,11002.0
+Maruti Suzuki,Celerio,Feb 24,Feb,2024,3586.0
+Maruti Suzuki,Baleno,Feb 24,Feb,2024,17517.0
+Maruti Suzuki,S-Presso,Feb 24,Feb,2024,3059.0
+Maruti Suzuki,Alto K10,Feb 24,Feb,2024,
+Maruti Suzuki,Dzire,Feb 24,Feb,2024,15837.0
+Maruti Suzuki,Ertiga,Feb 24,Feb,2024,15519.0
+Maruti Suzuki,Swift,Feb 24,Feb,2024,13165.0
+Maruti Suzuki,XL6,Feb 24,Feb,2024,4093.0
+Maruti Suzuki,Brezza,Feb 24,Feb,2024,
+Maruti Suzuki,Wagon R,Feb 24,Feb,2024,19412.0
+Maruti Suzuki,Jimny,Feb 24,Feb,2024,322.0
+Hyundai,Verna,Feb 24,Feb,2024,1680.0
+Hyundai,Aura,Feb 24,Feb,2024,5053.0
+Hyundai,Grand i10 Nios,Feb 24,Feb,2024,
+Maruti Suzuki,Ciaz,Feb 24,Feb,2024,481.0
+Hyundai,Exter,Feb 24,Feb,2024,7582.0
+Hyundai,Creta N Line,Feb 24,Feb,2024,
+Hyundai,Tucson,Feb 24,Feb,2024,157.0
+Maruti Suzuki,Eeco,Feb 24,Feb,2024,12147.0
+Hyundai,i20,Feb 24,Feb,2024,
+Maruti Suzuki,Invicto,Feb 24,Feb,2024,366.0
+Hyundai,Creta,Feb 24,Feb,2024,15276.0
+Hyundai,Alcazar,Feb 24,Feb,2024,1290.0
+Hyundai,Venue,Feb 24,Feb,2024,8933.0
+Tata,Tiago NRG BS6,Feb 24,Feb,2024,
+Tata,Tiago,Feb 24,Feb,2024,6947.0
+Tata,Punch EV,Feb 24,Feb,2024,
+Tata,Tigor,Feb 24,Feb,2024,1712.0
+Tata,Nexon EV,Feb 24,Feb,2024,
+Tata,Altroz,Feb 24,Feb,2024,4568.0
+Tata,Harrier,Feb 24,Feb,2024,2562.0
+Tata,Tiago EV,Feb 24,Feb,2024,
+Hyundai,Venue N Line,Feb 24,Feb,2024,
+Hyundai,Ioniq 5,Feb 24,Feb,2024,66.0
+Tata,Safari,Feb 24,Feb,2024,2648.0
+Tata,Punch,Feb 24,Feb,2024,18438.0
+Hyundai,Kona Electric,Feb 24,Feb,2024,86.0
+Tata,Xpres-T EV,Feb 24,Feb,2024,
+Mahindra,Scorpio Classic,Feb 24,Feb,2024,
+Tata,Altroz CNG,Feb 24,Feb,2024,
+Tata,Altroz Racer,Feb 24,Feb,2024,
+Mahindra,Thar,Feb 24,Feb,2024,5812.0
+Toyota,Innova Crysta,Feb 24,Feb,2024,
+Mahindra,XUV700,Feb 24,Feb,2024,6546.0
+Mahindra,Bolero,Feb 24,Feb,2024,10113.0
+Mahindra,XUV 400 Electric,Feb 24,Feb,2024,610.0
+Mahindra,Scorpio N,Feb 24,Feb,2024,
+Mahindra,XUV 3X0,Feb 24,Feb,2024,
+Mahindra,Bolero Neo,Feb 24,Feb,2024,
+Mahindra,Bolero Neo Plus,Feb 24,Feb,2024,
+Tata,Tigor CNG,Feb 24,Feb,2024,
+Tata,Tiago CNG,Feb 24,Feb,2024,
+Tata,Punch CNG,Feb 24,Feb,2024,
+Tata,Magic Mantra 10 Seater,Feb 24,Feb,2024,
+Toyota,Fortuner,Feb 24,Feb,2024,3395.0
+Toyota,Innova Hycross,Feb 24,Feb,2024,8481.0
+Toyota,Land Cruiser LC300,Feb 24,Feb,2024,
+Toyota,Hilux,Feb 24,Feb,2024,245.0
+Toyota,Camry,Feb 24,Feb,2024,210.0
+Toyota,Vellfire,Feb 24,Feb,2024,57.0
+Toyota,Fortuner Legender,Feb 24,Feb,2024,
+Toyota,Urban Cruiser HyRyder,Feb 24,Feb,2024,5601.0
+Toyota,Glanza,Feb 24,Feb,2024,4581.0
+Mahindra,KUV100 NXT,Feb 24,Feb,2024,
+Toyota,Taisor,Feb 24,Feb,2024,
+Toyota,Rumion,Feb 24,Feb,2024,730.0
+Mahindra,XUV 300,Feb 24,Feb,2024,4218.0
+BMW,M4 Competition,Feb 24,Feb,2024,
+BMW,X7,Feb 24,Feb,2024,
+KIA,Carens,Feb 24,Feb,2024,4832.0
+BMW,7-Series,Feb 24,Feb,2024,
+BMW,X1,Feb 24,Feb,2024,
+BMW,2 Series Gran Coupe,Feb 24,Feb,2024,
+BMW,3 Series Gran Limousine,Feb 24,Feb,2024,
+BMW,Z4,Feb 24,Feb,2024,
+BMW,M2,Feb 24,Feb,2024,
+BMW,6 Series,Feb 24,Feb,2024,
+BMW,X5,Feb 24,Feb,2024,
+KIA,Sonet,Feb 24,Feb,2024,9102.0
+BMW,X3,Feb 24,Feb,2024,
+BMW,M8 Coupe Competition,Feb 24,Feb,2024,
+KIA,EV6,Feb 24,Feb,2024,1.0
+BMW,i7,Feb 24,Feb,2024,
+BMW,XM,Feb 24,Feb,2024,
+MG,Gloster,Feb 24,Feb,2024,168.0
+MG,Comet EV,Feb 24,Feb,2024,920.0
+Honda,Elevate,Feb 24,Feb,2024,3184.0
+Honda,City,Feb 24,Feb,2024,1184.0
+BMW,i5,Feb 24,Feb,2024,
+MG,Astor,Feb 24,Feb,2024,1036.0
+MG,Hector,Feb 24,Feb,2024,1826.0
+MG,Hector Plus,Feb 24,Feb,2024,
+MG,ZS EV,Feb 24,Feb,2024,582.0
+BMW,X4,Feb 24,Feb,2024,
+BMW,iX Electric,Feb 24,Feb,2024,
+BMW,3-Series,Feb 24,Feb,2024,
+BMW,iX1,Feb 24,Feb,2024,
+Honda,Amaze,Feb 24,Feb,2024,2774.0
+Honda,City Hybrid,Feb 24,Feb,2024,
+Mahindra,Marazzo,Feb 24,Feb,2024,51.0
+Skoda,Superb,Feb 24,Feb,2024,0.0
+Tata,Magic Express 10 Seater,Feb 24,Feb,2024,
+Volkswagen,Virtus,Feb 24,Feb,2024,1631.0
+BMW,i4,Feb 24,Feb,2024,
+Skoda,Kushaq,Feb 24,Feb,2024,1137.0
+KIA,Seltos,Feb 24,Feb,2024,6265.0
+Tata,Tigor EV,Feb 24,Feb,2024,
+Skoda,Slavia,Feb 24,Feb,2024,1028.0
+Skoda,Kodiaq,Feb 24,Feb,2024,89.0
+Maruti Suzuki,Ignis,Feb 24,Feb,2024,2110.0
+Hyundai,i20 N Line,Feb 24,Feb,2024,
+Maruti Suzuki,Fronx,Feb 24,Feb,2024,14168.0
+Jeep,Grand Cherokee,Feb 24,Feb,2024,
+Land Rover,Range Rover Velar,Feb 24,Feb,2024,
+Land Rover,Range Rover Evoque,Feb 24,Feb,2024,
+Audi,A4,Feb 24,Feb,2024,
+Land Rover,Range Rover,Feb 24,Feb,2024,
+Land Rover,Discovery Sport,Feb 24,Feb,2024,
+Land Rover,Range Rover Sport,Feb 24,Feb,2024,
+Land Rover,Discovery,Feb 24,Feb,2024,
+Jeep,Wrangler,Feb 24,Feb,2024,
+Jeep,Compass,Feb 24,Feb,2024,204.0
+Volkswagen,Tiguan,Feb 24,Feb,2024,102.0
+Audi,Q3,Feb 24,Feb,2024,
+Audi,Q3 Sportback,Feb 24,Feb,2024,
+Jeep,Meridian,Feb 24,Feb,2024,127.0
+Land Rover,Defender,Feb 24,Feb,2024,
+Audi,RS Q8,Feb 24,Feb,2024,
+Audi,RS5,Feb 24,Feb,2024,
+Audi,e-tron,Feb 24,Feb,2024,
+Audi,Q8,Feb 24,Feb,2024,
+Volvo,S90,Feb 24,Feb,2024,
+Audi,A8L,Feb 24,Feb,2024,
+Volvo,XC60,Feb 24,Feb,2024,
+Volvo,XC90,Feb 24,Feb,2024,
+Volvo,XC40 Recharge,Feb 24,Feb,2024,
+Volvo,C40 Recharge,Feb 24,Feb,2024,
+Jaguar,F-Type,Feb 24,Feb,2024,
+Jaguar,I-Pace,Feb 24,Feb,2024,
+Audi,S5 Sportback,Feb 24,Feb,2024,
+Audi,Q5,Feb 24,Feb,2024,
+Jaguar,F-Pace,Feb 24,Feb,2024,
+Audi,Q7,Feb 24,Feb,2024,
+Audi,Q8 e-tron,Feb 24,Feb,2024,
+Porsche,Macan,Feb 24,Feb,2024,
+Porsche,Cayenne,Feb 24,Feb,2024,
+Porsche,Cayenne Coupe,Feb 24,Feb,2024,
+Citroen,C3,Feb 24,Feb,2024,211.0
+Citroen,eC3,Feb 24,Feb,2024,83.0
+Lamborghini,Urus,Feb 24,Feb,2024,
+Citroen,C5 Aircross,Feb 24,Feb,2024,0.0
+Porsche,Panamera,Feb 24,Feb,2024,
+Lamborghini,Revuelto,Feb 24,Feb,2024,
+Porsche,718,Feb 24,Feb,2024,
+BYD Auto,Atto 3,Feb 24,Feb,2024,
+Lamborghini,Huracan EVO,Feb 24,Feb,2024,
+Renault,Triber,Feb 24,Feb,2024,2205.0
+Nissan,Magnite,Feb 24,Feb,2024,2755.0
+Porsche,Taycan,Feb 24,Feb,2024,
+Lexus,LC 500h,Feb 24,Feb,2024,
+Lexus,ES,Feb 24,Feb,2024,
+Lexus,LS 500h,Feb 24,Feb,2024,
+Rolls-Royce,Cullinan,Feb 24,Feb,2024,
+Lexus,NX,Feb 24,Feb,2024,
+Lexus,RX,Feb 24,Feb,2024,
+Lexus,LM 350h,Feb 24,Feb,2024,
+Mini,Cooper SE,Feb 24,Feb,2024,
+Rolls-Royce,Phantom,Feb 24,Feb,2024,
+BYD Auto,Seal EV,Feb 24,Feb,2024,
+Rolls-Royce,Ghost,Feb 24,Feb,2024,
+Rolls-Royce,Wraith,Feb 24,Feb,2024,
+Rolls-Royce,Dawn,Feb 24,Feb,2024,
+Mini,Cooper Countryman,Feb 24,Feb,2024,
+Mini,3 Door,Feb 24,Feb,2024,
+Lexus,LX,Feb 24,Feb,2024,
+Renault,Kiger,Feb 24,Feb,2024,1047.0
+Ferrari,F8 Tributo,Feb 24,Feb,2024,
+Ferrari,SF90 Stradale,Feb 24,Feb,2024,
+Ferrari,812,Feb 24,Feb,2024,
+Maserati,Quattroporte,Feb 24,Feb,2024,
+Isuzu,S-Cab,Feb 24,Feb,2024,
+Maserati,Ghibli,Feb 24,Feb,2024,
+Isuzu,Hi-Lander,Feb 24,Feb,2024,
+Maserati,GranTurismo,Feb 24,Feb,2024,
+Maserati,GranCabrio,Feb 24,Feb,2024,
+Isuzu,V-Cross,Feb 24,Feb,2024,
+Isuzu,MU-X,Feb 24,Feb,2024,
+Isuzu,D-Max,Feb 24,Feb,2024,
+Mclaren,GT,Feb 24,Feb,2024,
+Mclaren,750S,Feb 24,Feb,2024,
+Force,Gurkha,Feb 24,Feb,2024,
+Force,Gurkha 5 Door,Feb 24,Feb,2024,
+Ferrari,Roma,Feb 24,Feb,2024,
+Ferrari,296 GTB,Feb 24,Feb,2024,
+Mercedes-Benz,G-Class,Feb 24,Feb,2024,
+Aston Martin,DBX,Feb 24,Feb,2024,
+Mercedes-Benz,C-Class,Feb 24,Feb,2024,
+Mercedes-Benz,GLS,Feb 24,Feb,2024,
+Mercedes-Benz,A Class Sedan Limousine,Feb 24,Feb,2024,
+Mercedes-Benz,GLA,Feb 24,Feb,2024,
+Mercedes-Benz,GLC,Feb 24,Feb,2024,
+Mercedes-Benz,Maybach S-Class,Feb 24,Feb,2024,
+Mercedes-Benz,E-Class,Feb 24,Feb,2024,
+Mercedes-Benz,GLE-Class,Feb 24,Feb,2024,
+Mercedes-Benz,GLB,Feb 24,Feb,2024,
+Mercedes-Benz,AMG E 53 Cabriolet,Feb 24,Feb,2024,
+Mercedes-Benz,GLC Coupe,Feb 24,Feb,2024,
+Aston Martin,Vantage,Feb 24,Feb,2024,
+Mercedes-Benz,AMG E 53,Feb 24,Feb,2024,
+Mercedes-Benz,AMG A 45 S,Feb 24,Feb,2024,
+Aston Martin,DB 12,Feb 24,Feb,2024,
+Mercedes-Benz,S Class,Feb 24,Feb,2024,
+Pravaig,Defy,Feb 24,Feb,2024,
+Mercedes-Benz,EQS,Feb 24,Feb,2024,
+Mercedes-Benz,AMG GLE 53 Coupe,Feb 24,Feb,2024,
+Mercedes-Benz,AMG GLC 43,Feb 24,Feb,2024,
+Bajaj,Qute (RE60),Feb 24,Feb,2024,
+Strom Motors,R3,Feb 24,Feb,2024,
+Bentley,Bentayga,Feb 24,Feb,2024,
+Porsche,911,Feb 24,Feb,2024,
+Audi,A6,Feb 24,Feb,2024,
+Mercedes-Benz,EQB,Feb 24,Feb,2024,
+Volkswagen,Taigun,Feb 24,Feb,2024,1286.0
+Citroen,C3 Aircross,Feb 24,Feb,2024,127.0
+BYD Auto,E6 Electric,Feb 24,Feb,2024,
+Mercedes-Benz,AMG E 63,Feb 24,Feb,2024,
+Mclaren,720S,Feb 24,Feb,2024,
+Mercedes-Benz,EQE,Feb 24,Feb,2024,
+Tata,Nexon,Feb 24,Feb,2024,14395.0
+Renault,Kwid,Feb 24,Feb,2024,828.0
+Audi,RS E-Tron GT,Feb 24,Feb,2024,
+Audi,E-Tron GT,Feb 24,Feb,2024,
+Maruti Suzuki,Grand Vitara,Jan 23,Jan,2023,8662.0
+Maruti Suzuki,Celerio,Jan 23,Jan,2023,3418.0
+Maruti Suzuki,Baleno,Jan 23,Jan,2023,16357.0
+Maruti Suzuki,S-Presso,Jan 23,Jan,2023,4035.0
+Maruti Suzuki,Alto K10,Jan 23,Jan,2023,
+Maruti Suzuki,Dzire,Jan 23,Jan,2023,11317.0
+Maruti Suzuki,Ertiga,Jan 23,Jan,2023,9750.0
+Maruti Suzuki,Swift,Jan 23,Jan,2023,16440.0
+Maruti Suzuki,XL6,Jan 23,Jan,2023,2582.0
+Maruti Suzuki,Brezza,Jan 23,Jan,2023,
+Maruti Suzuki,Wagon R,Jan 23,Jan,2023,20466.0
+Maruti Suzuki,Jimny,Jan 23,Jan,2023,0.0
+Hyundai,Verna,Jan 23,Jan,2023,995.0
+Hyundai,Aura,Jan 23,Jan,2023,4634.0
+Hyundai,Grand i10 Nios,Jan 23,Jan,2023,
+Maruti Suzuki,Ciaz,Jan 23,Jan,2023,1000.0
+Hyundai,Exter,Jan 23,Jan,2023,0.0
+Hyundai,Creta N Line,Jan 23,Jan,2023,
+Hyundai,Tucson,Jan 23,Jan,2023,180.0
+Maruti Suzuki,Eeco,Jan 23,Jan,2023,11709.0
+Hyundai,i20,Jan 23,Jan,2023,
+Maruti Suzuki,Invicto,Jan 23,Jan,2023,0.0
+Hyundai,Creta,Jan 23,Jan,2023,15037.0
+Hyundai,Alcazar,Jan 23,Jan,2023,1537.0
+Hyundai,Venue,Jan 23,Jan,2023,10738.0
+Tata,Tiago NRG BS6,Jan 23,Jan,2023,
+Tata,Tiago,Jan 23,Jan,2023,9032.0
+Tata,Punch EV,Jan 23,Jan,2023,
+Tata,Tigor,Jan 23,Jan,2023,3106.0
+Tata,Nexon EV,Jan 23,Jan,2023,
+Tata,Altroz,Jan 23,Jan,2023,5675.0
+Tata,Harrier,Jan 23,Jan,2023,1572.0
+Tata,Tiago EV,Jan 23,Jan,2023,
+Hyundai,Venue N Line,Jan 23,Jan,2023,
+Hyundai,Ioniq 5,Jan 23,Jan,2023,0.0
+Tata,Safari,Jan 23,Jan,2023,1032.0
+Tata,Punch,Jan 23,Jan,2023,12006.0
+Hyundai,Kona Electric,Jan 23,Jan,2023,40.0
+Tata,Xpres-T EV,Jan 23,Jan,2023,
+Mahindra,Scorpio Classic,Jan 23,Jan,2023,
+Tata,Altroz CNG,Jan 23,Jan,2023,
+Tata,Altroz Racer,Jan 23,Jan,2023,
+Mahindra,Thar,Jan 23,Jan,2023,4410.0
+Toyota,Innova Crysta,Jan 23,Jan,2023,
+Mahindra,XUV700,Jan 23,Jan,2023,5787.0
+Mahindra,Bolero,Jan 23,Jan,2023,8574.0
+Mahindra,XUV 400 Electric,Jan 23,Jan,2023,0.0
+Mahindra,Scorpio N,Jan 23,Jan,2023,
+Mahindra,XUV 3X0,Jan 23,Jan,2023,
+Mahindra,Bolero Neo,Jan 23,Jan,2023,
+Mahindra,Bolero Neo Plus,Jan 23,Jan,2023,
+Tata,Tigor CNG,Jan 23,Jan,2023,
+Tata,Tiago CNG,Jan 23,Jan,2023,
+Tata,Punch CNG,Jan 23,Jan,2023,
+Tata,Magic Mantra 10 Seater,Jan 23,Jan,2023,
+Toyota,Fortuner,Jan 23,Jan,2023,3698.0
+Toyota,Innova Hycross,Jan 23,Jan,2023,1427.0
+Toyota,Land Cruiser LC300,Jan 23,Jan,2023,
+Toyota,Hilux,Jan 23,Jan,2023,1.0
+Toyota,Camry,Jan 23,Jan,2023,59.0
+Toyota,Vellfire,Jan 23,Jan,2023,22.0
+Toyota,Fortuner Legender,Jan 23,Jan,2023,
+Toyota,Urban Cruiser HyRyder,Jan 23,Jan,2023,4194.0
+Toyota,Glanza,Jan 23,Jan,2023,3327.0
+Mahindra,KUV100 NXT,Jan 23,Jan,2023,
+Toyota,Taisor,Jan 23,Jan,2023,
+Toyota,Rumion,Jan 23,Jan,2023,0.0
+Mahindra,XUV 300,Jan 23,Jan,2023,5390.0
+BMW,M4 Competition,Jan 23,Jan,2023,
+BMW,X7,Jan 23,Jan,2023,
+KIA,Carens,Jan 23,Jan,2023,7900.0
+BMW,7-Series,Jan 23,Jan,2023,
+BMW,X1,Jan 23,Jan,2023,
+BMW,2 Series Gran Coupe,Jan 23,Jan,2023,
+BMW,3 Series Gran Limousine,Jan 23,Jan,2023,
+BMW,Z4,Jan 23,Jan,2023,
+BMW,M2,Jan 23,Jan,2023,
+BMW,6 Series,Jan 23,Jan,2023,
+BMW,X5,Jan 23,Jan,2023,
+KIA,Sonet,Jan 23,Jan,2023,9261.0
+BMW,X3,Jan 23,Jan,2023,
+BMW,M8 Coupe Competition,Jan 23,Jan,2023,
+KIA,EV6,Jan 23,Jan,2023,0.0
+BMW,i7,Jan 23,Jan,2023,
+BMW,XM,Jan 23,Jan,2023,
+MG,Gloster,Jan 23,Jan,2023,244.0
+MG,Comet EV,Jan 23,Jan,2023,0.0
+Honda,Elevate,Jan 23,Jan,2023,0.0
+Honda,City,Jan 23,Jan,2023,2058.0
+BMW,i5,Jan 23,Jan,2023,
+MG,Astor,Jan 23,Jan,2023,958.0
+MG,Hector,Jan 23,Jan,2023,2441.0
+MG,Hector Plus,Jan 23,Jan,2023,
+MG,ZS EV,Jan 23,Jan,2023,471.0
+BMW,X4,Jan 23,Jan,2023,
+BMW,iX Electric,Jan 23,Jan,2023,
+BMW,3-Series,Jan 23,Jan,2023,
+BMW,iX1,Jan 23,Jan,2023,
+Honda,Amaze,Jan 23,Jan,2023,5580.0
+Honda,City Hybrid,Jan 23,Jan,2023,
+Mahindra,Marazzo,Jan 23,Jan,2023,164.0
+Skoda,Superb,Jan 23,Jan,2023,96.0
+Tata,Magic Express 10 Seater,Jan 23,Jan,2023,
+Volkswagen,Virtus,Jan 23,Jan,2023,1379.0
+BMW,i4,Jan 23,Jan,2023,
+Skoda,Kushaq,Jan 23,Jan,2023,2013.0
+KIA,Seltos,Jan 23,Jan,2023,10470.0
+Tata,Tigor EV,Jan 23,Jan,2023,
+Skoda,Slavia,Jan 23,Jan,2023,1413.0
+Skoda,Kodiaq,Jan 23,Jan,2023,196.0
+Maruti Suzuki,Ignis,Jan 23,Jan,2023,5842.0
+Hyundai,i20 N Line,Jan 23,Jan,2023,
+Maruti Suzuki,Fronx,Jan 23,Jan,2023,0.0
+Jeep,Grand Cherokee,Jan 23,Jan,2023,
+Land Rover,Range Rover Velar,Jan 23,Jan,2023,
+Land Rover,Range Rover Evoque,Jan 23,Jan,2023,
+Audi,A4,Jan 23,Jan,2023,
+Land Rover,Range Rover,Jan 23,Jan,2023,
+Land Rover,Discovery Sport,Jan 23,Jan,2023,
+Land Rover,Range Rover Sport,Jan 23,Jan,2023,
+Land Rover,Discovery,Jan 23,Jan,2023,
+Jeep,Wrangler,Jan 23,Jan,2023,
+Jeep,Compass,Jan 23,Jan,2023,485.0
+Volkswagen,Tiguan,Jan 23,Jan,2023,72.0
+Audi,Q3,Jan 23,Jan,2023,
+Audi,Q3 Sportback,Jan 23,Jan,2023,
+Jeep,Meridian,Jan 23,Jan,2023,200.0
+Land Rover,Defender,Jan 23,Jan,2023,
+Audi,RS Q8,Jan 23,Jan,2023,
+Audi,RS5,Jan 23,Jan,2023,
+Audi,e-tron,Jan 23,Jan,2023,
+Audi,Q8,Jan 23,Jan,2023,
+Volvo,S90,Jan 23,Jan,2023,
+Audi,A8L,Jan 23,Jan,2023,
+Volvo,XC60,Jan 23,Jan,2023,
+Volvo,XC90,Jan 23,Jan,2023,
+Volvo,XC40 Recharge,Jan 23,Jan,2023,
+Volvo,C40 Recharge,Jan 23,Jan,2023,
+Jaguar,F-Type,Jan 23,Jan,2023,
+Jaguar,I-Pace,Jan 23,Jan,2023,
+Audi,S5 Sportback,Jan 23,Jan,2023,
+Audi,Q5,Jan 23,Jan,2023,
+Jaguar,F-Pace,Jan 23,Jan,2023,
+Audi,Q7,Jan 23,Jan,2023,
+Audi,Q8 e-tron,Jan 23,Jan,2023,
+Porsche,Macan,Jan 23,Jan,2023,
+Porsche,Cayenne,Jan 23,Jan,2023,
+Porsche,Cayenne Coupe,Jan 23,Jan,2023,
+Citroen,C3,Jan 23,Jan,2023,788.0
+Citroen,eC3,Jan 23,Jan,2023,0.0
+Lamborghini,Urus,Jan 23,Jan,2023,
+Citroen,C5 Aircross,Jan 23,Jan,2023,16.0
+Porsche,Panamera,Jan 23,Jan,2023,
+Lamborghini,Revuelto,Jan 23,Jan,2023,
+Porsche,718,Jan 23,Jan,2023,
+BYD Auto,Atto 3,Jan 23,Jan,2023,
+Lamborghini,Huracan EVO,Jan 23,Jan,2023,
+Renault,Triber,Jan 23,Jan,2023,1796.0
+Nissan,Magnite,Jan 23,Jan,2023,2803.0
+Porsche,Taycan,Jan 23,Jan,2023,
+Lexus,LC 500h,Jan 23,Jan,2023,
+Lexus,ES,Jan 23,Jan,2023,
+Lexus,LS 500h,Jan 23,Jan,2023,
+Rolls-Royce,Cullinan,Jan 23,Jan,2023,
+Lexus,NX,Jan 23,Jan,2023,
+Lexus,RX,Jan 23,Jan,2023,
+Lexus,LM 350h,Jan 23,Jan,2023,
+Mini,Cooper SE,Jan 23,Jan,2023,
+Rolls-Royce,Phantom,Jan 23,Jan,2023,
+BYD Auto,Seal EV,Jan 23,Jan,2023,
+Rolls-Royce,Ghost,Jan 23,Jan,2023,
+Rolls-Royce,Wraith,Jan 23,Jan,2023,
+Rolls-Royce,Dawn,Jan 23,Jan,2023,
+Mini,Cooper Countryman,Jan 23,Jan,2023,
+Mini,3 Door,Jan 23,Jan,2023,
+Lexus,LX,Jan 23,Jan,2023,
+Renault,Kiger,Jan 23,Jan,2023,1153.0
+Ferrari,F8 Tributo,Jan 23,Jan,2023,
+Ferrari,SF90 Stradale,Jan 23,Jan,2023,
+Ferrari,812,Jan 23,Jan,2023,
+Maserati,Quattroporte,Jan 23,Jan,2023,
+Isuzu,S-Cab,Jan 23,Jan,2023,
+Maserati,Ghibli,Jan 23,Jan,2023,
+Isuzu,Hi-Lander,Jan 23,Jan,2023,
+Maserati,GranTurismo,Jan 23,Jan,2023,
+Maserati,GranCabrio,Jan 23,Jan,2023,
+Isuzu,V-Cross,Jan 23,Jan,2023,
+Isuzu,MU-X,Jan 23,Jan,2023,
+Isuzu,D-Max,Jan 23,Jan,2023,
+Mclaren,GT,Jan 23,Jan,2023,
+Mclaren,750S,Jan 23,Jan,2023,
+Force,Gurkha,Jan 23,Jan,2023,
+Force,Gurkha 5 Door,Jan 23,Jan,2023,
+Ferrari,Roma,Jan 23,Jan,2023,
+Ferrari,296 GTB,Jan 23,Jan,2023,
+Mercedes-Benz,G-Class,Jan 23,Jan,2023,
+Aston Martin,DBX,Jan 23,Jan,2023,
+Mercedes-Benz,C-Class,Jan 23,Jan,2023,
+Mercedes-Benz,GLS,Jan 23,Jan,2023,
+Mercedes-Benz,A Class Sedan Limousine,Jan 23,Jan,2023,
+Mercedes-Benz,GLA,Jan 23,Jan,2023,
+Mercedes-Benz,GLC,Jan 23,Jan,2023,
+Mercedes-Benz,Maybach S-Class,Jan 23,Jan,2023,
+Mercedes-Benz,E-Class,Jan 23,Jan,2023,
+Mercedes-Benz,GLE-Class,Jan 23,Jan,2023,
+Mercedes-Benz,GLB,Jan 23,Jan,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,Jan 23,Jan,2023,
+Mercedes-Benz,GLC Coupe,Jan 23,Jan,2023,
+Aston Martin,Vantage,Jan 23,Jan,2023,
+Mercedes-Benz,AMG E 53,Jan 23,Jan,2023,
+Mercedes-Benz,AMG A 45 S,Jan 23,Jan,2023,
+Aston Martin,DB 12,Jan 23,Jan,2023,
+Mercedes-Benz,S Class,Jan 23,Jan,2023,
+Pravaig,Defy,Jan 23,Jan,2023,
+Mercedes-Benz,EQS,Jan 23,Jan,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,Jan 23,Jan,2023,
+Mercedes-Benz,AMG GLC 43,Jan 23,Jan,2023,
+Bajaj,Qute (RE60),Jan 23,Jan,2023,
+Strom Motors,R3,Jan 23,Jan,2023,
+Bentley,Bentayga,Jan 23,Jan,2023,
+Porsche,911,Jan 23,Jan,2023,
+Audi,A6,Jan 23,Jan,2023,
+Mercedes-Benz,EQB,Jan 23,Jan,2023,
+Volkswagen,Taigun,Jan 23,Jan,2023,1455.0
+Citroen,C3 Aircross,Jan 23,Jan,2023,0.0
+BYD Auto,E6 Electric,Jan 23,Jan,2023,
+Mercedes-Benz,AMG E 63,Jan 23,Jan,2023,
+Mclaren,720S,Jan 23,Jan,2023,
+Mercedes-Benz,EQE,Jan 23,Jan,2023,
+Tata,Nexon,Jan 23,Jan,2023,15567.0
+Renault,Kwid,Jan 23,Jan,2023,59.0
+Audi,RS E-Tron GT,Jan 23,Jan,2023,
+Audi,E-Tron GT,Jan 23,Jan,2023,
+Maruti Suzuki,Grand Vitara,Jan 24,Jan,2024,13438.0
+Maruti Suzuki,Celerio,Jan 24,Jan,2024,4406.0
+Maruti Suzuki,Baleno,Jan 24,Jan,2024,19630.0
+Maruti Suzuki,S-Presso,Jan 24,Jan,2024,3454.0
+Maruti Suzuki,Alto K10,Jan 24,Jan,2024,
+Maruti Suzuki,Dzire,Jan 24,Jan,2024,16773.0
+Maruti Suzuki,Ertiga,Jan 24,Jan,2024,14632.0
+Maruti Suzuki,Swift,Jan 24,Jan,2024,15370.0
+Maruti Suzuki,XL6,Jan 24,Jan,2024,4363.0
+Maruti Suzuki,Brezza,Jan 24,Jan,2024,
+Maruti Suzuki,Wagon R,Jan 24,Jan,2024,17756.0
+Maruti Suzuki,Jimny,Jan 24,Jan,2024,163.0
+Hyundai,Verna,Jan 24,Jan,2024,2172.0
+Hyundai,Aura,Jan 24,Jan,2024,5516.0
+Hyundai,Grand i10 Nios,Jan 24,Jan,2024,
+Maruti Suzuki,Ciaz,Jan 24,Jan,2024,363.0
+Hyundai,Exter,Jan 24,Jan,2024,8229.0
+Hyundai,Creta N Line,Jan 24,Jan,2024,
+Hyundai,Tucson,Jan 24,Jan,2024,183.0
+Maruti Suzuki,Eeco,Jan 24,Jan,2024,12019.0
+Hyundai,i20,Jan 24,Jan,2024,
+Maruti Suzuki,Invicto,Jan 24,Jan,2024,496.0
+Hyundai,Creta,Jan 24,Jan,2024,13212.0
+Hyundai,Alcazar,Jan 24,Jan,2024,1827.0
+Hyundai,Venue,Jan 24,Jan,2024,11831.0
+Tata,Tiago NRG BS6,Jan 24,Jan,2024,
+Tata,Tiago,Jan 24,Jan,2024,6482.0
+Tata,Punch EV,Jan 24,Jan,2024,
+Tata,Tigor,Jan 24,Jan,2024,1539.0
+Tata,Nexon EV,Jan 24,Jan,2024,
+Tata,Altroz,Jan 24,Jan,2024,4935.0
+Tata,Harrier,Jan 24,Jan,2024,2626.0
+Tata,Tiago EV,Jan 24,Jan,2024,
+Hyundai,Venue N Line,Jan 24,Jan,2024,
+Hyundai,Ioniq 5,Jan 24,Jan,2024,95.0
+Tata,Safari,Jan 24,Jan,2024,2893.0
+Tata,Punch,Jan 24,Jan,2024,17978.0
+Hyundai,Kona Electric,Jan 24,Jan,2024,102.0
+Tata,Xpres-T EV,Jan 24,Jan,2024,
+Mahindra,Scorpio Classic,Jan 24,Jan,2024,
+Tata,Altroz CNG,Jan 24,Jan,2024,
+Tata,Altroz Racer,Jan 24,Jan,2024,
+Mahindra,Thar,Jan 24,Jan,2024,6059.0
+Toyota,Innova Crysta,Jan 24,Jan,2024,
+Mahindra,XUV700,Jan 24,Jan,2024,7206.0
+Mahindra,Bolero,Jan 24,Jan,2024,9964.0
+Mahindra,XUV 400 Electric,Jan 24,Jan,2024,697.0
+Mahindra,Scorpio N,Jan 24,Jan,2024,
+Mahindra,XUV 3X0,Jan 24,Jan,2024,
+Mahindra,Bolero Neo,Jan 24,Jan,2024,
+Mahindra,Bolero Neo Plus,Jan 24,Jan,2024,
+Tata,Tigor CNG,Jan 24,Jan,2024,
+Tata,Tiago CNG,Jan 24,Jan,2024,
+Tata,Punch CNG,Jan 24,Jan,2024,
+Tata,Magic Mantra 10 Seater,Jan 24,Jan,2024,
+Toyota,Fortuner,Jan 24,Jan,2024,3213.0
+Toyota,Innova Hycross,Jan 24,Jan,2024,9400.0
+Toyota,Land Cruiser LC300,Jan 24,Jan,2024,
+Toyota,Hilux,Jan 24,Jan,2024,289.0
+Toyota,Camry,Jan 24,Jan,2024,312.0
+Toyota,Vellfire,Jan 24,Jan,2024,61.0
+Toyota,Fortuner Legender,Jan 24,Jan,2024,
+Toyota,Urban Cruiser HyRyder,Jan 24,Jan,2024,5543.0
+Toyota,Glanza,Jan 24,Jan,2024,3740.0
+Mahindra,KUV100 NXT,Jan 24,Jan,2024,
+Toyota,Taisor,Jan 24,Jan,2024,
+Toyota,Rumion,Jan 24,Jan,2024,639.0
+Mahindra,XUV 300,Jan 24,Jan,2024,4817.0
+BMW,M4 Competition,Jan 24,Jan,2024,
+BMW,X7,Jan 24,Jan,2024,
+KIA,Carens,Jan 24,Jan,2024,5848.0
+BMW,7-Series,Jan 24,Jan,2024,
+BMW,X1,Jan 24,Jan,2024,
+BMW,2 Series Gran Coupe,Jan 24,Jan,2024,
+BMW,3 Series Gran Limousine,Jan 24,Jan,2024,
+BMW,Z4,Jan 24,Jan,2024,
+BMW,M2,Jan 24,Jan,2024,
+BMW,6 Series,Jan 24,Jan,2024,
+BMW,X5,Jan 24,Jan,2024,
+KIA,Sonet,Jan 24,Jan,2024,11530.0
+BMW,X3,Jan 24,Jan,2024,
+BMW,M8 Coupe Competition,Jan 24,Jan,2024,
+KIA,EV6,Jan 24,Jan,2024,0.0
+BMW,i7,Jan 24,Jan,2024,
+BMW,XM,Jan 24,Jan,2024,
+MG,Gloster,Jan 24,Jan,2024,139.0
+MG,Comet EV,Jan 24,Jan,2024,505.0
+Honda,Elevate,Jan 24,Jan,2024,4586.0
+Honda,City,Jan 24,Jan,2024,1123.0
+BMW,i5,Jan 24,Jan,2024,
+MG,Astor,Jan 24,Jan,2024,966.0
+MG,Hector,Jan 24,Jan,2024,1817.0
+MG,Hector Plus,Jan 24,Jan,2024,
+MG,ZS EV,Jan 24,Jan,2024,398.0
+BMW,X4,Jan 24,Jan,2024,
+BMW,iX Electric,Jan 24,Jan,2024,
+BMW,3-Series,Jan 24,Jan,2024,
+BMW,iX1,Jan 24,Jan,2024,
+Honda,Amaze,Jan 24,Jan,2024,2972.0
+Honda,City Hybrid,Jan 24,Jan,2024,
+Mahindra,Marazzo,Jan 24,Jan,2024,32.0
+Skoda,Superb,Jan 24,Jan,2024,0.0
+Tata,Magic Express 10 Seater,Jan 24,Jan,2024,
+Volkswagen,Virtus,Jan 24,Jan,2024,1879.0
+BMW,i4,Jan 24,Jan,2024,
+Skoda,Kushaq,Jan 24,Jan,2024,1082.0
+KIA,Seltos,Jan 24,Jan,2024,6391.0
+Tata,Tigor EV,Jan 24,Jan,2024,
+Skoda,Slavia,Jan 24,Jan,2024,1242.0
+Skoda,Kodiaq,Jan 24,Jan,2024,53.0
+Maruti Suzuki,Ignis,Jan 24,Jan,2024,2598.0
+Hyundai,i20 N Line,Jan 24,Jan,2024,
+Maruti Suzuki,Fronx,Jan 24,Jan,2024,13643.0
+Jeep,Grand Cherokee,Jan 24,Jan,2024,
+Land Rover,Range Rover Velar,Jan 24,Jan,2024,
+Land Rover,Range Rover Evoque,Jan 24,Jan,2024,
+Audi,A4,Jan 24,Jan,2024,
+Land Rover,Range Rover,Jan 24,Jan,2024,
+Land Rover,Discovery Sport,Jan 24,Jan,2024,
+Land Rover,Range Rover Sport,Jan 24,Jan,2024,
+Land Rover,Discovery,Jan 24,Jan,2024,
+Jeep,Wrangler,Jan 24,Jan,2024,
+Jeep,Compass,Jan 24,Jan,2024,286.0
+Volkswagen,Tiguan,Jan 24,Jan,2024,113.0
+Audi,Q3,Jan 24,Jan,2024,
+Audi,Q3 Sportback,Jan 24,Jan,2024,
+Jeep,Meridian,Jan 24,Jan,2024,110.0
+Land Rover,Defender,Jan 24,Jan,2024,
+Audi,RS Q8,Jan 24,Jan,2024,
+Audi,RS5,Jan 24,Jan,2024,
+Audi,e-tron,Jan 24,Jan,2024,
+Audi,Q8,Jan 24,Jan,2024,
+Volvo,S90,Jan 24,Jan,2024,
+Audi,A8L,Jan 24,Jan,2024,
+Volvo,XC60,Jan 24,Jan,2024,
+Volvo,XC90,Jan 24,Jan,2024,
+Volvo,XC40 Recharge,Jan 24,Jan,2024,
+Volvo,C40 Recharge,Jan 24,Jan,2024,
+Jaguar,F-Type,Jan 24,Jan,2024,
+Jaguar,I-Pace,Jan 24,Jan,2024,
+Audi,S5 Sportback,Jan 24,Jan,2024,
+Audi,Q5,Jan 24,Jan,2024,
+Jaguar,F-Pace,Jan 24,Jan,2024,
+Audi,Q7,Jan 24,Jan,2024,
+Audi,Q8 e-tron,Jan 24,Jan,2024,
+Porsche,Macan,Jan 24,Jan,2024,
+Porsche,Cayenne,Jan 24,Jan,2024,
+Porsche,Cayenne Coupe,Jan 24,Jan,2024,
+Citroen,C3,Jan 24,Jan,2024,234.0
+Citroen,eC3,Jan 24,Jan,2024,184.0
+Lamborghini,Urus,Jan 24,Jan,2024,
+Citroen,C5 Aircross,Jan 24,Jan,2024,1.0
+Porsche,Panamera,Jan 24,Jan,2024,
+Lamborghini,Revuelto,Jan 24,Jan,2024,
+Porsche,718,Jan 24,Jan,2024,
+BYD Auto,Atto 3,Jan 24,Jan,2024,
+Lamborghini,Huracan EVO,Jan 24,Jan,2024,
+Renault,Triber,Jan 24,Jan,2024,2220.0
+Nissan,Magnite,Jan 24,Jan,2024,2863.0
+Porsche,Taycan,Jan 24,Jan,2024,
+Lexus,LC 500h,Jan 24,Jan,2024,
+Lexus,ES,Jan 24,Jan,2024,
+Lexus,LS 500h,Jan 24,Jan,2024,
+Rolls-Royce,Cullinan,Jan 24,Jan,2024,
+Lexus,NX,Jan 24,Jan,2024,
+Lexus,RX,Jan 24,Jan,2024,
+Lexus,LM 350h,Jan 24,Jan,2024,
+Mini,Cooper SE,Jan 24,Jan,2024,
+Rolls-Royce,Phantom,Jan 24,Jan,2024,
+BYD Auto,Seal EV,Jan 24,Jan,2024,
+Rolls-Royce,Ghost,Jan 24,Jan,2024,
+Rolls-Royce,Wraith,Jan 24,Jan,2024,
+Rolls-Royce,Dawn,Jan 24,Jan,2024,
+Mini,Cooper Countryman,Jan 24,Jan,2024,
+Mini,3 Door,Jan 24,Jan,2024,
+Lexus,LX,Jan 24,Jan,2024,
+Renault,Kiger,Jan 24,Jan,2024,750.0
+Ferrari,F8 Tributo,Jan 24,Jan,2024,
+Ferrari,SF90 Stradale,Jan 24,Jan,2024,
+Ferrari,812,Jan 24,Jan,2024,
+Maserati,Quattroporte,Jan 24,Jan,2024,
+Isuzu,S-Cab,Jan 24,Jan,2024,
+Maserati,Ghibli,Jan 24,Jan,2024,
+Isuzu,Hi-Lander,Jan 24,Jan,2024,
+Maserati,GranTurismo,Jan 24,Jan,2024,
+Maserati,GranCabrio,Jan 24,Jan,2024,
+Isuzu,V-Cross,Jan 24,Jan,2024,
+Isuzu,MU-X,Jan 24,Jan,2024,
+Isuzu,D-Max,Jan 24,Jan,2024,
+Mclaren,GT,Jan 24,Jan,2024,
+Mclaren,750S,Jan 24,Jan,2024,
+Force,Gurkha,Jan 24,Jan,2024,
+Force,Gurkha 5 Door,Jan 24,Jan,2024,
+Ferrari,Roma,Jan 24,Jan,2024,
+Ferrari,296 GTB,Jan 24,Jan,2024,
+Mercedes-Benz,G-Class,Jan 24,Jan,2024,
+Aston Martin,DBX,Jan 24,Jan,2024,
+Mercedes-Benz,C-Class,Jan 24,Jan,2024,
+Mercedes-Benz,GLS,Jan 24,Jan,2024,
+Mercedes-Benz,A Class Sedan Limousine,Jan 24,Jan,2024,
+Mercedes-Benz,GLA,Jan 24,Jan,2024,
+Mercedes-Benz,GLC,Jan 24,Jan,2024,
+Mercedes-Benz,Maybach S-Class,Jan 24,Jan,2024,
+Mercedes-Benz,E-Class,Jan 24,Jan,2024,
+Mercedes-Benz,GLE-Class,Jan 24,Jan,2024,
+Mercedes-Benz,GLB,Jan 24,Jan,2024,
+Mercedes-Benz,AMG E 53 Cabriolet,Jan 24,Jan,2024,
+Mercedes-Benz,GLC Coupe,Jan 24,Jan,2024,
+Aston Martin,Vantage,Jan 24,Jan,2024,
+Mercedes-Benz,AMG E 53,Jan 24,Jan,2024,
+Mercedes-Benz,AMG A 45 S,Jan 24,Jan,2024,
+Aston Martin,DB 12,Jan 24,Jan,2024,
+Mercedes-Benz,S Class,Jan 24,Jan,2024,
+Pravaig,Defy,Jan 24,Jan,2024,
+Mercedes-Benz,EQS,Jan 24,Jan,2024,
+Mercedes-Benz,AMG GLE 53 Coupe,Jan 24,Jan,2024,
+Mercedes-Benz,AMG GLC 43,Jan 24,Jan,2024,
+Bajaj,Qute (RE60),Jan 24,Jan,2024,
+Strom Motors,R3,Jan 24,Jan,2024,
+Bentley,Bentayga,Jan 24,Jan,2024,
+Porsche,911,Jan 24,Jan,2024,
+Audi,A6,Jan 24,Jan,2024,
+Mercedes-Benz,EQB,Jan 24,Jan,2024,
+Volkswagen,Taigun,Jan 24,Jan,2024,1275.0
+Citroen,C3 Aircross,Jan 24,Jan,2024,231.0
+BYD Auto,E6 Electric,Jan 24,Jan,2024,
+Mercedes-Benz,AMG E 63,Jan 24,Jan,2024,
+Mclaren,720S,Jan 24,Jan,2024,
+Mercedes-Benz,EQE,Jan 24,Jan,2024,
+Tata,Nexon,Jan 24,Jan,2024,17182.0
+Renault,Kwid,Jan 24,Jan,2024,856.0
+Audi,RS E-Tron GT,Jan 24,Jan,2024,
+Audi,E-Tron GT,Jan 24,Jan,2024,
+Maruti Suzuki,Grand Vitara,Jul 22,Jul,2022,0.0
+Maruti Suzuki,Celerio,Jul 22,Jul,2022,6854.0
+Maruti Suzuki,Baleno,Jul 22,Jul,2022,17960.0
+Maruti Suzuki,S-Presso,Jul 22,Jul,2022,11268.0
+Maruti Suzuki,Alto K10,Jul 22,Jul,2022,
+Maruti Suzuki,Dzire,Jul 22,Jul,2022,13747.0
+Maruti Suzuki,Ertiga,Jul 22,Jul,2022,9694.0
+Maruti Suzuki,Swift,Jul 22,Jul,2022,17539.0
+Maruti Suzuki,XL6,Jul 22,Jul,2022,3870.0
+Maruti Suzuki,Brezza,Jul 22,Jul,2022,
+Maruti Suzuki,Wagon R,Jul 22,Jul,2022,22588.0
+Maruti Suzuki,Jimny,Jul 22,Jul,2022,0.0
+Hyundai,Verna,Jul 22,Jul,2022,1870.0
+Hyundai,Aura,Jul 22,Jul,2022,4018.0
+Hyundai,Grand i10 Nios,Jul 22,Jul,2022,
+Maruti Suzuki,Ciaz,Jul 22,Jul,2022,1379.0
+Hyundai,Exter,Jul 22,Jul,2022,0.0
+Hyundai,Creta N Line,Jul 22,Jul,2022,
+Hyundai,Tucson,Jul 22,Jul,2022,170.0
+Maruti Suzuki,Eeco,Jul 22,Jul,2022,13048.0
+Hyundai,i20,Jul 22,Jul,2022,
+Maruti Suzuki,Invicto,Jul 22,Jul,2022,0.0
+Hyundai,Creta,Jul 22,Jul,2022,12625.0
+Hyundai,Alcazar,Jul 22,Jul,2022,2888.0
+Hyundai,Venue,Jul 22,Jul,2022,12000.0
+Tata,Tiago NRG BS6,Jul 22,Jul,2022,
+Tata,Tiago,Jul 22,Jul,2022,6159.0
+Tata,Punch EV,Jul 22,Jul,2022,
+Tata,Tigor,Jul 22,Jul,2022,5433.0
+Tata,Nexon EV,Jul 22,Jul,2022,
+Tata,Altroz,Jul 22,Jul,2022,5678.0
+Tata,Harrier,Jul 22,Jul,2022,3254.0
+Tata,Tiago EV,Jul 22,Jul,2022,
+Hyundai,Venue N Line,Jul 22,Jul,2022,
+Hyundai,Ioniq 5,Jul 22,Jul,2022,0.0
+Tata,Safari,Jul 22,Jul,2022,1761.0
+Tata,Punch,Jul 22,Jul,2022,11007.0
+Hyundai,Kona Electric,Jul 22,Jul,2022,53.0
+Tata,Xpres-T EV,Jul 22,Jul,2022,
+Mahindra,Scorpio Classic,Jul 22,Jul,2022,
+Tata,Altroz CNG,Jul 22,Jul,2022,
+Tata,Altroz Racer,Jul 22,Jul,2022,
+Mahindra,Thar,Jul 22,Jul,2022,3616.0
+Toyota,Innova Crysta,Jul 22,Jul,2022,
+Mahindra,XUV700,Jul 22,Jul,2022,6277.0
+Mahindra,Bolero,Jul 22,Jul,2022,7917.0
+Mahindra,XUV 400 Electric,Jul 22,Jul,2022,0.0
+Mahindra,Scorpio N,Jul 22,Jul,2022,
+Mahindra,XUV 3X0,Jul 22,Jul,2022,
+Mahindra,Bolero Neo,Jul 22,Jul,2022,
+Mahindra,Bolero Neo Plus,Jul 22,Jul,2022,
+Tata,Tigor CNG,Jul 22,Jul,2022,
+Tata,Tiago CNG,Jul 22,Jul,2022,
+Tata,Punch CNG,Jul 22,Jul,2022,
+Tata,Magic Mantra 10 Seater,Jul 22,Jul,2022,
+Toyota,Fortuner,Jul 22,Jul,2022,3000.0
+Toyota,Innova Hycross,Jul 22,Jul,2022,6900.0
+Toyota,Land Cruiser LC300,Jul 22,Jul,2022,
+Toyota,Hilux,Jul 22,Jul,2022,2.0
+Toyota,Camry,Jul 22,Jul,2022,63.0
+Toyota,Vellfire,Jul 22,Jul,2022,44.0
+Toyota,Fortuner Legender,Jul 22,Jul,2022,
+Toyota,Urban Cruiser HyRyder,Jul 22,Jul,2022,0.0
+Toyota,Glanza,Jul 22,Jul,2022,2960.0
+Mahindra,KUV100 NXT,Jul 22,Jul,2022,
+Toyota,Taisor,Jul 22,Jul,2022,
+Toyota,Rumion,Jul 22,Jul,2022,
+Mahindra,XUV 300,Jul 22,Jul,2022,5937.0
+BMW,M4 Competition,Jul 22,Jul,2022,
+BMW,X7,Jul 22,Jul,2022,
+KIA,Carens,Jul 22,Jul,2022,5978.0
+BMW,7-Series,Jul 22,Jul,2022,
+BMW,X1,Jul 22,Jul,2022,
+BMW,2 Series Gran Coupe,Jul 22,Jul,2022,
+BMW,3 Series Gran Limousine,Jul 22,Jul,2022,
+BMW,Z4,Jul 22,Jul,2022,
+BMW,M2,Jul 22,Jul,2022,
+BMW,6 Series,Jul 22,Jul,2022,
+BMW,X5,Jul 22,Jul,2022,
+KIA,Sonet,Jul 22,Jul,2022,7215.0
+BMW,X3,Jul 22,Jul,2022,
+BMW,M8 Coupe Competition,Jul 22,Jul,2022,
+KIA,EV6,Jul 22,Jul,2022,0.0
+BMW,i7,Jul 22,Jul,2022,
+BMW,XM,Jul 22,Jul,2022,
+MG,Gloster,Jul 22,Jul,2022,252.0
+MG,Comet EV,Jul 22,Jul,2022,0.0
+Honda,Elevate,Jul 22,Jul,2022,
+Honda,City,Jul 22,Jul,2022,3149.0
+BMW,i5,Jul 22,Jul,2022,
+MG,Astor,Jul 22,Jul,2022,1362.0
+MG,Hector,Jul 22,Jul,2022,1988.0
+MG,Hector Plus,Jul 22,Jul,2022,
+MG,ZS EV,Jul 22,Jul,2022,411.0
+BMW,X4,Jul 22,Jul,2022,
+BMW,iX Electric,Jul 22,Jul,2022,
+BMW,3-Series,Jul 22,Jul,2022,
+BMW,iX1,Jul 22,Jul,2022,
+Honda,Amaze,Jul 22,Jul,2022,2767.0
+Honda,City Hybrid,Jul 22,Jul,2022,
+Mahindra,Marazzo,Jul 22,Jul,2022,213.0
+Skoda,Superb,Jul 22,Jul,2022,147.0
+Tata,Magic Express 10 Seater,Jul 22,Jul,2022,
+Volkswagen,Virtus,Jul 22,Jul,2022,1338.0
+BMW,i4,Jul 22,Jul,2022,
+Skoda,Kushaq,Jul 22,Jul,2022,2064.0
+KIA,Seltos,Jul 22,Jul,2022,8541.0
+Tata,Tigor EV,Jul 22,Jul,2022,
+Skoda,Slavia,Jul 22,Jul,2022,1895.0
+Skoda,Kodiaq,Jul 22,Jul,2022,110.0
+Maruti Suzuki,Ignis,Jul 22,Jul,2022,6130.0
+Hyundai,i20 N Line,Jul 22,Jul,2022,
+Maruti Suzuki,Fronx,Jul 22,Jul,2022,0.0
+Jeep,Grand Cherokee,Jul 22,Jul,2022,
+Land Rover,Range Rover Velar,Jul 22,Jul,2022,
+Land Rover,Range Rover Evoque,Jul 22,Jul,2022,
+Audi,A4,Jul 22,Jul,2022,
+Land Rover,Range Rover,Jul 22,Jul,2022,
+Land Rover,Discovery Sport,Jul 22,Jul,2022,
+Land Rover,Range Rover Sport,Jul 22,Jul,2022,
+Land Rover,Discovery,Jul 22,Jul,2022,
+Jeep,Wrangler,Jul 22,Jul,2022,
+Jeep,Compass,Jul 22,Jul,2022,710.0
+Volkswagen,Tiguan,Jul 22,Jul,2022,124.0
+Audi,Q3,Jul 22,Jul,2022,
+Audi,Q3 Sportback,Jul 22,Jul,2022,
+Jeep,Meridian,Jul 22,Jul,2022,440.0
+Land Rover,Defender,Jul 22,Jul,2022,
+Audi,RS Q8,Jul 22,Jul,2022,
+Audi,RS5,Jul 22,Jul,2022,
+Audi,e-tron,Jul 22,Jul,2022,
+Audi,Q8,Jul 22,Jul,2022,
+Volvo,S90,Jul 22,Jul,2022,
+Audi,A8L,Jul 22,Jul,2022,
+Volvo,XC60,Jul 22,Jul,2022,
+Volvo,XC90,Jul 22,Jul,2022,
+Volvo,XC40 Recharge,Jul 22,Jul,2022,
+Volvo,C40 Recharge,Jul 22,Jul,2022,
+Jaguar,F-Type,Jul 22,Jul,2022,
+Jaguar,I-Pace,Jul 22,Jul,2022,
+Audi,S5 Sportback,Jul 22,Jul,2022,
+Audi,Q5,Jul 22,Jul,2022,
+Jaguar,F-Pace,Jul 22,Jul,2022,
+Audi,Q7,Jul 22,Jul,2022,
+Audi,Q8 e-tron,Jul 22,Jul,2022,
+Porsche,Macan,Jul 22,Jul,2022,
+Porsche,Cayenne,Jul 22,Jul,2022,
+Porsche,Cayenne Coupe,Jul 22,Jul,2022,
+Citroen,C3,Jul 22,Jul,2022,550.0
+Citroen,eC3,Jul 22,Jul,2022,0.0
+Lamborghini,Urus,Jul 22,Jul,2022,
+Citroen,C5 Aircross,Jul 22,Jul,2022,25.0
+Porsche,Panamera,Jul 22,Jul,2022,
+Lamborghini,Revuelto,Jul 22,Jul,2022,
+Porsche,718,Jul 22,Jul,2022,
+BYD Auto,Atto 3,Jul 22,Jul,2022,
+Lamborghini,Huracan EVO,Jul 22,Jul,2022,
+Renault,Triber,Jul 22,Jul,2022,3202.0
+Nissan,Magnite,Jul 22,Jul,2022,3583.0
+Porsche,Taycan,Jul 22,Jul,2022,
+Lexus,LC 500h,Jul 22,Jul,2022,
+Lexus,ES,Jul 22,Jul,2022,
+Lexus,LS 500h,Jul 22,Jul,2022,
+Rolls-Royce,Cullinan,Jul 22,Jul,2022,
+Lexus,NX,Jul 22,Jul,2022,
+Lexus,RX,Jul 22,Jul,2022,
+Lexus,LM 350h,Jul 22,Jul,2022,
+Mini,Cooper SE,Jul 22,Jul,2022,
+Rolls-Royce,Phantom,Jul 22,Jul,2022,
+BYD Auto,Seal EV,Jul 22,Jul,2022,
+Rolls-Royce,Ghost,Jul 22,Jul,2022,
+Rolls-Royce,Wraith,Jul 22,Jul,2022,
+Rolls-Royce,Dawn,Jul 22,Jul,2022,
+Mini,Cooper Countryman,Jul 22,Jul,2022,
+Mini,3 Door,Jul 22,Jul,2022,
+Lexus,LX,Jul 22,Jul,2022,
+Renault,Kiger,Jul 22,Jul,2022,2597.0
+Ferrari,F8 Tributo,Jul 22,Jul,2022,
+Ferrari,SF90 Stradale,Jul 22,Jul,2022,
+Ferrari,812,Jul 22,Jul,2022,
+Maserati,Quattroporte,Jul 22,Jul,2022,
+Isuzu,S-Cab,Jul 22,Jul,2022,
+Maserati,Ghibli,Jul 22,Jul,2022,
+Isuzu,Hi-Lander,Jul 22,Jul,2022,
+Maserati,GranTurismo,Jul 22,Jul,2022,
+Maserati,GranCabrio,Jul 22,Jul,2022,
+Isuzu,V-Cross,Jul 22,Jul,2022,
+Isuzu,MU-X,Jul 22,Jul,2022,
+Isuzu,D-Max,Jul 22,Jul,2022,
+Mclaren,GT,Jul 22,Jul,2022,
+Mclaren,750S,Jul 22,Jul,2022,
+Force,Gurkha,Jul 22,Jul,2022,
+Force,Gurkha 5 Door,Jul 22,Jul,2022,
+Ferrari,Roma,Jul 22,Jul,2022,
+Ferrari,296 GTB,Jul 22,Jul,2022,
+Mercedes-Benz,G-Class,Jul 22,Jul,2022,
+Aston Martin,DBX,Jul 22,Jul,2022,
+Mercedes-Benz,C-Class,Jul 22,Jul,2022,
+Mercedes-Benz,GLS,Jul 22,Jul,2022,
+Mercedes-Benz,A Class Sedan Limousine,Jul 22,Jul,2022,
+Mercedes-Benz,GLA,Jul 22,Jul,2022,
+Mercedes-Benz,GLC,Jul 22,Jul,2022,
+Mercedes-Benz,Maybach S-Class,Jul 22,Jul,2022,
+Mercedes-Benz,E-Class,Jul 22,Jul,2022,
+Mercedes-Benz,GLE-Class,Jul 22,Jul,2022,
+Mercedes-Benz,GLB,Jul 22,Jul,2022,
+Mercedes-Benz,AMG E 53 Cabriolet,Jul 22,Jul,2022,
+Mercedes-Benz,GLC Coupe,Jul 22,Jul,2022,
+Aston Martin,Vantage,Jul 22,Jul,2022,
+Mercedes-Benz,AMG E 53,Jul 22,Jul,2022,
+Mercedes-Benz,AMG A 45 S,Jul 22,Jul,2022,
+Aston Martin,DB 12,Jul 22,Jul,2022,
+Mercedes-Benz,S Class,Jul 22,Jul,2022,
+Pravaig,Defy,Jul 22,Jul,2022,
+Mercedes-Benz,EQS,Jul 22,Jul,2022,
+Mercedes-Benz,AMG GLE 53 Coupe,Jul 22,Jul,2022,
+Mercedes-Benz,AMG GLC 43,Jul 22,Jul,2022,
+Bajaj,Qute (RE60),Jul 22,Jul,2022,
+Strom Motors,R3,Jul 22,Jul,2022,
+Bentley,Bentayga,Jul 22,Jul,2022,
+Porsche,911,Jul 22,Jul,2022,
+Audi,A6,Jul 22,Jul,2022,
+Mercedes-Benz,EQB,Jul 22,Jul,2022,
+Volkswagen,Taigun,Jul 22,Jul,2022,1408.0
+Citroen,C3 Aircross,Jul 22,Jul,2022,
+BYD Auto,E6 Electric,Jul 22,Jul,2022,
+Mercedes-Benz,AMG E 63,Jul 22,Jul,2022,
+Mclaren,720S,Jul 22,Jul,2022,
+Mercedes-Benz,EQE,Jul 22,Jul,2022,
+Tata,Nexon,Jul 22,Jul,2022,14214.0
+Renault,Kwid,Jul 22,Jul,2022,1329.0
+Audi,RS E-Tron GT,Jul 22,Jul,2022,
+Audi,E-Tron GT,Jul 22,Jul,2022,
+Maruti Suzuki,Grand Vitara,Jul 23,Jul,2023,9079.0
+Maruti Suzuki,Celerio,Jul 23,Jul,2023,2893.0
+Maruti Suzuki,Baleno,Jul 23,Jul,2023,16725.0
+Maruti Suzuki,S-Presso,Jul 23,Jul,2023,2491.0
+Maruti Suzuki,Alto K10,Jul 23,Jul,2023,
+Maruti Suzuki,Dzire,Jul 23,Jul,2023,13395.0
+Maruti Suzuki,Ertiga,Jul 23,Jul,2023,14352.0
+Maruti Suzuki,Swift,Jul 23,Jul,2023,17896.0
+Maruti Suzuki,XL6,Jul 23,Jul,2023,4320.0
+Maruti Suzuki,Brezza,Jul 23,Jul,2023,
+Maruti Suzuki,Wagon R,Jul 23,Jul,2023,12970.0
+Maruti Suzuki,Jimny,Jul 23,Jul,2023,3778.0
+Hyundai,Verna,Jul 23,Jul,2023,2858.0
+Hyundai,Aura,Jul 23,Jul,2023,4514.0
+Hyundai,Grand i10 Nios,Jul 23,Jul,2023,
+Maruti Suzuki,Ciaz,Jul 23,Jul,2023,1348.0
+Hyundai,Exter,Jul 23,Jul,2023,7000.0
+Hyundai,Creta N Line,Jul 23,Jul,2023,
+Hyundai,Tucson,Jul 23,Jul,2023,239.0
+Maruti Suzuki,Eeco,Jul 23,Jul,2023,12037.0
+Hyundai,i20,Jul 23,Jul,2023,
+Maruti Suzuki,Invicto,Jul 23,Jul,2023,757.0
+Hyundai,Creta,Jul 23,Jul,2023,14062.0
+Hyundai,Alcazar,Jul 23,Jul,2023,1443.0
+Hyundai,Venue,Jul 23,Jul,2023,10062.0
+Tata,Tiago NRG BS6,Jul 23,Jul,2023,
+Tata,Tiago,Jul 23,Jul,2023,8982.0
+Tata,Punch EV,Jul 23,Jul,2023,
+Tata,Tigor,Jul 23,Jul,2023,2684.0
+Tata,Nexon EV,Jul 23,Jul,2023,
+Tata,Altroz,Jul 23,Jul,2023,7817.0
+Tata,Harrier,Jul 23,Jul,2023,2092.0
+Tata,Tiago EV,Jul 23,Jul,2023,
+Hyundai,Venue N Line,Jul 23,Jul,2023,
+Hyundai,Ioniq 5,Jul 23,Jul,2023,125.0
+Tata,Safari,Jul 23,Jul,2023,1687.0
+Tata,Punch,Jul 23,Jul,2023,12019.0
+Hyundai,Kona Electric,Jul 23,Jul,2023,60.0
+Tata,Xpres-T EV,Jul 23,Jul,2023,
+Mahindra,Scorpio Classic,Jul 23,Jul,2023,
+Tata,Altroz CNG,Jul 23,Jul,2023,
+Tata,Altroz Racer,Jul 23,Jul,2023,
+Mahindra,Thar,Jul 23,Jul,2023,5265.0
+Toyota,Innova Crysta,Jul 23,Jul,2023,
+Mahindra,XUV700,Jul 23,Jul,2023,6176.0
+Mahindra,Bolero,Jul 23,Jul,2023,8921.0
+Mahindra,XUV 400 Electric,Jul 23,Jul,2023,707.0
+Mahindra,Scorpio N,Jul 23,Jul,2023,
+Mahindra,XUV 3X0,Jul 23,Jul,2023,
+Mahindra,Bolero Neo,Jul 23,Jul,2023,
+Mahindra,Bolero Neo Plus,Jul 23,Jul,2023,
+Tata,Tigor CNG,Jul 23,Jul,2023,
+Tata,Tiago CNG,Jul 23,Jul,2023,
+Tata,Punch CNG,Jul 23,Jul,2023,
+Tata,Magic Mantra 10 Seater,Jul 23,Jul,2023,
+Toyota,Fortuner,Jul 23,Jul,2023,3129.0
+Toyota,Innova Hycross,Jul 23,Jul,2023,8935.0
+Toyota,Land Cruiser LC300,Jul 23,Jul,2023,
+Toyota,Hilux,Jul 23,Jul,2023,216.0
+Toyota,Camry,Jul 23,Jul,2023,190.0
+Toyota,Vellfire,Jul 23,Jul,2023,0.0
+Toyota,Fortuner Legender,Jul 23,Jul,2023,
+Toyota,Urban Cruiser HyRyder,Jul 23,Jul,2023,3387.0
+Toyota,Glanza,Jul 23,Jul,2023,4902.0
+Mahindra,KUV100 NXT,Jul 23,Jul,2023,
+Toyota,Taisor,Jul 23,Jul,2023,
+Toyota,Rumion,Jul 23,Jul,2023,
+Mahindra,XUV 300,Jul 23,Jul,2023,4533.0
+BMW,M4 Competition,Jul 23,Jul,2023,
+BMW,X7,Jul 23,Jul,2023,
+KIA,Carens,Jul 23,Jul,2023,6002.0
+BMW,7-Series,Jul 23,Jul,2023,
+BMW,X1,Jul 23,Jul,2023,
+BMW,2 Series Gran Coupe,Jul 23,Jul,2023,
+BMW,3 Series Gran Limousine,Jul 23,Jul,2023,
+BMW,Z4,Jul 23,Jul,2023,
+BMW,M2,Jul 23,Jul,2023,
+BMW,6 Series,Jul 23,Jul,2023,
+BMW,X5,Jul 23,Jul,2023,
+KIA,Sonet,Jul 23,Jul,2023,4245.0
+BMW,X3,Jul 23,Jul,2023,
+BMW,M8 Coupe Competition,Jul 23,Jul,2023,
+KIA,EV6,Jul 23,Jul,2023,15.0
+BMW,i7,Jul 23,Jul,2023,
+BMW,XM,Jul 23,Jul,2023,
+MG,Gloster,Jul 23,Jul,2023,251.0
+MG,Comet EV,Jul 23,Jul,2023,1117.0
+Honda,Elevate,Jul 23,Jul,2023,
+Honda,City,Jul 23,Jul,2023,1478.0
+BMW,i5,Jul 23,Jul,2023,
+MG,Astor,Jul 23,Jul,2023,954.0
+MG,Hector,Jul 23,Jul,2023,2103.0
+MG,Hector Plus,Jul 23,Jul,2023,
+MG,ZS EV,Jul 23,Jul,2023,587.0
+BMW,X4,Jul 23,Jul,2023,
+BMW,iX Electric,Jul 23,Jul,2023,
+BMW,3-Series,Jul 23,Jul,2023,
+BMW,iX1,Jul 23,Jul,2023,
+Honda,Amaze,Jul 23,Jul,2023,3386.0
+Honda,City Hybrid,Jul 23,Jul,2023,
+Mahindra,Marazzo,Jul 23,Jul,2023,81.0
+Skoda,Superb,Jul 23,Jul,2023,0.0
+Tata,Magic Express 10 Seater,Jul 23,Jul,2023,
+Volkswagen,Virtus,Jul 23,Jul,2023,1737.0
+BMW,i4,Jul 23,Jul,2023,
+Skoda,Kushaq,Jul 23,Jul,2023,2394.0
+KIA,Seltos,Jul 23,Jul,2023,9740.0
+Tata,Tigor EV,Jul 23,Jul,2023,
+Skoda,Slavia,Jul 23,Jul,2023,1654.0
+Skoda,Kodiaq,Jul 23,Jul,2023,159.0
+Maruti Suzuki,Ignis,Jul 23,Jul,2023,3223.0
+Hyundai,i20 N Line,Jul 23,Jul,2023,
+Maruti Suzuki,Fronx,Jul 23,Jul,2023,13220.0
+Jeep,Grand Cherokee,Jul 23,Jul,2023,
+Land Rover,Range Rover Velar,Jul 23,Jul,2023,
+Land Rover,Range Rover Evoque,Jul 23,Jul,2023,
+Audi,A4,Jul 23,Jul,2023,
+Land Rover,Range Rover,Jul 23,Jul,2023,
+Land Rover,Discovery Sport,Jul 23,Jul,2023,
+Land Rover,Range Rover Sport,Jul 23,Jul,2023,
+Land Rover,Discovery,Jul 23,Jul,2023,
+Jeep,Wrangler,Jul 23,Jul,2023,
+Jeep,Compass,Jul 23,Jul,2023,277.0
+Volkswagen,Tiguan,Jul 23,Jul,2023,169.0
+Audi,Q3,Jul 23,Jul,2023,
+Audi,Q3 Sportback,Jul 23,Jul,2023,
+Jeep,Meridian,Jul 23,Jul,2023,164.0
+Land Rover,Defender,Jul 23,Jul,2023,
+Audi,RS Q8,Jul 23,Jul,2023,
+Audi,RS5,Jul 23,Jul,2023,
+Audi,e-tron,Jul 23,Jul,2023,
+Audi,Q8,Jul 23,Jul,2023,
+Volvo,S90,Jul 23,Jul,2023,
+Audi,A8L,Jul 23,Jul,2023,
+Volvo,XC60,Jul 23,Jul,2023,
+Volvo,XC90,Jul 23,Jul,2023,
+Volvo,XC40 Recharge,Jul 23,Jul,2023,
+Volvo,C40 Recharge,Jul 23,Jul,2023,
+Jaguar,F-Type,Jul 23,Jul,2023,
+Jaguar,I-Pace,Jul 23,Jul,2023,
+Audi,S5 Sportback,Jul 23,Jul,2023,
+Audi,Q5,Jul 23,Jul,2023,
+Jaguar,F-Pace,Jul 23,Jul,2023,
+Audi,Q7,Jul 23,Jul,2023,
+Audi,Q8 e-tron,Jul 23,Jul,2023,
+Porsche,Macan,Jul 23,Jul,2023,
+Porsche,Cayenne,Jul 23,Jul,2023,
+Porsche,Cayenne Coupe,Jul 23,Jul,2023,
+Citroen,C3,Jul 23,Jul,2023,331.0
+Citroen,eC3,Jul 23,Jul,2023,49.0
+Lamborghini,Urus,Jul 23,Jul,2023,
+Citroen,C5 Aircross,Jul 23,Jul,2023,8.0
+Porsche,Panamera,Jul 23,Jul,2023,
+Lamborghini,Revuelto,Jul 23,Jul,2023,
+Porsche,718,Jul 23,Jul,2023,
+BYD Auto,Atto 3,Jul 23,Jul,2023,
+Lamborghini,Huracan EVO,Jul 23,Jul,2023,
+Renault,Triber,Jul 23,Jul,2023,1802.0
+Nissan,Magnite,Jul 23,Jul,2023,2152.0
+Porsche,Taycan,Jul 23,Jul,2023,
+Lexus,LC 500h,Jul 23,Jul,2023,
+Lexus,ES,Jul 23,Jul,2023,
+Lexus,LS 500h,Jul 23,Jul,2023,
+Rolls-Royce,Cullinan,Jul 23,Jul,2023,
+Lexus,NX,Jul 23,Jul,2023,
+Lexus,RX,Jul 23,Jul,2023,
+Lexus,LM 350h,Jul 23,Jul,2023,
+Mini,Cooper SE,Jul 23,Jul,2023,
+Rolls-Royce,Phantom,Jul 23,Jul,2023,
+BYD Auto,Seal EV,Jul 23,Jul,2023,
+Rolls-Royce,Ghost,Jul 23,Jul,2023,
+Rolls-Royce,Wraith,Jul 23,Jul,2023,
+Rolls-Royce,Dawn,Jul 23,Jul,2023,
+Mini,Cooper Countryman,Jul 23,Jul,2023,
+Mini,3 Door,Jul 23,Jul,2023,
+Lexus,LX,Jul 23,Jul,2023,
+Renault,Kiger,Jul 23,Jul,2023,1043.0
+Ferrari,F8 Tributo,Jul 23,Jul,2023,
+Ferrari,SF90 Stradale,Jul 23,Jul,2023,
+Ferrari,812,Jul 23,Jul,2023,
+Maserati,Quattroporte,Jul 23,Jul,2023,
+Isuzu,S-Cab,Jul 23,Jul,2023,
+Maserati,Ghibli,Jul 23,Jul,2023,
+Isuzu,Hi-Lander,Jul 23,Jul,2023,
+Maserati,GranTurismo,Jul 23,Jul,2023,
+Maserati,GranCabrio,Jul 23,Jul,2023,
+Isuzu,V-Cross,Jul 23,Jul,2023,
+Isuzu,MU-X,Jul 23,Jul,2023,
+Isuzu,D-Max,Jul 23,Jul,2023,
+Mclaren,GT,Jul 23,Jul,2023,
+Mclaren,750S,Jul 23,Jul,2023,
+Force,Gurkha,Jul 23,Jul,2023,
+Force,Gurkha 5 Door,Jul 23,Jul,2023,
+Ferrari,Roma,Jul 23,Jul,2023,
+Ferrari,296 GTB,Jul 23,Jul,2023,
+Mercedes-Benz,G-Class,Jul 23,Jul,2023,
+Aston Martin,DBX,Jul 23,Jul,2023,
+Mercedes-Benz,C-Class,Jul 23,Jul,2023,
+Mercedes-Benz,GLS,Jul 23,Jul,2023,
+Mercedes-Benz,A Class Sedan Limousine,Jul 23,Jul,2023,
+Mercedes-Benz,GLA,Jul 23,Jul,2023,
+Mercedes-Benz,GLC,Jul 23,Jul,2023,
+Mercedes-Benz,Maybach S-Class,Jul 23,Jul,2023,
+Mercedes-Benz,E-Class,Jul 23,Jul,2023,
+Mercedes-Benz,GLE-Class,Jul 23,Jul,2023,
+Mercedes-Benz,GLB,Jul 23,Jul,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,Jul 23,Jul,2023,
+Mercedes-Benz,GLC Coupe,Jul 23,Jul,2023,
+Aston Martin,Vantage,Jul 23,Jul,2023,
+Mercedes-Benz,AMG E 53,Jul 23,Jul,2023,
+Mercedes-Benz,AMG A 45 S,Jul 23,Jul,2023,
+Aston Martin,DB 12,Jul 23,Jul,2023,
+Mercedes-Benz,S Class,Jul 23,Jul,2023,
+Pravaig,Defy,Jul 23,Jul,2023,
+Mercedes-Benz,EQS,Jul 23,Jul,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,Jul 23,Jul,2023,
+Mercedes-Benz,AMG GLC 43,Jul 23,Jul,2023,
+Bajaj,Qute (RE60),Jul 23,Jul,2023,
+Strom Motors,R3,Jul 23,Jul,2023,
+Bentley,Bentayga,Jul 23,Jul,2023,
+Porsche,911,Jul 23,Jul,2023,
+Audi,A6,Jul 23,Jul,2023,
+Mercedes-Benz,EQB,Jul 23,Jul,2023,
+Volkswagen,Taigun,Jul 23,Jul,2023,1908.0
+Citroen,C3 Aircross,Jul 23,Jul,2023,
+BYD Auto,E6 Electric,Jul 23,Jul,2023,
+Mercedes-Benz,AMG E 63,Jul 23,Jul,2023,
+Mclaren,720S,Jul 23,Jul,2023,
+Mercedes-Benz,EQE,Jul 23,Jul,2023,
+Tata,Nexon,Jul 23,Jul,2023,12349.0
+Renault,Kwid,Jul 23,Jul,2023,762.0
+Audi,RS E-Tron GT,Jul 23,Jul,2023,
+Audi,E-Tron GT,Jul 23,Jul,2023,
+Maruti Suzuki,Grand Vitara,Jun 22,Jun,2022,0.0
+Maruti Suzuki,Celerio,Jun 22,Jun,2022,8683.0
+Maruti Suzuki,Baleno,Jun 22,Jun,2022,16103.0
+Maruti Suzuki,S-Presso,Jun 22,Jun,2022,652.0
+Maruti Suzuki,Alto K10,Jun 22,Jun,2022,
+Maruti Suzuki,Dzire,Jun 22,Jun,2022,12597.0
+Maruti Suzuki,Ertiga,Jun 22,Jun,2022,10423.0
+Maruti Suzuki,Swift,Jun 22,Jun,2022,16213.0
+Maruti Suzuki,XL6,Jun 22,Jun,2022,3336.0
+Maruti Suzuki,Brezza,Jun 22,Jun,2022,
+Maruti Suzuki,Wagon R,Jun 22,Jun,2022,19190.0
+Maruti Suzuki,Jimny,Jun 22,Jun,2022,0.0
+Hyundai,Verna,Jun 22,Jun,2022,1703.0
+Hyundai,Aura,Jun 22,Jun,2022,4102.0
+Hyundai,Grand i10 Nios,Jun 22,Jun,2022,
+Maruti Suzuki,Ciaz,Jun 22,Jun,2022,1507.0
+Hyundai,Exter,Jun 22,Jun,2022,
+Hyundai,Creta N Line,Jun 22,Jun,2022,
+Hyundai,Tucson,Jun 22,Jun,2022,0.0
+Maruti Suzuki,Eeco,Jun 22,Jun,2022,10130.0
+Hyundai,i20,Jun 22,Jun,2022,
+Maruti Suzuki,Invicto,Jun 22,Jun,2022,
+Hyundai,Creta,Jun 22,Jun,2022,13790.0
+Hyundai,Alcazar,Jun 22,Jun,2022,1986.0
+Hyundai,Venue,Jun 22,Jun,2022,10321.0
+Tata,Tiago NRG BS6,Jun 22,Jun,2022,
+Tata,Tiago,Jun 22,Jun,2022,5310.0
+Tata,Punch EV,Jun 22,Jun,2022,
+Tata,Tigor,Jun 22,Jun,2022,4931.0
+Tata,Nexon EV,Jun 22,Jun,2022,
+Tata,Altroz,Jun 22,Jun,2022,5366.0
+Tata,Harrier,Jun 22,Jun,2022,3015.0
+Tata,Tiago EV,Jun 22,Jun,2022,
+Hyundai,Venue N Line,Jun 22,Jun,2022,
+Hyundai,Ioniq 5,Jun 22,Jun,2022,0.0
+Tata,Safari,Jun 22,Jun,2022,1869.0
+Tata,Punch,Jun 22,Jun,2022,10414.0
+Hyundai,Kona Electric,Jun 22,Jun,2022,179.0
+Tata,Xpres-T EV,Jun 22,Jun,2022,
+Mahindra,Scorpio Classic,Jun 22,Jun,2022,
+Tata,Altroz CNG,Jun 22,Jun,2022,
+Tata,Altroz Racer,Jun 22,Jun,2022,
+Mahindra,Thar,Jun 22,Jun,2022,3640.0
+Toyota,Innova Crysta,Jun 22,Jun,2022,
+Mahindra,XUV700,Jun 22,Jun,2022,6022.0
+Mahindra,Bolero,Jun 22,Jun,2022,7884.0
+Mahindra,XUV 400 Electric,Jun 22,Jun,2022,0.0
+Mahindra,Scorpio N,Jun 22,Jun,2022,
+Mahindra,XUV 3X0,Jun 22,Jun,2022,
+Mahindra,Bolero Neo,Jun 22,Jun,2022,
+Mahindra,Bolero Neo Plus,Jun 22,Jun,2022,
+Tata,Tigor CNG,Jun 22,Jun,2022,
+Tata,Tiago CNG,Jun 22,Jun,2022,
+Tata,Punch CNG,Jun 22,Jun,2022,
+Tata,Magic Mantra 10 Seater,Jun 22,Jun,2022,
+Toyota,Fortuner,Jun 22,Jun,2022,3133.0
+Toyota,Innova Hycross,Jun 22,Jun,2022,6795.0
+Toyota,Land Cruiser LC300,Jun 22,Jun,2022,
+Toyota,Hilux,Jun 22,Jun,2022,17.0
+Toyota,Camry,Jun 22,Jun,2022,89.0
+Toyota,Vellfire,Jun 22,Jun,2022,48.0
+Toyota,Fortuner Legender,Jun 22,Jun,2022,
+Toyota,Urban Cruiser HyRyder,Jun 22,Jun,2022,0.0
+Toyota,Glanza,Jun 22,Jun,2022,1129.0
+Mahindra,KUV100 NXT,Jun 22,Jun,2022,
+Toyota,Taisor,Jun 22,Jun,2022,
+Toyota,Rumion,Jun 22,Jun,2022,
+Mahindra,XUV 300,Jun 22,Jun,2022,4754.0
+BMW,M4 Competition,Jun 22,Jun,2022,
+BMW,X7,Jun 22,Jun,2022,
+KIA,Carens,Jun 22,Jun,2022,7895.0
+BMW,7-Series,Jun 22,Jun,2022,
+BMW,X1,Jun 22,Jun,2022,
+BMW,2 Series Gran Coupe,Jun 22,Jun,2022,
+BMW,3 Series Gran Limousine,Jun 22,Jun,2022,
+BMW,Z4,Jun 22,Jun,2022,
+BMW,M2,Jun 22,Jun,2022,
+BMW,6 Series,Jun 22,Jun,2022,
+BMW,X5,Jun 22,Jun,2022,
+KIA,Sonet,Jun 22,Jun,2022,7455.0
+BMW,X3,Jun 22,Jun,2022,
+BMW,M8 Coupe Competition,Jun 22,Jun,2022,
+KIA,EV6,Jun 22,Jun,2022,1.0
+BMW,i7,Jun 22,Jun,2022,
+BMW,XM,Jun 22,Jun,2022,
+MG,Gloster,Jun 22,Jun,2022,151.0
+MG,Comet EV,Jun 22,Jun,2022,0.0
+Honda,Elevate,Jun 22,Jun,2022,
+Honda,City,Jun 22,Jun,2022,3292.0
+BMW,i5,Jun 22,Jun,2022,
+MG,Astor,Jun 22,Jun,2022,1640.0
+MG,Hector,Jun 22,Jun,2022,2402.0
+MG,Hector Plus,Jun 22,Jun,2022,
+MG,ZS EV,Jun 22,Jun,2022,310.0
+BMW,X4,Jun 22,Jun,2022,
+BMW,iX Electric,Jun 22,Jun,2022,
+BMW,3-Series,Jun 22,Jun,2022,
+BMW,iX1,Jun 22,Jun,2022,
+Honda,Amaze,Jun 22,Jun,2022,3350.0
+Honda,City Hybrid,Jun 22,Jun,2022,
+Mahindra,Marazzo,Jun 22,Jun,2022,124.0
+Skoda,Superb,Jun 22,Jun,2022,139.0
+Tata,Magic Express 10 Seater,Jun 22,Jun,2022,
+Volkswagen,Virtus,Jun 22,Jun,2022,1850.0
+BMW,i4,Jun 22,Jun,2022,
+Skoda,Kushaq,Jun 22,Jun,2022,2983.0
+KIA,Seltos,Jun 22,Jun,2022,8388.0
+Tata,Tigor EV,Jun 22,Jun,2022,
+Skoda,Slavia,Jun 22,Jun,2022,2765.0
+Skoda,Kodiaq,Jun 22,Jun,2022,79.0
+Maruti Suzuki,Ignis,Jun 22,Jun,2022,4960.0
+Hyundai,i20 N Line,Jun 22,Jun,2022,
+Maruti Suzuki,Fronx,Jun 22,Jun,2022,0.0
+Jeep,Grand Cherokee,Jun 22,Jun,2022,
+Land Rover,Range Rover Velar,Jun 22,Jun,2022,
+Land Rover,Range Rover Evoque,Jun 22,Jun,2022,
+Audi,A4,Jun 22,Jun,2022,
+Land Rover,Range Rover,Jun 22,Jun,2022,
+Land Rover,Discovery Sport,Jun 22,Jun,2022,
+Land Rover,Range Rover Sport,Jun 22,Jun,2022,
+Land Rover,Discovery,Jun 22,Jun,2022,
+Jeep,Wrangler,Jun 22,Jun,2022,
+Jeep,Compass,Jun 22,Jun,2022,892.0
+Volkswagen,Tiguan,Jun 22,Jun,2022,60.0
+Audi,Q3,Jun 22,Jun,2022,
+Audi,Q3 Sportback,Jun 22,Jun,2022,
+Jeep,Meridian,Jun 22,Jun,2022,1071.0
+Land Rover,Defender,Jun 22,Jun,2022,
+Audi,RS Q8,Jun 22,Jun,2022,
+Audi,RS5,Jun 22,Jun,2022,
+Audi,e-tron,Jun 22,Jun,2022,
+Audi,Q8,Jun 22,Jun,2022,
+Volvo,S90,Jun 22,Jun,2022,
+Audi,A8L,Jun 22,Jun,2022,
+Volvo,XC60,Jun 22,Jun,2022,
+Volvo,XC90,Jun 22,Jun,2022,
+Volvo,XC40 Recharge,Jun 22,Jun,2022,
+Volvo,C40 Recharge,Jun 22,Jun,2022,
+Jaguar,F-Type,Jun 22,Jun,2022,
+Jaguar,I-Pace,Jun 22,Jun,2022,
+Audi,S5 Sportback,Jun 22,Jun,2022,
+Audi,Q5,Jun 22,Jun,2022,
+Jaguar,F-Pace,Jun 22,Jun,2022,
+Audi,Q7,Jun 22,Jun,2022,
+Audi,Q8 e-tron,Jun 22,Jun,2022,
+Porsche,Macan,Jun 22,Jun,2022,
+Porsche,Cayenne,Jun 22,Jun,2022,
+Porsche,Cayenne Coupe,Jun 22,Jun,2022,
+Citroen,C3,Jun 22,Jun,2022,60.0
+Citroen,eC3,Jun 22,Jun,2022,0.0
+Lamborghini,Urus,Jun 22,Jun,2022,
+Citroen,C5 Aircross,Jun 22,Jun,2022,17.0
+Porsche,Panamera,Jun 22,Jun,2022,
+Lamborghini,Revuelto,Jun 22,Jun,2022,
+Porsche,718,Jun 22,Jun,2022,
+BYD Auto,Atto 3,Jun 22,Jun,2022,
+Lamborghini,Huracan EVO,Jun 22,Jun,2022,
+Renault,Triber,Jun 22,Jun,2022,3346.0
+Nissan,Magnite,Jun 22,Jun,2022,3331.0
+Porsche,Taycan,Jun 22,Jun,2022,
+Lexus,LC 500h,Jun 22,Jun,2022,
+Lexus,ES,Jun 22,Jun,2022,
+Lexus,LS 500h,Jun 22,Jun,2022,
+Rolls-Royce,Cullinan,Jun 22,Jun,2022,
+Lexus,NX,Jun 22,Jun,2022,
+Lexus,RX,Jun 22,Jun,2022,
+Lexus,LM 350h,Jun 22,Jun,2022,
+Mini,Cooper SE,Jun 22,Jun,2022,
+Rolls-Royce,Phantom,Jun 22,Jun,2022,
+BYD Auto,Seal EV,Jun 22,Jun,2022,
+Rolls-Royce,Ghost,Jun 22,Jun,2022,
+Rolls-Royce,Wraith,Jun 22,Jun,2022,
+Rolls-Royce,Dawn,Jun 22,Jun,2022,
+Mini,Cooper Countryman,Jun 22,Jun,2022,
+Mini,3 Door,Jun 22,Jun,2022,
+Lexus,LX,Jun 22,Jun,2022,
+Renault,Kiger,Jun 22,Jun,2022,3411.0
+Ferrari,F8 Tributo,Jun 22,Jun,2022,
+Ferrari,SF90 Stradale,Jun 22,Jun,2022,
+Ferrari,812,Jun 22,Jun,2022,
+Maserati,Quattroporte,Jun 22,Jun,2022,
+Isuzu,S-Cab,Jun 22,Jun,2022,
+Maserati,Ghibli,Jun 22,Jun,2022,
+Isuzu,Hi-Lander,Jun 22,Jun,2022,
+Maserati,GranTurismo,Jun 22,Jun,2022,
+Maserati,GranCabrio,Jun 22,Jun,2022,
+Isuzu,V-Cross,Jun 22,Jun,2022,
+Isuzu,MU-X,Jun 22,Jun,2022,
+Isuzu,D-Max,Jun 22,Jun,2022,
+Mclaren,GT,Jun 22,Jun,2022,
+Mclaren,750S,Jun 22,Jun,2022,
+Force,Gurkha,Jun 22,Jun,2022,
+Force,Gurkha 5 Door,Jun 22,Jun,2022,
+Ferrari,Roma,Jun 22,Jun,2022,
+Ferrari,296 GTB,Jun 22,Jun,2022,
+Mercedes-Benz,G-Class,Jun 22,Jun,2022,
+Aston Martin,DBX,Jun 22,Jun,2022,
+Mercedes-Benz,C-Class,Jun 22,Jun,2022,
+Mercedes-Benz,GLS,Jun 22,Jun,2022,
+Mercedes-Benz,A Class Sedan Limousine,Jun 22,Jun,2022,
+Mercedes-Benz,GLA,Jun 22,Jun,2022,
+Mercedes-Benz,GLC,Jun 22,Jun,2022,
+Mercedes-Benz,Maybach S-Class,Jun 22,Jun,2022,
+Mercedes-Benz,E-Class,Jun 22,Jun,2022,
+Mercedes-Benz,GLE-Class,Jun 22,Jun,2022,
+Mercedes-Benz,GLB,Jun 22,Jun,2022,
+Mercedes-Benz,AMG E 53 Cabriolet,Jun 22,Jun,2022,
+Mercedes-Benz,GLC Coupe,Jun 22,Jun,2022,
+Aston Martin,Vantage,Jun 22,Jun,2022,
+Mercedes-Benz,AMG E 53,Jun 22,Jun,2022,
+Mercedes-Benz,AMG A 45 S,Jun 22,Jun,2022,
+Aston Martin,DB 12,Jun 22,Jun,2022,
+Mercedes-Benz,S Class,Jun 22,Jun,2022,
+Pravaig,Defy,Jun 22,Jun,2022,
+Mercedes-Benz,EQS,Jun 22,Jun,2022,
+Mercedes-Benz,AMG GLE 53 Coupe,Jun 22,Jun,2022,
+Mercedes-Benz,AMG GLC 43,Jun 22,Jun,2022,
+Bajaj,Qute (RE60),Jun 22,Jun,2022,
+Strom Motors,R3,Jun 22,Jun,2022,
+Bentley,Bentayga,Jun 22,Jun,2022,
+Porsche,911,Jun 22,Jun,2022,
+Audi,A6,Jun 22,Jun,2022,
+Mercedes-Benz,EQB,Jun 22,Jun,2022,
+Volkswagen,Taigun,Jun 22,Jun,2022,1327.0
+Citroen,C3 Aircross,Jun 22,Jun,2022,
+BYD Auto,E6 Electric,Jun 22,Jun,2022,
+Mercedes-Benz,AMG E 63,Jun 22,Jun,2022,
+Mclaren,720S,Jun 22,Jun,2022,
+Mercedes-Benz,EQE,Jun 22,Jun,2022,
+Tata,Nexon,Jun 22,Jun,2022,14295.0
+Renault,Kwid,Jun 22,Jun,2022,2560.0
+Audi,RS E-Tron GT,Jun 22,Jun,2022,
+Audi,E-Tron GT,Jun 22,Jun,2022,
+Maruti Suzuki,Grand Vitara,Jun 23,Jun,2023,10486.0
+Maruti Suzuki,Celerio,Jun 23,Jun,2023,3399.0
+Maruti Suzuki,Baleno,Jun 23,Jun,2023,14077.0
+Maruti Suzuki,S-Presso,Jun 23,Jun,2023,2731.0
+Maruti Suzuki,Alto K10,Jun 23,Jun,2023,
+Maruti Suzuki,Dzire,Jun 23,Jun,2023,9322.0
+Maruti Suzuki,Ertiga,Jun 23,Jun,2023,8422.0
+Maruti Suzuki,Swift,Jun 23,Jun,2023,15955.0
+Maruti Suzuki,XL6,Jun 23,Jun,2023,2856.0
+Maruti Suzuki,Brezza,Jun 23,Jun,2023,
+Maruti Suzuki,Wagon R,Jun 23,Jun,2023,17481.0
+Maruti Suzuki,Jimny,Jun 23,Jun,2023,3071.0
+Hyundai,Verna,Jun 23,Jun,2023,4001.0
+Hyundai,Aura,Jun 23,Jun,2023,4907.0
+Hyundai,Grand i10 Nios,Jun 23,Jun,2023,
+Maruti Suzuki,Ciaz,Jun 23,Jun,2023,1744.0
+Hyundai,Exter,Jun 23,Jun,2023,
+Hyundai,Creta N Line,Jun 23,Jun,2023,
+Hyundai,Tucson,Jun 23,Jun,2023,263.0
+Maruti Suzuki,Eeco,Jun 23,Jun,2023,9354.0
+Hyundai,i20,Jun 23,Jun,2023,
+Maruti Suzuki,Invicto,Jun 23,Jun,2023,
+Hyundai,Creta,Jun 23,Jun,2023,14447.0
+Hyundai,Alcazar,Jun 23,Jun,2023,2119.0
+Hyundai,Venue,Jun 23,Jun,2023,11606.0
+Tata,Tiago NRG BS6,Jun 23,Jun,2023,
+Tata,Tiago,Jun 23,Jun,2023,8135.0
+Tata,Punch EV,Jun 23,Jun,2023,
+Tata,Tigor,Jun 23,Jun,2023,3335.0
+Tata,Nexon EV,Jun 23,Jun,2023,
+Tata,Altroz,Jun 23,Jun,2023,7250.0
+Tata,Harrier,Jun 23,Jun,2023,2040.0
+Tata,Tiago EV,Jun 23,Jun,2023,
+Hyundai,Venue N Line,Jun 23,Jun,2023,
+Hyundai,Ioniq 5,Jun 23,Jun,2023,100.0
+Tata,Safari,Jun 23,Jun,2023,1663.0
+Tata,Punch,Jun 23,Jun,2023,10990.0
+Hyundai,Kona Electric,Jun 23,Jun,2023,75.0
+Tata,Xpres-T EV,Jun 23,Jun,2023,
+Mahindra,Scorpio Classic,Jun 23,Jun,2023,
+Tata,Altroz CNG,Jun 23,Jun,2023,
+Tata,Altroz Racer,Jun 23,Jun,2023,
+Mahindra,Thar,Jun 23,Jun,2023,3899.0
+Toyota,Innova Crysta,Jun 23,Jun,2023,
+Mahindra,XUV700,Jun 23,Jun,2023,5391.0
+Mahindra,Bolero,Jun 23,Jun,2023,8686.0
+Mahindra,XUV 400 Electric,Jun 23,Jun,2023,788.0
+Mahindra,Scorpio N,Jun 23,Jun,2023,
+Mahindra,XUV 3X0,Jun 23,Jun,2023,
+Mahindra,Bolero Neo,Jun 23,Jun,2023,
+Mahindra,Bolero Neo Plus,Jun 23,Jun,2023,
+Tata,Tigor CNG,Jun 23,Jun,2023,
+Tata,Tiago CNG,Jun 23,Jun,2023,
+Tata,Punch CNG,Jun 23,Jun,2023,
+Tata,Magic Mantra 10 Seater,Jun 23,Jun,2023,
+Toyota,Fortuner,Jun 23,Jun,2023,3086.0
+Toyota,Innova Hycross,Jun 23,Jun,2023,8361.0
+Toyota,Land Cruiser LC300,Jun 23,Jun,2023,
+Toyota,Hilux,Jun 23,Jun,2023,318.0
+Toyota,Camry,Jun 23,Jun,2023,184.0
+Toyota,Vellfire,Jun 23,Jun,2023,0.0
+Toyota,Fortuner Legender,Jun 23,Jun,2023,
+Toyota,Urban Cruiser HyRyder,Jun 23,Jun,2023,2821.0
+Toyota,Glanza,Jun 23,Jun,2023,3467.0
+Mahindra,KUV100 NXT,Jun 23,Jun,2023,
+Toyota,Taisor,Jun 23,Jun,2023,
+Toyota,Rumion,Jun 23,Jun,2023,
+Mahindra,XUV 300,Jun 23,Jun,2023,5094.0
+BMW,M4 Competition,Jun 23,Jun,2023,
+BMW,X7,Jun 23,Jun,2023,
+KIA,Carens,Jun 23,Jun,2023,8047.0
+BMW,7-Series,Jun 23,Jun,2023,
+BMW,X1,Jun 23,Jun,2023,
+BMW,2 Series Gran Coupe,Jun 23,Jun,2023,
+BMW,3 Series Gran Limousine,Jun 23,Jun,2023,
+BMW,Z4,Jun 23,Jun,2023,
+BMW,M2,Jun 23,Jun,2023,
+BMW,6 Series,Jun 23,Jun,2023,
+BMW,X5,Jun 23,Jun,2023,
+KIA,Sonet,Jun 23,Jun,2023,7722.0
+BMW,X3,Jun 23,Jun,2023,
+BMW,M8 Coupe Competition,Jun 23,Jun,2023,
+KIA,EV6,Jun 23,Jun,2023,44.0
+BMW,i7,Jun 23,Jun,2023,
+BMW,XM,Jun 23,Jun,2023,
+MG,Gloster,Jun 23,Jun,2023,263.0
+MG,Comet EV,Jun 23,Jun,2023,1184.0
+Honda,Elevate,Jun 23,Jun,2023,
+Honda,City,Jun 23,Jun,2023,1478.0
+BMW,i5,Jun 23,Jun,2023,
+MG,Astor,Jun 23,Jun,2023,891.0
+MG,Hector,Jun 23,Jun,2023,2170.0
+MG,Hector Plus,Jun 23,Jun,2023,
+MG,ZS EV,Jun 23,Jun,2023,617.0
+BMW,X4,Jun 23,Jun,2023,
+BMW,iX Electric,Jun 23,Jun,2023,
+BMW,3-Series,Jun 23,Jun,2023,
+BMW,iX1,Jun 23,Jun,2023,
+Honda,Amaze,Jun 23,Jun,2023,3602.0
+Honda,City Hybrid,Jun 23,Jun,2023,
+Mahindra,Marazzo,Jun 23,Jun,2023,79.0
+Skoda,Superb,Jun 23,Jun,2023,0.0
+Tata,Magic Express 10 Seater,Jun 23,Jun,2023,
+Volkswagen,Virtus,Jun 23,Jun,2023,1812.0
+BMW,i4,Jun 23,Jun,2023,
+Skoda,Kushaq,Jun 23,Jun,2023,2133.0
+KIA,Seltos,Jun 23,Jun,2023,3578.0
+Tata,Tigor EV,Jun 23,Jun,2023,
+Skoda,Slavia,Jun 23,Jun,2023,1639.0
+Skoda,Kodiaq,Jun 23,Jun,2023,194.0
+Maruti Suzuki,Ignis,Jun 23,Jun,2023,4237.0
+Hyundai,i20 N Line,Jun 23,Jun,2023,
+Maruti Suzuki,Fronx,Jun 23,Jun,2023,7991.0
+Jeep,Grand Cherokee,Jun 23,Jun,2023,
+Land Rover,Range Rover Velar,Jun 23,Jun,2023,
+Land Rover,Range Rover Evoque,Jun 23,Jun,2023,
+Audi,A4,Jun 23,Jun,2023,
+Land Rover,Range Rover,Jun 23,Jun,2023,
+Land Rover,Discovery Sport,Jun 23,Jun,2023,
+Land Rover,Range Rover Sport,Jun 23,Jun,2023,
+Land Rover,Discovery,Jun 23,Jun,2023,
+Jeep,Wrangler,Jun 23,Jun,2023,
+Jeep,Compass,Jun 23,Jun,2023,211.0
+Volkswagen,Tiguan,Jun 23,Jun,2023,133.0
+Audi,Q3,Jun 23,Jun,2023,
+Audi,Q3 Sportback,Jun 23,Jun,2023,
+Jeep,Meridian,Jun 23,Jun,2023,282.0
+Land Rover,Defender,Jun 23,Jun,2023,
+Audi,RS Q8,Jun 23,Jun,2023,
+Audi,RS5,Jun 23,Jun,2023,
+Audi,e-tron,Jun 23,Jun,2023,
+Audi,Q8,Jun 23,Jun,2023,
+Volvo,S90,Jun 23,Jun,2023,
+Audi,A8L,Jun 23,Jun,2023,
+Volvo,XC60,Jun 23,Jun,2023,
+Volvo,XC90,Jun 23,Jun,2023,
+Volvo,XC40 Recharge,Jun 23,Jun,2023,
+Volvo,C40 Recharge,Jun 23,Jun,2023,
+Jaguar,F-Type,Jun 23,Jun,2023,
+Jaguar,I-Pace,Jun 23,Jun,2023,
+Audi,S5 Sportback,Jun 23,Jun,2023,
+Audi,Q5,Jun 23,Jun,2023,
+Jaguar,F-Pace,Jun 23,Jun,2023,
+Audi,Q7,Jun 23,Jun,2023,
+Audi,Q8 e-tron,Jun 23,Jun,2023,
+Porsche,Macan,Jun 23,Jun,2023,
+Porsche,Cayenne,Jun 23,Jun,2023,
+Porsche,Cayenne Coupe,Jun 23,Jun,2023,
+Citroen,C3,Jun 23,Jun,2023,867.0
+Citroen,eC3,Jun 23,Jun,2023,124.0
+Lamborghini,Urus,Jun 23,Jun,2023,
+Citroen,C5 Aircross,Jun 23,Jun,2023,12.0
+Porsche,Panamera,Jun 23,Jun,2023,
+Lamborghini,Revuelto,Jun 23,Jun,2023,
+Porsche,718,Jun 23,Jun,2023,
+BYD Auto,Atto 3,Jun 23,Jun,2023,
+Lamborghini,Huracan EVO,Jun 23,Jun,2023,
+Renault,Triber,Jun 23,Jun,2023,2257.0
+Nissan,Magnite,Jun 23,Jun,2023,2552.0
+Porsche,Taycan,Jun 23,Jun,2023,
+Lexus,LC 500h,Jun 23,Jun,2023,
+Lexus,ES,Jun 23,Jun,2023,
+Lexus,LS 500h,Jun 23,Jun,2023,
+Rolls-Royce,Cullinan,Jun 23,Jun,2023,
+Lexus,NX,Jun 23,Jun,2023,
+Lexus,RX,Jun 23,Jun,2023,
+Lexus,LM 350h,Jun 23,Jun,2023,
+Mini,Cooper SE,Jun 23,Jun,2023,
+Rolls-Royce,Phantom,Jun 23,Jun,2023,
+BYD Auto,Seal EV,Jun 23,Jun,2023,
+Rolls-Royce,Ghost,Jun 23,Jun,2023,
+Rolls-Royce,Wraith,Jun 23,Jun,2023,
+Rolls-Royce,Dawn,Jun 23,Jun,2023,
+Mini,Cooper Countryman,Jun 23,Jun,2023,
+Mini,3 Door,Jun 23,Jun,2023,
+Lexus,LX,Jun 23,Jun,2023,
+Renault,Kiger,Jun 23,Jun,2023,1844.0
+Ferrari,F8 Tributo,Jun 23,Jun,2023,
+Ferrari,SF90 Stradale,Jun 23,Jun,2023,
+Ferrari,812,Jun 23,Jun,2023,
+Maserati,Quattroporte,Jun 23,Jun,2023,
+Isuzu,S-Cab,Jun 23,Jun,2023,
+Maserati,Ghibli,Jun 23,Jun,2023,
+Isuzu,Hi-Lander,Jun 23,Jun,2023,
+Maserati,GranTurismo,Jun 23,Jun,2023,
+Maserati,GranCabrio,Jun 23,Jun,2023,
+Isuzu,V-Cross,Jun 23,Jun,2023,
+Isuzu,MU-X,Jun 23,Jun,2023,
+Isuzu,D-Max,Jun 23,Jun,2023,
+Mclaren,GT,Jun 23,Jun,2023,
+Mclaren,750S,Jun 23,Jun,2023,
+Force,Gurkha,Jun 23,Jun,2023,
+Force,Gurkha 5 Door,Jun 23,Jun,2023,
+Ferrari,Roma,Jun 23,Jun,2023,
+Ferrari,296 GTB,Jun 23,Jun,2023,
+Mercedes-Benz,G-Class,Jun 23,Jun,2023,
+Aston Martin,DBX,Jun 23,Jun,2023,
+Mercedes-Benz,C-Class,Jun 23,Jun,2023,
+Mercedes-Benz,GLS,Jun 23,Jun,2023,
+Mercedes-Benz,A Class Sedan Limousine,Jun 23,Jun,2023,
+Mercedes-Benz,GLA,Jun 23,Jun,2023,
+Mercedes-Benz,GLC,Jun 23,Jun,2023,
+Mercedes-Benz,Maybach S-Class,Jun 23,Jun,2023,
+Mercedes-Benz,E-Class,Jun 23,Jun,2023,
+Mercedes-Benz,GLE-Class,Jun 23,Jun,2023,
+Mercedes-Benz,GLB,Jun 23,Jun,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,Jun 23,Jun,2023,
+Mercedes-Benz,GLC Coupe,Jun 23,Jun,2023,
+Aston Martin,Vantage,Jun 23,Jun,2023,
+Mercedes-Benz,AMG E 53,Jun 23,Jun,2023,
+Mercedes-Benz,AMG A 45 S,Jun 23,Jun,2023,
+Aston Martin,DB 12,Jun 23,Jun,2023,
+Mercedes-Benz,S Class,Jun 23,Jun,2023,
+Pravaig,Defy,Jun 23,Jun,2023,
+Mercedes-Benz,EQS,Jun 23,Jun,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,Jun 23,Jun,2023,
+Mercedes-Benz,AMG GLC 43,Jun 23,Jun,2023,
+Bajaj,Qute (RE60),Jun 23,Jun,2023,
+Strom Motors,R3,Jun 23,Jun,2023,
+Bentley,Bentayga,Jun 23,Jun,2023,
+Porsche,911,Jun 23,Jun,2023,
+Audi,A6,Jun 23,Jun,2023,
+Mercedes-Benz,EQB,Jun 23,Jun,2023,
+Volkswagen,Taigun,Jun 23,Jun,2023,1449.0
+Citroen,C3 Aircross,Jun 23,Jun,2023,
+BYD Auto,E6 Electric,Jun 23,Jun,2023,
+Mercedes-Benz,AMG E 63,Jun 23,Jun,2023,
+Mclaren,720S,Jun 23,Jun,2023,
+Mercedes-Benz,EQE,Jun 23,Jun,2023,
+Tata,Nexon,Jun 23,Jun,2023,13827.0
+Renault,Kwid,Jun 23,Jun,2023,1349.0
+Audi,RS E-Tron GT,Jun 23,Jun,2023,
+Audi,E-Tron GT,Jun 23,Jun,2023,
+Maruti Suzuki,Grand Vitara,Mar 23,Mar,2023,10045.0
+Maruti Suzuki,Celerio,Mar 23,Mar,2023,4646.0
+Maruti Suzuki,Baleno,Mar 23,Mar,2023,16168.0
+Maruti Suzuki,S-Presso,Mar 23,Mar,2023,2443.0
+Maruti Suzuki,Alto K10,Mar 23,Mar,2023,
+Maruti Suzuki,Dzire,Mar 23,Mar,2023,13394.0
+Maruti Suzuki,Ertiga,Mar 23,Mar,2023,9028.0
+Maruti Suzuki,Swift,Mar 23,Mar,2023,17559.0
+Maruti Suzuki,XL6,Mar 23,Mar,2023,1754.0
+Maruti Suzuki,Brezza,Mar 23,Mar,2023,
+Maruti Suzuki,Wagon R,Mar 23,Mar,2023,17305.0
+Maruti Suzuki,Jimny,Mar 23,Mar,2023,0.0
+Hyundai,Verna,Mar 23,Mar,2023,3755.0
+Hyundai,Aura,Mar 23,Mar,2023,3774.0
+Hyundai,Grand i10 Nios,Mar 23,Mar,2023,
+Maruti Suzuki,Ciaz,Mar 23,Mar,2023,300.0
+Hyundai,Exter,Mar 23,Mar,2023,0.0
+Hyundai,Creta N Line,Mar 23,Mar,2023,
+Hyundai,Tucson,Mar 23,Mar,2023,581.0
+Maruti Suzuki,Eeco,Mar 23,Mar,2023,11995.0
+Hyundai,i20,Mar 23,Mar,2023,
+Maruti Suzuki,Invicto,Mar 23,Mar,2023,0.0
+Hyundai,Creta,Mar 23,Mar,2023,14026.0
+Hyundai,Alcazar,Mar 23,Mar,2023,2519.0
+Hyundai,Venue,Mar 23,Mar,2023,10024.0
+Tata,Tiago NRG BS6,Mar 23,Mar,2023,
+Tata,Tiago,Mar 23,Mar,2023,7366.0
+Tata,Punch EV,Mar 23,Mar,2023,
+Tata,Tigor,Mar 23,Mar,2023,2705.0
+Tata,Nexon EV,Mar 23,Mar,2023,
+Tata,Altroz,Mar 23,Mar,2023,3862.0
+Tata,Harrier,Mar 23,Mar,2023,2561.0
+Tata,Tiago EV,Mar 23,Mar,2023,
+Hyundai,Venue N Line,Mar 23,Mar,2023,
+Hyundai,Ioniq 5,Mar 23,Mar,2023,21.0
+Tata,Safari,Mar 23,Mar,2023,1890.0
+Tata,Punch,Mar 23,Mar,2023,10894.0
+Hyundai,Kona Electric,Mar 23,Mar,2023,0.0
+Tata,Xpres-T EV,Mar 23,Mar,2023,
+Mahindra,Scorpio Classic,Mar 23,Mar,2023,
+Tata,Altroz CNG,Mar 23,Mar,2023,
+Tata,Altroz Racer,Mar 23,Mar,2023,
+Mahindra,Thar,Mar 23,Mar,2023,5008.0
+Toyota,Innova Crysta,Mar 23,Mar,2023,
+Mahindra,XUV700,Mar 23,Mar,2023,5107.0
+Mahindra,Bolero,Mar 23,Mar,2023,9546.0
+Mahindra,XUV 400 Electric,Mar 23,Mar,2023,1909.0
+Mahindra,Scorpio N,Mar 23,Mar,2023,
+Mahindra,XUV 3X0,Mar 23,Mar,2023,
+Mahindra,Bolero Neo,Mar 23,Mar,2023,
+Mahindra,Bolero Neo Plus,Mar 23,Mar,2023,
+Tata,Tigor CNG,Mar 23,Mar,2023,
+Tata,Tiago CNG,Mar 23,Mar,2023,
+Tata,Punch CNG,Mar 23,Mar,2023,
+Tata,Magic Mantra 10 Seater,Mar 23,Mar,2023,
+Toyota,Fortuner,Mar 23,Mar,2023,3108.0
+Toyota,Innova Hycross,Mar 23,Mar,2023,8075.0
+Toyota,Land Cruiser LC300,Mar 23,Mar,2023,
+Toyota,Hilux,Mar 23,Mar,2023,223.0
+Toyota,Camry,Mar 23,Mar,2023,98.0
+Toyota,Vellfire,Mar 23,Mar,2023,239.0
+Toyota,Fortuner Legender,Mar 23,Mar,2023,
+Toyota,Urban Cruiser HyRyder,Mar 23,Mar,2023,3474.0
+Toyota,Glanza,Mar 23,Mar,2023,3365.0
+Mahindra,KUV100 NXT,Mar 23,Mar,2023,
+Toyota,Taisor,Mar 23,Mar,2023,
+Toyota,Rumion,Mar 23,Mar,2023,88.0
+Mahindra,XUV 300,Mar 23,Mar,2023,5128.0
+BMW,M4 Competition,Mar 23,Mar,2023,
+BMW,X7,Mar 23,Mar,2023,
+KIA,Carens,Mar 23,Mar,2023,6102.0
+BMW,7-Series,Mar 23,Mar,2023,
+BMW,X1,Mar 23,Mar,2023,
+BMW,2 Series Gran Coupe,Mar 23,Mar,2023,
+BMW,3 Series Gran Limousine,Mar 23,Mar,2023,
+BMW,Z4,Mar 23,Mar,2023,
+BMW,M2,Mar 23,Mar,2023,
+BMW,6 Series,Mar 23,Mar,2023,
+BMW,X5,Mar 23,Mar,2023,
+KIA,Sonet,Mar 23,Mar,2023,8677.0
+BMW,X3,Mar 23,Mar,2023,
+BMW,M8 Coupe Competition,Mar 23,Mar,2023,
+KIA,EV6,Mar 23,Mar,2023,0.0
+BMW,i7,Mar 23,Mar,2023,
+BMW,XM,Mar 23,Mar,2023,
+MG,Gloster,Mar 23,Mar,2023,247.0
+MG,Comet EV,Mar 23,Mar,2023,0.0
+Honda,Elevate,Mar 23,Mar,2023,0.0
+Honda,City,Mar 23,Mar,2023,2693.0
+BMW,i5,Mar 23,Mar,2023,
+MG,Astor,Mar 23,Mar,2023,1151.0
+MG,Hector,Mar 23,Mar,2023,4105.0
+MG,Hector Plus,Mar 23,Mar,2023,
+MG,ZS EV,Mar 23,Mar,2023,548.0
+BMW,X4,Mar 23,Mar,2023,
+BMW,iX Electric,Mar 23,Mar,2023,
+BMW,3-Series,Mar 23,Mar,2023,
+BMW,iX1,Mar 23,Mar,2023,
+Honda,Amaze,Mar 23,Mar,2023,3996.0
+Honda,City Hybrid,Mar 23,Mar,2023,
+Mahindra,Marazzo,Mar 23,Mar,2023,490.0
+Skoda,Superb,Mar 23,Mar,2023,104.0
+Tata,Magic Express 10 Seater,Mar 23,Mar,2023,
+Volkswagen,Virtus,Mar 23,Mar,2023,1792.0
+BMW,i4,Mar 23,Mar,2023,
+Skoda,Kushaq,Mar 23,Mar,2023,2252.0
+KIA,Seltos,Mar 23,Mar,2023,6554.0
+Tata,Tigor EV,Mar 23,Mar,2023,
+Skoda,Slavia,Mar 23,Mar,2023,1574.0
+Skoda,Kodiaq,Mar 23,Mar,2023,416.0
+Maruti Suzuki,Ignis,Mar 23,Mar,2023,2760.0
+Hyundai,i20 N Line,Mar 23,Mar,2023,
+Maruti Suzuki,Fronx,Mar 23,Mar,2023,0.0
+Jeep,Grand Cherokee,Mar 23,Mar,2023,
+Land Rover,Range Rover Velar,Mar 23,Mar,2023,
+Land Rover,Range Rover Evoque,Mar 23,Mar,2023,
+Audi,A4,Mar 23,Mar,2023,
+Land Rover,Range Rover,Mar 23,Mar,2023,
+Land Rover,Discovery Sport,Mar 23,Mar,2023,
+Land Rover,Range Rover Sport,Mar 23,Mar,2023,
+Land Rover,Discovery,Mar 23,Mar,2023,
+Jeep,Wrangler,Mar 23,Mar,2023,
+Jeep,Compass,Mar 23,Mar,2023,395.0
+Volkswagen,Tiguan,Mar 23,Mar,2023,132.0
+Audi,Q3,Mar 23,Mar,2023,
+Audi,Q3 Sportback,Mar 23,Mar,2023,
+Jeep,Meridian,Mar 23,Mar,2023,285.0
+Land Rover,Defender,Mar 23,Mar,2023,
+Audi,RS Q8,Mar 23,Mar,2023,
+Audi,RS5,Mar 23,Mar,2023,
+Audi,e-tron,Mar 23,Mar,2023,
+Audi,Q8,Mar 23,Mar,2023,
+Volvo,S90,Mar 23,Mar,2023,
+Audi,A8L,Mar 23,Mar,2023,
+Volvo,XC60,Mar 23,Mar,2023,
+Volvo,XC90,Mar 23,Mar,2023,
+Volvo,XC40 Recharge,Mar 23,Mar,2023,
+Volvo,C40 Recharge,Mar 23,Mar,2023,
+Jaguar,F-Type,Mar 23,Mar,2023,
+Jaguar,I-Pace,Mar 23,Mar,2023,
+Audi,S5 Sportback,Mar 23,Mar,2023,
+Audi,Q5,Mar 23,Mar,2023,
+Jaguar,F-Pace,Mar 23,Mar,2023,
+Audi,Q7,Mar 23,Mar,2023,
+Audi,Q8 e-tron,Mar 23,Mar,2023,
+Porsche,Macan,Mar 23,Mar,2023,
+Porsche,Cayenne,Mar 23,Mar,2023,
+Porsche,Cayenne Coupe,Mar 23,Mar,2023,
+Citroen,C3,Mar 23,Mar,2023,1075.0
+Citroen,eC3,Mar 23,Mar,2023,888.0
+Lamborghini,Urus,Mar 23,Mar,2023,
+Citroen,C5 Aircross,Mar 23,Mar,2023,52.0
+Porsche,Panamera,Mar 23,Mar,2023,
+Lamborghini,Revuelto,Mar 23,Mar,2023,
+Porsche,718,Mar 23,Mar,2023,
+BYD Auto,Atto 3,Mar 23,Mar,2023,
+Lamborghini,Huracan EVO,Mar 23,Mar,2023,
+Renault,Triber,Mar 23,Mar,2023,2538.0
+Nissan,Magnite,Mar 23,Mar,2023,3260.0
+Porsche,Taycan,Mar 23,Mar,2023,
+Lexus,LC 500h,Mar 23,Mar,2023,
+Lexus,ES,Mar 23,Mar,2023,
+Lexus,LS 500h,Mar 23,Mar,2023,
+Rolls-Royce,Cullinan,Mar 23,Mar,2023,
+Lexus,NX,Mar 23,Mar,2023,
+Lexus,RX,Mar 23,Mar,2023,
+Lexus,LM 350h,Mar 23,Mar,2023,
+Mini,Cooper SE,Mar 23,Mar,2023,
+Rolls-Royce,Phantom,Mar 23,Mar,2023,
+BYD Auto,Seal EV,Mar 23,Mar,2023,
+Rolls-Royce,Ghost,Mar 23,Mar,2023,
+Rolls-Royce,Wraith,Mar 23,Mar,2023,
+Rolls-Royce,Dawn,Mar 23,Mar,2023,
+Mini,Cooper Countryman,Mar 23,Mar,2023,
+Mini,3 Door,Mar 23,Mar,2023,
+Lexus,LX,Mar 23,Mar,2023,
+Renault,Kiger,Mar 23,Mar,2023,1568.0
+Ferrari,F8 Tributo,Mar 23,Mar,2023,
+Ferrari,SF90 Stradale,Mar 23,Mar,2023,
+Ferrari,812,Mar 23,Mar,2023,
+Maserati,Quattroporte,Mar 23,Mar,2023,
+Isuzu,S-Cab,Mar 23,Mar,2023,
+Maserati,Ghibli,Mar 23,Mar,2023,
+Isuzu,Hi-Lander,Mar 23,Mar,2023,
+Maserati,GranTurismo,Mar 23,Mar,2023,
+Maserati,GranCabrio,Mar 23,Mar,2023,
+Isuzu,V-Cross,Mar 23,Mar,2023,
+Isuzu,MU-X,Mar 23,Mar,2023,
+Isuzu,D-Max,Mar 23,Mar,2023,
+Mclaren,GT,Mar 23,Mar,2023,
+Mclaren,750S,Mar 23,Mar,2023,
+Force,Gurkha,Mar 23,Mar,2023,
+Force,Gurkha 5 Door,Mar 23,Mar,2023,
+Ferrari,Roma,Mar 23,Mar,2023,
+Ferrari,296 GTB,Mar 23,Mar,2023,
+Mercedes-Benz,G-Class,Mar 23,Mar,2023,
+Aston Martin,DBX,Mar 23,Mar,2023,
+Mercedes-Benz,C-Class,Mar 23,Mar,2023,
+Mercedes-Benz,GLS,Mar 23,Mar,2023,
+Mercedes-Benz,A Class Sedan Limousine,Mar 23,Mar,2023,
+Mercedes-Benz,GLA,Mar 23,Mar,2023,
+Mercedes-Benz,GLC,Mar 23,Mar,2023,
+Mercedes-Benz,Maybach S-Class,Mar 23,Mar,2023,
+Mercedes-Benz,E-Class,Mar 23,Mar,2023,
+Mercedes-Benz,GLE-Class,Mar 23,Mar,2023,
+Mercedes-Benz,GLB,Mar 23,Mar,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,Mar 23,Mar,2023,
+Mercedes-Benz,GLC Coupe,Mar 23,Mar,2023,
+Aston Martin,Vantage,Mar 23,Mar,2023,
+Mercedes-Benz,AMG E 53,Mar 23,Mar,2023,
+Mercedes-Benz,AMG A 45 S,Mar 23,Mar,2023,
+Aston Martin,DB 12,Mar 23,Mar,2023,
+Mercedes-Benz,S Class,Mar 23,Mar,2023,
+Pravaig,Defy,Mar 23,Mar,2023,
+Mercedes-Benz,EQS,Mar 23,Mar,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,Mar 23,Mar,2023,
+Mercedes-Benz,AMG GLC 43,Mar 23,Mar,2023,
+Bajaj,Qute (RE60),Mar 23,Mar,2023,
+Strom Motors,R3,Mar 23,Mar,2023,
+Bentley,Bentayga,Mar 23,Mar,2023,
+Porsche,911,Mar 23,Mar,2023,
+Audi,A6,Mar 23,Mar,2023,
+Mercedes-Benz,EQB,Mar 23,Mar,2023,
+Volkswagen,Taigun,Mar 23,Mar,2023,1976.0
+Citroen,C3 Aircross,Mar 23,Mar,2023,0.0
+BYD Auto,E6 Electric,Mar 23,Mar,2023,
+Mercedes-Benz,AMG E 63,Mar 23,Mar,2023,
+Mclaren,720S,Mar 23,Mar,2023,
+Mercedes-Benz,EQE,Mar 23,Mar,2023,
+Tata,Nexon,Mar 23,Mar,2023,14769.0
+Renault,Kwid,Mar 23,Mar,2023,1283.0
+Audi,RS E-Tron GT,Mar 23,Mar,2023,
+Audi,E-Tron GT,Mar 23,Mar,2023,
+Maruti Suzuki,Grand Vitara,Mar 24,Mar,2024,11232.0
+Maruti Suzuki,Celerio,Mar 24,Mar,2024,3478.0
+Maruti Suzuki,Baleno,Mar 24,Mar,2024,15588.0
+Maruti Suzuki,S-Presso,Mar 24,Mar,2024,2497.0
+Maruti Suzuki,Alto K10,Mar 24,Mar,2024,
+Maruti Suzuki,Dzire,Mar 24,Mar,2024,15894.0
+Maruti Suzuki,Ertiga,Mar 24,Mar,2024,14888.0
+Maruti Suzuki,Swift,Mar 24,Mar,2024,15728.0
+Maruti Suzuki,XL6,Mar 24,Mar,2024,4505.0
+Maruti Suzuki,Brezza,Mar 24,Mar,2024,
+Maruti Suzuki,Wagon R,Mar 24,Mar,2024,16368.0
+Maruti Suzuki,Jimny,Mar 24,Mar,2024,318.0
+Hyundai,Verna,Mar 24,Mar,2024,1716.0
+Hyundai,Aura,Mar 24,Mar,2024,4883.0
+Hyundai,Grand i10 Nios,Mar 24,Mar,2024,
+Maruti Suzuki,Ciaz,Mar 24,Mar,2024,590.0
+Hyundai,Exter,Mar 24,Mar,2024,8475.0
+Hyundai,Creta N Line,Mar 24,Mar,2024,
+Hyundai,Tucson,Mar 24,Mar,2024,110.0
+Maruti Suzuki,Eeco,Mar 24,Mar,2024,12019.0
+Hyundai,i20,Mar 24,Mar,2024,
+Maruti Suzuki,Invicto,Mar 24,Mar,2024,348.0
+Hyundai,Creta,Mar 24,Mar,2024,16458.0
+Hyundai,Alcazar,Mar 24,Mar,2024,1420.0
+Hyundai,Venue,Mar 24,Mar,2024,9614.0
+Tata,Tiago NRG BS6,Mar 24,Mar,2024,
+Tata,Tiago,Mar 24,Mar,2024,6381.0
+Tata,Punch EV,Mar 24,Mar,2024,
+Tata,Tigor,Mar 24,Mar,2024,2017.0
+Tata,Nexon EV,Mar 24,Mar,2024,
+Tata,Altroz,Mar 24,Mar,2024,5985.0
+Tata,Harrier,Mar 24,Mar,2024,2054.0
+Tata,Tiago EV,Mar 24,Mar,2024,
+Hyundai,Venue N Line,Mar 24,Mar,2024,
+Hyundai,Ioniq 5,Mar 24,Mar,2024,65.0
+Tata,Safari,Mar 24,Mar,2024,2063.0
+Tata,Punch,Mar 24,Mar,2024,17547.0
+Hyundai,Kona Electric,Mar 24,Mar,2024,71.0
+Tata,Xpres-T EV,Mar 24,Mar,2024,
+Mahindra,Scorpio Classic,Mar 24,Mar,2024,
+Tata,Altroz CNG,Mar 24,Mar,2024,
+Tata,Altroz Racer,Mar 24,Mar,2024,
+Mahindra,Thar,Mar 24,Mar,2024,6049.0
+Toyota,Innova Crysta,Mar 24,Mar,2024,
+Mahindra,XUV700,Mar 24,Mar,2024,6611.0
+Mahindra,Bolero,Mar 24,Mar,2024,10347.0
+Mahindra,XUV 400 Electric,Mar 24,Mar,2024,350.0
+Mahindra,Scorpio N,Mar 24,Mar,2024,
+Mahindra,XUV 3X0,Mar 24,Mar,2024,
+Mahindra,Bolero Neo,Mar 24,Mar,2024,
+Mahindra,Bolero Neo Plus,Mar 24,Mar,2024,
+Tata,Tigor CNG,Mar 24,Mar,2024,
+Tata,Tiago CNG,Mar 24,Mar,2024,
+Tata,Punch CNG,Mar 24,Mar,2024,
+Tata,Magic Mantra 10 Seater,Mar 24,Mar,2024,
+Toyota,Fortuner,Mar 24,Mar,2024,3621.0
+Toyota,Innova Hycross,Mar 24,Mar,2024,9900.0
+Toyota,Land Cruiser LC300,Mar 24,Mar,2024,
+Toyota,Hilux,Mar 24,Mar,2024,356.0
+Toyota,Camry,Mar 24,Mar,2024,232.0
+Toyota,Vellfire,Mar 24,Mar,2024,38.0
+Toyota,Fortuner Legender,Mar 24,Mar,2024,
+Toyota,Urban Cruiser HyRyder,Mar 24,Mar,2024,5965.0
+Toyota,Glanza,Mar 24,Mar,2024,4319.0
+Mahindra,KUV100 NXT,Mar 24,Mar,2024,
+Toyota,Taisor,Mar 24,Mar,2024,
+Toyota,Rumion,Mar 24,Mar,2024,688.0
+Mahindra,XUV 300,Mar 24,Mar,2024,2072.0
+BMW,M4 Competition,Mar 24,Mar,2024,
+BMW,X7,Mar 24,Mar,2024,
+KIA,Carens,Mar 24,Mar,2024,4737.0
+BMW,7-Series,Mar 24,Mar,2024,
+BMW,X1,Mar 24,Mar,2024,
+BMW,2 Series Gran Coupe,Mar 24,Mar,2024,
+BMW,3 Series Gran Limousine,Mar 24,Mar,2024,
+BMW,Z4,Mar 24,Mar,2024,
+BMW,M2,Mar 24,Mar,2024,
+BMW,6 Series,Mar 24,Mar,2024,
+BMW,X5,Mar 24,Mar,2024,
+KIA,Sonet,Mar 24,Mar,2024,8750.0
+BMW,X3,Mar 24,Mar,2024,
+BMW,M8 Coupe Competition,Mar 24,Mar,2024,
+KIA,EV6,Mar 24,Mar,2024,1.0
+BMW,i7,Mar 24,Mar,2024,
+BMW,XM,Mar 24,Mar,2024,
+MG,Gloster,Mar 24,Mar,2024,131.0
+MG,Comet EV,Mar 24,Mar,2024,875.0
+Honda,Elevate,Mar 24,Mar,2024,3277.0
+Honda,City,Mar 24,Mar,2024,1116.0
+BMW,i5,Mar 24,Mar,2024,
+MG,Astor,Mar 24,Mar,2024,1274.0
+MG,Hector,Mar 24,Mar,2024,1887.0
+MG,Hector Plus,Mar 24,Mar,2024,
+MG,ZS EV,Mar 24,Mar,2024,481.0
+BMW,X4,Mar 24,Mar,2024,
+BMW,iX Electric,Mar 24,Mar,2024,
+BMW,3-Series,Mar 24,Mar,2024,
+BMW,iX1,Mar 24,Mar,2024,
+Honda,Amaze,Mar 24,Mar,2024,2678.0
+Honda,City Hybrid,Mar 24,Mar,2024,
+Mahindra,Marazzo,Mar 24,Mar,2024,51.0
+Skoda,Superb,Mar 24,Mar,2024,15.0
+Tata,Magic Express 10 Seater,Mar 24,Mar,2024,
+Volkswagen,Virtus,Mar 24,Mar,2024,1847.0
+BMW,i4,Mar 24,Mar,2024,
+Skoda,Kushaq,Mar 24,Mar,2024,1293.0
+KIA,Seltos,Mar 24,Mar,2024,7912.0
+Tata,Tigor EV,Mar 24,Mar,2024,
+Skoda,Slavia,Mar 24,Mar,2024,1358.0
+Skoda,Kodiaq,Mar 24,Mar,2024,136.0
+Maruti Suzuki,Ignis,Mar 24,Mar,2024,2788.0
+Hyundai,i20 N Line,Mar 24,Mar,2024,
+Maruti Suzuki,Fronx,Mar 24,Mar,2024,12531.0
+Jeep,Grand Cherokee,Mar 24,Mar,2024,
+Land Rover,Range Rover Velar,Mar 24,Mar,2024,
+Land Rover,Range Rover Evoque,Mar 24,Mar,2024,
+Audi,A4,Mar 24,Mar,2024,
+Land Rover,Range Rover,Mar 24,Mar,2024,
+Land Rover,Discovery Sport,Mar 24,Mar,2024,
+Land Rover,Range Rover Sport,Mar 24,Mar,2024,
+Land Rover,Discovery,Mar 24,Mar,2024,
+Jeep,Wrangler,Mar 24,Mar,2024,
+Jeep,Compass,Mar 24,Mar,2024,329.0
+Volkswagen,Tiguan,Mar 24,Mar,2024,94.0
+Audi,Q3,Mar 24,Mar,2024,
+Audi,Q3 Sportback,Mar 24,Mar,2024,
+Jeep,Meridian,Mar 24,Mar,2024,96.0
+Land Rover,Defender,Mar 24,Mar,2024,
+Audi,RS Q8,Mar 24,Mar,2024,
+Audi,RS5,Mar 24,Mar,2024,
+Audi,e-tron,Mar 24,Mar,2024,
+Audi,Q8,Mar 24,Mar,2024,
+Volvo,S90,Mar 24,Mar,2024,
+Audi,A8L,Mar 24,Mar,2024,
+Volvo,XC60,Mar 24,Mar,2024,
+Volvo,XC90,Mar 24,Mar,2024,
+Volvo,XC40 Recharge,Mar 24,Mar,2024,
+Volvo,C40 Recharge,Mar 24,Mar,2024,
+Jaguar,F-Type,Mar 24,Mar,2024,
+Jaguar,I-Pace,Mar 24,Mar,2024,
+Audi,S5 Sportback,Mar 24,Mar,2024,
+Audi,Q5,Mar 24,Mar,2024,
+Jaguar,F-Pace,Mar 24,Mar,2024,
+Audi,Q7,Mar 24,Mar,2024,
+Audi,Q8 e-tron,Mar 24,Mar,2024,
+Porsche,Macan,Mar 24,Mar,2024,
+Porsche,Cayenne,Mar 24,Mar,2024,
+Porsche,Cayenne Coupe,Mar 24,Mar,2024,
+Citroen,C3,Mar 24,Mar,2024,265.0
+Citroen,eC3,Mar 24,Mar,2024,530.0
+Lamborghini,Urus,Mar 24,Mar,2024,
+Citroen,C5 Aircross,Mar 24,Mar,2024,0.0
+Porsche,Panamera,Mar 24,Mar,2024,
+Lamborghini,Revuelto,Mar 24,Mar,2024,
+Porsche,718,Mar 24,Mar,2024,
+BYD Auto,Atto 3,Mar 24,Mar,2024,
+Lamborghini,Huracan EVO,Mar 24,Mar,2024,
+Renault,Triber,Mar 24,Mar,2024,2247.0
+Nissan,Magnite,Mar 24,Mar,2024,2701.0
+Porsche,Taycan,Mar 24,Mar,2024,
+Lexus,LC 500h,Mar 24,Mar,2024,
+Lexus,ES,Mar 24,Mar,2024,
+Lexus,LS 500h,Mar 24,Mar,2024,
+Rolls-Royce,Cullinan,Mar 24,Mar,2024,
+Lexus,NX,Mar 24,Mar,2024,
+Lexus,RX,Mar 24,Mar,2024,
+Lexus,LM 350h,Mar 24,Mar,2024,
+Mini,Cooper SE,Mar 24,Mar,2024,
+Rolls-Royce,Phantom,Mar 24,Mar,2024,
+BYD Auto,Seal EV,Mar 24,Mar,2024,
+Rolls-Royce,Ghost,Mar 24,Mar,2024,
+Rolls-Royce,Wraith,Mar 24,Mar,2024,
+Rolls-Royce,Dawn,Mar 24,Mar,2024,
+Mini,Cooper Countryman,Mar 24,Mar,2024,
+Mini,3 Door,Mar 24,Mar,2024,
+Lexus,LX,Mar 24,Mar,2024,
+Renault,Kiger,Mar 24,Mar,2024,1050.0
+Ferrari,F8 Tributo,Mar 24,Mar,2024,
+Ferrari,SF90 Stradale,Mar 24,Mar,2024,
+Ferrari,812,Mar 24,Mar,2024,
+Maserati,Quattroporte,Mar 24,Mar,2024,
+Isuzu,S-Cab,Mar 24,Mar,2024,
+Maserati,Ghibli,Mar 24,Mar,2024,
+Isuzu,Hi-Lander,Mar 24,Mar,2024,
+Maserati,GranTurismo,Mar 24,Mar,2024,
+Maserati,GranCabrio,Mar 24,Mar,2024,
+Isuzu,V-Cross,Mar 24,Mar,2024,
+Isuzu,MU-X,Mar 24,Mar,2024,
+Isuzu,D-Max,Mar 24,Mar,2024,
+Mclaren,GT,Mar 24,Mar,2024,
+Mclaren,750S,Mar 24,Mar,2024,
+Force,Gurkha,Mar 24,Mar,2024,
+Force,Gurkha 5 Door,Mar 24,Mar,2024,
+Ferrari,Roma,Mar 24,Mar,2024,
+Ferrari,296 GTB,Mar 24,Mar,2024,
+Mercedes-Benz,G-Class,Mar 24,Mar,2024,
+Aston Martin,DBX,Mar 24,Mar,2024,
+Mercedes-Benz,C-Class,Mar 24,Mar,2024,
+Mercedes-Benz,GLS,Mar 24,Mar,2024,
+Mercedes-Benz,A Class Sedan Limousine,Mar 24,Mar,2024,
+Mercedes-Benz,GLA,Mar 24,Mar,2024,
+Mercedes-Benz,GLC,Mar 24,Mar,2024,
+Mercedes-Benz,Maybach S-Class,Mar 24,Mar,2024,
+Mercedes-Benz,E-Class,Mar 24,Mar,2024,
+Mercedes-Benz,GLE-Class,Mar 24,Mar,2024,
+Mercedes-Benz,GLB,Mar 24,Mar,2024,
+Mercedes-Benz,AMG E 53 Cabriolet,Mar 24,Mar,2024,
+Mercedes-Benz,GLC Coupe,Mar 24,Mar,2024,
+Aston Martin,Vantage,Mar 24,Mar,2024,
+Mercedes-Benz,AMG E 53,Mar 24,Mar,2024,
+Mercedes-Benz,AMG A 45 S,Mar 24,Mar,2024,
+Aston Martin,DB 12,Mar 24,Mar,2024,
+Mercedes-Benz,S Class,Mar 24,Mar,2024,
+Pravaig,Defy,Mar 24,Mar,2024,
+Mercedes-Benz,EQS,Mar 24,Mar,2024,
+Mercedes-Benz,AMG GLE 53 Coupe,Mar 24,Mar,2024,
+Mercedes-Benz,AMG GLC 43,Mar 24,Mar,2024,
+Bajaj,Qute (RE60),Mar 24,Mar,2024,
+Strom Motors,R3,Mar 24,Mar,2024,
+Bentley,Bentayga,Mar 24,Mar,2024,
+Porsche,911,Mar 24,Mar,2024,
+Audi,A6,Mar 24,Mar,2024,
+Mercedes-Benz,EQB,Mar 24,Mar,2024,
+Volkswagen,Taigun,Mar 24,Mar,2024,1588.0
+Citroen,C3 Aircross,Mar 24,Mar,2024,211.0
+BYD Auto,E6 Electric,Mar 24,Mar,2024,
+Mercedes-Benz,AMG E 63,Mar 24,Mar,2024,
+Mclaren,720S,Mar 24,Mar,2024,
+Mercedes-Benz,EQE,Mar 24,Mar,2024,
+Tata,Nexon,Mar 24,Mar,2024,14058.0
+Renault,Kwid,Mar 24,Mar,2024,928.0
+Audi,RS E-Tron GT,Mar 24,Mar,2024,
+Audi,E-Tron GT,Mar 24,Mar,2024,
+Maruti Suzuki,Grand Vitara,May 22,May,2022,0.0
+Maruti Suzuki,Celerio,May 22,May,2022,6398.0
+Maruti Suzuki,Baleno,May 22,May,2022,13970.0
+Maruti Suzuki,S-Presso,May 22,May,2022,4475.0
+Maruti Suzuki,Alto K10,May 22,May,2022,
+Maruti Suzuki,Dzire,May 22,May,2022,11603.0
+Maruti Suzuki,Ertiga,May 22,May,2022,12226.0
+Maruti Suzuki,Swift,May 22,May,2022,14133.0
+Maruti Suzuki,XL6,May 22,May,2022,4085.0
+Maruti Suzuki,Brezza,May 22,May,2022,
+Maruti Suzuki,Wagon R,May 22,May,2022,16814.0
+Maruti Suzuki,Jimny,May 22,May,2022,
+Hyundai,Verna,May 22,May,2022,1488.0
+Hyundai,Aura,May 22,May,2022,3311.0
+Hyundai,Grand i10 Nios,May 22,May,2022,
+Maruti Suzuki,Ciaz,May 22,May,2022,586.0
+Hyundai,Exter,May 22,May,2022,
+Hyundai,Creta N Line,May 22,May,2022,
+Hyundai,Tucson,May 22,May,2022,1.0
+Maruti Suzuki,Eeco,May 22,May,2022,10482.0
+Hyundai,i20,May 22,May,2022,
+Maruti Suzuki,Invicto,May 22,May,2022,
+Hyundai,Creta,May 22,May,2022,10973.0
+Hyundai,Alcazar,May 22,May,2022,1947.0
+Hyundai,Venue,May 22,May,2022,8300.0
+Tata,Tiago NRG BS6,May 22,May,2022,
+Tata,Tiago,May 22,May,2022,4561.0
+Tata,Punch EV,May 22,May,2022,
+Tata,Tigor,May 22,May,2022,3975.0
+Tata,Nexon EV,May 22,May,2022,
+Tata,Altroz,May 22,May,2022,4913.0
+Tata,Harrier,May 22,May,2022,2794.0
+Tata,Tiago EV,May 22,May,2022,
+Hyundai,Venue N Line,May 22,May,2022,
+Hyundai,Ioniq 5,May 22,May,2022,0.0
+Tata,Safari,May 22,May,2022,2242.0
+Tata,Punch,May 22,May,2022,10241.0
+Hyundai,Kona Electric,May 22,May,2022,64.0
+Tata,Xpres-T EV,May 22,May,2022,
+Mahindra,Scorpio Classic,May 22,May,2022,
+Tata,Altroz CNG,May 22,May,2022,
+Tata,Altroz Racer,May 22,May,2022,
+Mahindra,Thar,May 22,May,2022,3209.0
+Toyota,Innova Crysta,May 22,May,2022,
+Mahindra,XUV700,May 22,May,2022,5069.0
+Mahindra,Bolero,May 22,May,2022,8767.0
+Mahindra,XUV 400 Electric,May 22,May,2022,0.0
+Mahindra,Scorpio N,May 22,May,2022,
+Mahindra,XUV 3X0,May 22,May,2022,
+Mahindra,Bolero Neo,May 22,May,2022,
+Mahindra,Bolero Neo Plus,May 22,May,2022,
+Tata,Tigor CNG,May 22,May,2022,
+Tata,Tiago CNG,May 22,May,2022,
+Tata,Punch CNG,May 22,May,2022,
+Tata,Magic Mantra 10 Seater,May 22,May,2022,
+Toyota,Fortuner,May 22,May,2022,1184.0
+Toyota,Innova Hycross,May 22,May,2022,2737.0
+Toyota,Land Cruiser LC300,May 22,May,2022,
+Toyota,Hilux,May 22,May,2022,65.0
+Toyota,Camry,May 22,May,2022,106.0
+Toyota,Vellfire,May 22,May,2022,44.0
+Toyota,Fortuner Legender,May 22,May,2022,
+Toyota,Urban Cruiser HyRyder,May 22,May,2022,0.0
+Toyota,Glanza,May 22,May,2022,2952.0
+Mahindra,KUV100 NXT,May 22,May,2022,
+Toyota,Taisor,May 22,May,2022,
+Toyota,Rumion,May 22,May,2022,
+Mahindra,XUV 300,May 22,May,2022,5022.0
+BMW,M4 Competition,May 22,May,2022,
+BMW,X7,May 22,May,2022,
+KIA,Carens,May 22,May,2022,4612.0
+BMW,7-Series,May 22,May,2022,
+BMW,X1,May 22,May,2022,
+BMW,2 Series Gran Coupe,May 22,May,2022,
+BMW,3 Series Gran Limousine,May 22,May,2022,
+BMW,Z4,May 22,May,2022,
+BMW,M2,May 22,May,2022,
+BMW,6 Series,May 22,May,2022,
+BMW,X5,May 22,May,2022,
+KIA,Sonet,May 22,May,2022,7899.0
+BMW,X3,May 22,May,2022,
+BMW,M8 Coupe Competition,May 22,May,2022,
+KIA,EV6,May 22,May,2022,15.0
+BMW,i7,May 22,May,2022,
+BMW,XM,May 22,May,2022,
+MG,Gloster,May 22,May,2022,51.0
+MG,Comet EV,May 22,May,2022,
+Honda,Elevate,May 22,May,2022,
+Honda,City,May 22,May,2022,3628.0
+BMW,i5,May 22,May,2022,
+MG,Astor,May 22,May,2022,2022.0
+MG,Hector,May 22,May,2022,1633.0
+MG,Hector Plus,May 22,May,2022,
+MG,ZS EV,May 22,May,2022,302.0
+BMW,X4,May 22,May,2022,
+BMW,iX Electric,May 22,May,2022,
+BMW,3-Series,May 22,May,2022,
+BMW,iX1,May 22,May,2022,
+Honda,Amaze,May 22,May,2022,3709.0
+Honda,City Hybrid,May 22,May,2022,
+Mahindra,Marazzo,May 22,May,2022,127.0
+Skoda,Superb,May 22,May,2022,152.0
+Tata,Magic Express 10 Seater,May 22,May,2022,
+Volkswagen,Virtus,May 22,May,2022,2177.0
+BMW,i4,May 22,May,2022,
+Skoda,Kushaq,May 22,May,2022,1806.0
+KIA,Seltos,May 22,May,2022,5953.0
+Tata,Tigor EV,May 22,May,2022,
+Skoda,Slavia,May 22,May,2022,2466.0
+Skoda,Kodiaq,May 22,May,2022,106.0
+Maruti Suzuki,Ignis,May 22,May,2022,5029.0
+Hyundai,i20 N Line,May 22,May,2022,
+Maruti Suzuki,Fronx,May 22,May,2022,0.0
+Jeep,Grand Cherokee,May 22,May,2022,
+Land Rover,Range Rover Velar,May 22,May,2022,
+Land Rover,Range Rover Evoque,May 22,May,2022,
+Audi,A4,May 22,May,2022,
+Land Rover,Range Rover,May 22,May,2022,
+Land Rover,Discovery Sport,May 22,May,2022,
+Land Rover,Range Rover Sport,May 22,May,2022,
+Land Rover,Discovery,May 22,May,2022,
+Jeep,Wrangler,May 22,May,2022,
+Jeep,Compass,May 22,May,2022,928.0
+Volkswagen,Tiguan,May 22,May,2022,54.0
+Audi,Q3,May 22,May,2022,
+Audi,Q3 Sportback,May 22,May,2022,
+Jeep,Meridian,May 22,May,2022,0.0
+Land Rover,Defender,May 22,May,2022,
+Audi,RS Q8,May 22,May,2022,
+Audi,RS5,May 22,May,2022,
+Audi,e-tron,May 22,May,2022,
+Audi,Q8,May 22,May,2022,
+Volvo,S90,May 22,May,2022,
+Audi,A8L,May 22,May,2022,
+Volvo,XC60,May 22,May,2022,
+Volvo,XC90,May 22,May,2022,
+Volvo,XC40 Recharge,May 22,May,2022,
+Volvo,C40 Recharge,May 22,May,2022,
+Jaguar,F-Type,May 22,May,2022,
+Jaguar,I-Pace,May 22,May,2022,
+Audi,S5 Sportback,May 22,May,2022,
+Audi,Q5,May 22,May,2022,
+Jaguar,F-Pace,May 22,May,2022,
+Audi,Q7,May 22,May,2022,
+Audi,Q8 e-tron,May 22,May,2022,
+Porsche,Macan,May 22,May,2022,
+Porsche,Cayenne,May 22,May,2022,
+Porsche,Cayenne Coupe,May 22,May,2022,
+Citroen,C3,May 22,May,2022,0.0
+Citroen,eC3,May 22,May,2022,0.0
+Lamborghini,Urus,May 22,May,2022,
+Citroen,C5 Aircross,May 22,May,2022,24.0
+Porsche,Panamera,May 22,May,2022,
+Lamborghini,Revuelto,May 22,May,2022,
+Porsche,718,May 22,May,2022,
+BYD Auto,Atto 3,May 22,May,2022,
+Lamborghini,Huracan EVO,May 22,May,2022,
+Renault,Triber,May 22,May,2022,2110.0
+Nissan,Magnite,May 22,May,2022,1920.0
+Porsche,Taycan,May 22,May,2022,
+Lexus,LC 500h,May 22,May,2022,
+Lexus,ES,May 22,May,2022,
+Lexus,LS 500h,May 22,May,2022,
+Rolls-Royce,Cullinan,May 22,May,2022,
+Lexus,NX,May 22,May,2022,
+Lexus,RX,May 22,May,2022,
+Lexus,LM 350h,May 22,May,2022,
+Mini,Cooper SE,May 22,May,2022,
+Rolls-Royce,Phantom,May 22,May,2022,
+BYD Auto,Seal EV,May 22,May,2022,
+Rolls-Royce,Ghost,May 22,May,2022,
+Rolls-Royce,Wraith,May 22,May,2022,
+Rolls-Royce,Dawn,May 22,May,2022,
+Mini,Cooper Countryman,May 22,May,2022,
+Mini,3 Door,May 22,May,2022,
+Lexus,LX,May 22,May,2022,
+Renault,Kiger,May 22,May,2022,1380.0
+Ferrari,F8 Tributo,May 22,May,2022,
+Ferrari,SF90 Stradale,May 22,May,2022,
+Ferrari,812,May 22,May,2022,
+Maserati,Quattroporte,May 22,May,2022,
+Isuzu,S-Cab,May 22,May,2022,
+Maserati,Ghibli,May 22,May,2022,
+Isuzu,Hi-Lander,May 22,May,2022,
+Maserati,GranTurismo,May 22,May,2022,
+Maserati,GranCabrio,May 22,May,2022,
+Isuzu,V-Cross,May 22,May,2022,
+Isuzu,MU-X,May 22,May,2022,
+Isuzu,D-Max,May 22,May,2022,
+Mclaren,GT,May 22,May,2022,
+Mclaren,750S,May 22,May,2022,
+Force,Gurkha,May 22,May,2022,
+Force,Gurkha 5 Door,May 22,May,2022,
+Ferrari,Roma,May 22,May,2022,
+Ferrari,296 GTB,May 22,May,2022,
+Mercedes-Benz,G-Class,May 22,May,2022,
+Aston Martin,DBX,May 22,May,2022,
+Mercedes-Benz,C-Class,May 22,May,2022,
+Mercedes-Benz,GLS,May 22,May,2022,
+Mercedes-Benz,A Class Sedan Limousine,May 22,May,2022,
+Mercedes-Benz,GLA,May 22,May,2022,
+Mercedes-Benz,GLC,May 22,May,2022,
+Mercedes-Benz,Maybach S-Class,May 22,May,2022,
+Mercedes-Benz,E-Class,May 22,May,2022,
+Mercedes-Benz,GLE-Class,May 22,May,2022,
+Mercedes-Benz,GLB,May 22,May,2022,
+Mercedes-Benz,AMG E 53 Cabriolet,May 22,May,2022,
+Mercedes-Benz,GLC Coupe,May 22,May,2022,
+Aston Martin,Vantage,May 22,May,2022,
+Mercedes-Benz,AMG E 53,May 22,May,2022,
+Mercedes-Benz,AMG A 45 S,May 22,May,2022,
+Aston Martin,DB 12,May 22,May,2022,
+Mercedes-Benz,S Class,May 22,May,2022,
+Pravaig,Defy,May 22,May,2022,
+Mercedes-Benz,EQS,May 22,May,2022,
+Mercedes-Benz,AMG GLE 53 Coupe,May 22,May,2022,
+Mercedes-Benz,AMG GLC 43,May 22,May,2022,
+Bajaj,Qute (RE60),May 22,May,2022,
+Strom Motors,R3,May 22,May,2022,
+Bentley,Bentayga,May 22,May,2022,
+Porsche,911,May 22,May,2022,
+Audi,A6,May 22,May,2022,
+Mercedes-Benz,EQB,May 22,May,2022,
+Volkswagen,Taigun,May 22,May,2022,1268.0
+Citroen,C3 Aircross,May 22,May,2022,
+BYD Auto,E6 Electric,May 22,May,2022,
+Mercedes-Benz,AMG E 63,May 22,May,2022,
+Mclaren,720S,May 22,May,2022,
+Mercedes-Benz,EQE,May 22,May,2022,
+Tata,Nexon,May 22,May,2022,14614.0
+Renault,Kwid,May 22,May,2022,1520.0
+Audi,RS E-Tron GT,May 22,May,2022,
+Audi,E-Tron GT,May 22,May,2022,
+Maruti Suzuki,Grand Vitara,May 23,May,2023,8877.0
+Maruti Suzuki,Celerio,May 23,May,2023,3216.0
+Maruti Suzuki,Baleno,May 23,May,2023,18733.0
+Maruti Suzuki,S-Presso,May 23,May,2023,2868.0
+Maruti Suzuki,Alto K10,May 23,May,2023,
+Maruti Suzuki,Dzire,May 23,May,2023,11315.0
+Maruti Suzuki,Ertiga,May 23,May,2023,10528.0
+Maruti Suzuki,Swift,May 23,May,2023,17346.0
+Maruti Suzuki,XL6,May 23,May,2023,3577.0
+Maruti Suzuki,Brezza,May 23,May,2023,
+Maruti Suzuki,Wagon R,May 23,May,2023,16258.0
+Maruti Suzuki,Jimny,May 23,May,2023,
+Hyundai,Verna,May 23,May,2023,3687.0
+Hyundai,Aura,May 23,May,2023,4707.0
+Hyundai,Grand i10 Nios,May 23,May,2023,
+Maruti Suzuki,Ciaz,May 23,May,2023,992.0
+Hyundai,Exter,May 23,May,2023,
+Hyundai,Creta N Line,May 23,May,2023,
+Hyundai,Tucson,May 23,May,2023,379.0
+Maruti Suzuki,Eeco,May 23,May,2023,12818.0
+Hyundai,i20,May 23,May,2023,
+Maruti Suzuki,Invicto,May 23,May,2023,
+Hyundai,Creta,May 23,May,2023,14449.0
+Hyundai,Alcazar,May 23,May,2023,2443.0
+Hyundai,Venue,May 23,May,2023,10213.0
+Tata,Tiago NRG BS6,May 23,May,2023,
+Tata,Tiago,May 23,May,2023,8133.0
+Tata,Punch EV,May 23,May,2023,
+Tata,Tigor,May 23,May,2023,2701.0
+Tata,Nexon EV,May 23,May,2023,
+Tata,Altroz,May 23,May,2023,5420.0
+Tata,Harrier,May 23,May,2023,2303.0
+Tata,Tiago EV,May 23,May,2023,
+Hyundai,Venue N Line,May 23,May,2023,
+Hyundai,Ioniq 5,May 23,May,2023,160.0
+Tata,Safari,May 23,May,2023,1776.0
+Tata,Punch,May 23,May,2023,11124.0
+Hyundai,Kona Electric,May 23,May,2023,84.0
+Tata,Xpres-T EV,May 23,May,2023,
+Mahindra,Scorpio Classic,May 23,May,2023,
+Tata,Altroz CNG,May 23,May,2023,
+Tata,Altroz Racer,May 23,May,2023,
+Mahindra,Thar,May 23,May,2023,4296.0
+Toyota,Innova Crysta,May 23,May,2023,
+Mahindra,XUV700,May 23,May,2023,5245.0
+Mahindra,Bolero,May 23,May,2023,8170.0
+Mahindra,XUV 400 Electric,May 23,May,2023,696.0
+Mahindra,Scorpio N,May 23,May,2023,
+Mahindra,XUV 3X0,May 23,May,2023,
+Mahindra,Bolero Neo,May 23,May,2023,
+Mahindra,Bolero Neo Plus,May 23,May,2023,
+Tata,Tigor CNG,May 23,May,2023,
+Tata,Tiago CNG,May 23,May,2023,
+Tata,Punch CNG,May 23,May,2023,
+Tata,Magic Mantra 10 Seater,May 23,May,2023,
+Toyota,Fortuner,May 23,May,2023,2887.0
+Toyota,Innova Hycross,May 23,May,2023,7776.0
+Toyota,Land Cruiser LC300,May 23,May,2023,
+Toyota,Hilux,May 23,May,2023,300.0
+Toyota,Camry,May 23,May,2023,142.0
+Toyota,Vellfire,May 23,May,2023,5.0
+Toyota,Fortuner Legender,May 23,May,2023,
+Toyota,Urban Cruiser HyRyder,May 23,May,2023,3090.0
+Toyota,Glanza,May 23,May,2023,5179.0
+Mahindra,KUV100 NXT,May 23,May,2023,
+Toyota,Taisor,May 23,May,2023,
+Toyota,Rumion,May 23,May,2023,
+Mahindra,XUV 300,May 23,May,2023,5125.0
+BMW,M4 Competition,May 23,May,2023,
+BMW,X7,May 23,May,2023,
+KIA,Carens,May 23,May,2023,6367.0
+BMW,7-Series,May 23,May,2023,
+BMW,X1,May 23,May,2023,
+BMW,2 Series Gran Coupe,May 23,May,2023,
+BMW,3 Series Gran Limousine,May 23,May,2023,
+BMW,Z4,May 23,May,2023,
+BMW,M2,May 23,May,2023,
+BMW,6 Series,May 23,May,2023,
+BMW,X5,May 23,May,2023,
+KIA,Sonet,May 23,May,2023,8251.0
+BMW,X3,May 23,May,2023,
+BMW,M8 Coupe Competition,May 23,May,2023,
+KIA,EV6,May 23,May,2023,83.0
+BMW,i7,May 23,May,2023,
+BMW,XM,May 23,May,2023,
+MG,Gloster,May 23,May,2023,217.0
+MG,Comet EV,May 23,May,2023,
+Honda,Elevate,May 23,May,2023,
+Honda,City,May 23,May,2023,1532.0
+BMW,i5,May 23,May,2023,
+MG,Astor,May 23,May,2023,592.0
+MG,Hector,May 23,May,2023,2800.0
+MG,Hector Plus,May 23,May,2023,
+MG,ZS EV,May 23,May,2023,1397.0
+BMW,X4,May 23,May,2023,
+BMW,iX Electric,May 23,May,2023,
+BMW,3-Series,May 23,May,2023,
+BMW,iX1,May 23,May,2023,
+Honda,Amaze,May 23,May,2023,3128.0
+Honda,City Hybrid,May 23,May,2023,
+Mahindra,Marazzo,May 23,May,2023,33.0
+Skoda,Superb,May 23,May,2023,10.0
+Tata,Magic Express 10 Seater,May 23,May,2023,
+Volkswagen,Virtus,May 23,May,2023,1631.0
+BMW,i4,May 23,May,2023,
+Skoda,Kushaq,May 23,May,2023,1685.0
+KIA,Seltos,May 23,May,2023,4065.0
+Tata,Tigor EV,May 23,May,2023,
+Skoda,Slavia,May 23,May,2023,1695.0
+Skoda,Kodiaq,May 23,May,2023,157.0
+Maruti Suzuki,Ignis,May 23,May,2023,4551.0
+Hyundai,i20 N Line,May 23,May,2023,
+Maruti Suzuki,Fronx,May 23,May,2023,9863.0
+Jeep,Grand Cherokee,May 23,May,2023,
+Land Rover,Range Rover Velar,May 23,May,2023,
+Land Rover,Range Rover Evoque,May 23,May,2023,
+Audi,A4,May 23,May,2023,
+Land Rover,Range Rover,May 23,May,2023,
+Land Rover,Discovery Sport,May 23,May,2023,
+Land Rover,Range Rover Sport,May 23,May,2023,
+Land Rover,Discovery,May 23,May,2023,
+Jeep,Wrangler,May 23,May,2023,
+Jeep,Compass,May 23,May,2023,316.0
+Volkswagen,Tiguan,May 23,May,2023,171.0
+Audi,Q3,May 23,May,2023,
+Audi,Q3 Sportback,May 23,May,2023,
+Jeep,Meridian,May 23,May,2023,418.0
+Land Rover,Defender,May 23,May,2023,
+Audi,RS Q8,May 23,May,2023,
+Audi,RS5,May 23,May,2023,
+Audi,e-tron,May 23,May,2023,
+Audi,Q8,May 23,May,2023,
+Volvo,S90,May 23,May,2023,
+Audi,A8L,May 23,May,2023,
+Volvo,XC60,May 23,May,2023,
+Volvo,XC90,May 23,May,2023,
+Volvo,XC40 Recharge,May 23,May,2023,
+Volvo,C40 Recharge,May 23,May,2023,
+Jaguar,F-Type,May 23,May,2023,
+Jaguar,I-Pace,May 23,May,2023,
+Audi,S5 Sportback,May 23,May,2023,
+Audi,Q5,May 23,May,2023,
+Jaguar,F-Pace,May 23,May,2023,
+Audi,Q7,May 23,May,2023,
+Audi,Q8 e-tron,May 23,May,2023,
+Porsche,Macan,May 23,May,2023,
+Porsche,Cayenne,May 23,May,2023,
+Porsche,Cayenne Coupe,May 23,May,2023,
+Citroen,C3,May 23,May,2023,600.0
+Citroen,eC3,May 23,May,2023,200.0
+Lamborghini,Urus,May 23,May,2023,
+Citroen,C5 Aircross,May 23,May,2023,6.0
+Porsche,Panamera,May 23,May,2023,
+Lamborghini,Revuelto,May 23,May,2023,
+Porsche,718,May 23,May,2023,
+BYD Auto,Atto 3,May 23,May,2023,
+Lamborghini,Huracan EVO,May 23,May,2023,
+Renault,Triber,May 23,May,2023,2115.0
+Nissan,Magnite,May 23,May,2023,2618.0
+Porsche,Taycan,May 23,May,2023,
+Lexus,LC 500h,May 23,May,2023,
+Lexus,ES,May 23,May,2023,
+Lexus,LS 500h,May 23,May,2023,
+Rolls-Royce,Cullinan,May 23,May,2023,
+Lexus,NX,May 23,May,2023,
+Lexus,RX,May 23,May,2023,
+Lexus,LM 350h,May 23,May,2023,
+Mini,Cooper SE,May 23,May,2023,
+Rolls-Royce,Phantom,May 23,May,2023,
+BYD Auto,Seal EV,May 23,May,2023,
+Rolls-Royce,Ghost,May 23,May,2023,
+Rolls-Royce,Wraith,May 23,May,2023,
+Rolls-Royce,Dawn,May 23,May,2023,
+Mini,Cooper Countryman,May 23,May,2023,
+Mini,3 Door,May 23,May,2023,
+Lexus,LX,May 23,May,2023,
+Renault,Kiger,May 23,May,2023,1713.0
+Ferrari,F8 Tributo,May 23,May,2023,
+Ferrari,SF90 Stradale,May 23,May,2023,
+Ferrari,812,May 23,May,2023,
+Maserati,Quattroporte,May 23,May,2023,
+Isuzu,S-Cab,May 23,May,2023,
+Maserati,Ghibli,May 23,May,2023,
+Isuzu,Hi-Lander,May 23,May,2023,
+Maserati,GranTurismo,May 23,May,2023,
+Maserati,GranCabrio,May 23,May,2023,
+Isuzu,V-Cross,May 23,May,2023,
+Isuzu,MU-X,May 23,May,2023,
+Isuzu,D-Max,May 23,May,2023,
+Mclaren,GT,May 23,May,2023,
+Mclaren,750S,May 23,May,2023,
+Force,Gurkha,May 23,May,2023,
+Force,Gurkha 5 Door,May 23,May,2023,
+Ferrari,Roma,May 23,May,2023,
+Ferrari,296 GTB,May 23,May,2023,
+Mercedes-Benz,G-Class,May 23,May,2023,
+Aston Martin,DBX,May 23,May,2023,
+Mercedes-Benz,C-Class,May 23,May,2023,
+Mercedes-Benz,GLS,May 23,May,2023,
+Mercedes-Benz,A Class Sedan Limousine,May 23,May,2023,
+Mercedes-Benz,GLA,May 23,May,2023,
+Mercedes-Benz,GLC,May 23,May,2023,
+Mercedes-Benz,Maybach S-Class,May 23,May,2023,
+Mercedes-Benz,E-Class,May 23,May,2023,
+Mercedes-Benz,GLE-Class,May 23,May,2023,
+Mercedes-Benz,GLB,May 23,May,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,May 23,May,2023,
+Mercedes-Benz,GLC Coupe,May 23,May,2023,
+Aston Martin,Vantage,May 23,May,2023,
+Mercedes-Benz,AMG E 53,May 23,May,2023,
+Mercedes-Benz,AMG A 45 S,May 23,May,2023,
+Aston Martin,DB 12,May 23,May,2023,
+Mercedes-Benz,S Class,May 23,May,2023,
+Pravaig,Defy,May 23,May,2023,
+Mercedes-Benz,EQS,May 23,May,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,May 23,May,2023,
+Mercedes-Benz,AMG GLC 43,May 23,May,2023,
+Bajaj,Qute (RE60),May 23,May,2023,
+Strom Motors,R3,May 23,May,2023,
+Bentley,Bentayga,May 23,May,2023,
+Porsche,911,May 23,May,2023,
+Audi,A6,May 23,May,2023,
+Mercedes-Benz,EQB,May 23,May,2023,
+Volkswagen,Taigun,May 23,May,2023,1484.0
+Citroen,C3 Aircross,May 23,May,2023,
+BYD Auto,E6 Electric,May 23,May,2023,
+Mercedes-Benz,AMG E 63,May 23,May,2023,
+Mclaren,720S,May 23,May,2023,
+Mercedes-Benz,EQE,May 23,May,2023,
+Tata,Nexon,May 23,May,2023,14423.0
+Renault,Kwid,May 23,May,2023,797.0
+Audi,RS E-Tron GT,May 23,May,2023,
+Audi,E-Tron GT,May 23,May,2023,
+Maruti Suzuki,Grand Vitara,Nov 22,Nov,2022,4433.0
+Maruti Suzuki,Celerio,Nov 22,Nov,2022,2483.0
+Maruti Suzuki,Baleno,Nov 22,Nov,2022,20945.0
+Maruti Suzuki,S-Presso,Nov 22,Nov,2022,2588.0
+Maruti Suzuki,Alto K10,Nov 22,Nov,2022,
+Maruti Suzuki,Dzire,Nov 22,Nov,2022,14456.0
+Maruti Suzuki,Ertiga,Nov 22,Nov,2022,13818.0
+Maruti Suzuki,Swift,Nov 22,Nov,2022,15153.0
+Maruti Suzuki,XL6,Nov 22,Nov,2022,2988.0
+Maruti Suzuki,Brezza,Nov 22,Nov,2022,
+Maruti Suzuki,Wagon R,Nov 22,Nov,2022,14720.0
+Maruti Suzuki,Jimny,Nov 22,Nov,2022,0.0
+Hyundai,Verna,Nov 22,Nov,2022,2025.0
+Hyundai,Aura,Nov 22,Nov,2022,3813.0
+Hyundai,Grand i10 Nios,Nov 22,Nov,2022,
+Maruti Suzuki,Ciaz,Nov 22,Nov,2022,1554.0
+Hyundai,Exter,Nov 22,Nov,2022,0.0
+Hyundai,Creta N Line,Nov 22,Nov,2022,
+Hyundai,Tucson,Nov 22,Nov,2022,247.0
+Maruti Suzuki,Eeco,Nov 22,Nov,2022,7183.0
+Hyundai,i20,Nov 22,Nov,2022,
+Maruti Suzuki,Invicto,Nov 22,Nov,2022,0.0
+Hyundai,Creta,Nov 22,Nov,2022,13321.0
+Hyundai,Alcazar,Nov 22,Nov,2022,2566.0
+Hyundai,Venue,Nov 22,Nov,2022,10738.0
+Tata,Tiago NRG BS6,Nov 22,Nov,2022,
+Tata,Tiago,Nov 22,Nov,2022,5097.0
+Tata,Punch EV,Nov 22,Nov,2022,
+Tata,Tigor,Nov 22,Nov,2022,4301.0
+Tata,Nexon EV,Nov 22,Nov,2022,
+Tata,Altroz,Nov 22,Nov,2022,5084.0
+Tata,Harrier,Nov 22,Nov,2022,2119.0
+Tata,Tiago EV,Nov 22,Nov,2022,
+Hyundai,Venue N Line,Nov 22,Nov,2022,
+Hyundai,Ioniq 5,Nov 22,Nov,2022,0.0
+Tata,Safari,Nov 22,Nov,2022,1437.0
+Tata,Punch,Nov 22,Nov,2022,12131.0
+Hyundai,Kona Electric,Nov 22,Nov,2022,95.0
+Tata,Xpres-T EV,Nov 22,Nov,2022,
+Mahindra,Scorpio Classic,Nov 22,Nov,2022,
+Tata,Altroz CNG,Nov 22,Nov,2022,
+Tata,Altroz Racer,Nov 22,Nov,2022,
+Mahindra,Thar,Nov 22,Nov,2022,3987.0
+Toyota,Innova Crysta,Nov 22,Nov,2022,
+Mahindra,XUV700,Nov 22,Nov,2022,5701.0
+Mahindra,Bolero,Nov 22,Nov,2022,7984.0
+Mahindra,XUV 400 Electric,Nov 22,Nov,2022,0.0
+Mahindra,Scorpio N,Nov 22,Nov,2022,
+Mahindra,XUV 3X0,Nov 22,Nov,2022,
+Mahindra,Bolero Neo,Nov 22,Nov,2022,
+Mahindra,Bolero Neo Plus,Nov 22,Nov,2022,
+Tata,Tigor CNG,Nov 22,Nov,2022,
+Tata,Tiago CNG,Nov 22,Nov,2022,
+Tata,Punch CNG,Nov 22,Nov,2022,
+Tata,Magic Mantra 10 Seater,Nov 22,Nov,2022,
+Toyota,Fortuner,Nov 22,Nov,2022,1967.0
+Toyota,Innova Hycross,Nov 22,Nov,2022,2025.0
+Toyota,Land Cruiser LC300,Nov 22,Nov,2022,
+Toyota,Hilux,Nov 22,Nov,2022,37.0
+Toyota,Camry,Nov 22,Nov,2022,118.0
+Toyota,Vellfire,Nov 22,Nov,2022,109.0
+Toyota,Fortuner Legender,Nov 22,Nov,2022,
+Toyota,Urban Cruiser HyRyder,Nov 22,Nov,2022,3116.0
+Toyota,Glanza,Nov 22,Nov,2022,4393.0
+Mahindra,KUV100 NXT,Nov 22,Nov,2022,
+Toyota,Taisor,Nov 22,Nov,2022,
+Toyota,Rumion,Nov 22,Nov,2022,0.0
+Mahindra,XUV 300,Nov 22,Nov,2022,5903.0
+BMW,M4 Competition,Nov 22,Nov,2022,
+BMW,X7,Nov 22,Nov,2022,
+KIA,Carens,Nov 22,Nov,2022,6360.0
+BMW,7-Series,Nov 22,Nov,2022,
+BMW,X1,Nov 22,Nov,2022,
+BMW,2 Series Gran Coupe,Nov 22,Nov,2022,
+BMW,3 Series Gran Limousine,Nov 22,Nov,2022,
+BMW,Z4,Nov 22,Nov,2022,
+BMW,M2,Nov 22,Nov,2022,
+BMW,6 Series,Nov 22,Nov,2022,
+BMW,X5,Nov 22,Nov,2022,
+KIA,Sonet,Nov 22,Nov,2022,7834.0
+BMW,X3,Nov 22,Nov,2022,
+BMW,M8 Coupe Competition,Nov 22,Nov,2022,
+KIA,EV6,Nov 22,Nov,2022,128.0
+BMW,i7,Nov 22,Nov,2022,
+BMW,XM,Nov 22,Nov,2022,
+MG,Gloster,Nov 22,Nov,2022,106.0
+MG,Comet EV,Nov 22,Nov,2022,0.0
+Honda,Elevate,Nov 22,Nov,2022,0.0
+Honda,City,Nov 22,Nov,2022,2711.0
+BMW,i5,Nov 22,Nov,2022,
+MG,Astor,Nov 22,Nov,2022,1434.0
+MG,Hector,Nov 22,Nov,2022,1773.0
+MG,Hector Plus,Nov 22,Nov,2022,
+MG,ZS EV,Nov 22,Nov,2022,766.0
+BMW,X4,Nov 22,Nov,2022,
+BMW,iX Electric,Nov 22,Nov,2022,
+BMW,3-Series,Nov 22,Nov,2022,
+BMW,iX1,Nov 22,Nov,2022,
+Honda,Amaze,Nov 22,Nov,2022,3890.0
+Honda,City Hybrid,Nov 22,Nov,2022,
+Mahindra,Marazzo,Nov 22,Nov,2022,201.0
+Skoda,Superb,Nov 22,Nov,2022,160.0
+Tata,Magic Express 10 Seater,Nov 22,Nov,2022,
+Volkswagen,Virtus,Nov 22,Nov,2022,1515.0
+BMW,i4,Nov 22,Nov,2022,
+Skoda,Kushaq,Nov 22,Nov,2022,2009.0
+KIA,Seltos,Nov 22,Nov,2022,9284.0
+Tata,Tigor EV,Nov 22,Nov,2022,
+Skoda,Slavia,Nov 22,Nov,2022,2022.0
+Skoda,Kodiaq,Nov 22,Nov,2022,138.0
+Maruti Suzuki,Ignis,Nov 22,Nov,2022,5087.0
+Hyundai,i20 N Line,Nov 22,Nov,2022,
+Maruti Suzuki,Fronx,Nov 22,Nov,2022,0.0
+Jeep,Grand Cherokee,Nov 22,Nov,2022,
+Land Rover,Range Rover Velar,Nov 22,Nov,2022,
+Land Rover,Range Rover Evoque,Nov 22,Nov,2022,
+Audi,A4,Nov 22,Nov,2022,
+Land Rover,Range Rover,Nov 22,Nov,2022,
+Land Rover,Discovery Sport,Nov 22,Nov,2022,
+Land Rover,Range Rover Sport,Nov 22,Nov,2022,
+Land Rover,Discovery,Nov 22,Nov,2022,
+Jeep,Wrangler,Nov 22,Nov,2022,
+Jeep,Compass,Nov 22,Nov,2022,550.0
+Volkswagen,Tiguan,Nov 22,Nov,2022,76.0
+Audi,Q3,Nov 22,Nov,2022,
+Audi,Q3 Sportback,Nov 22,Nov,2022,
+Jeep,Meridian,Nov 22,Nov,2022,344.0
+Land Rover,Defender,Nov 22,Nov,2022,
+Audi,RS Q8,Nov 22,Nov,2022,
+Audi,RS5,Nov 22,Nov,2022,
+Audi,e-tron,Nov 22,Nov,2022,
+Audi,Q8,Nov 22,Nov,2022,
+Volvo,S90,Nov 22,Nov,2022,
+Audi,A8L,Nov 22,Nov,2022,
+Volvo,XC60,Nov 22,Nov,2022,
+Volvo,XC90,Nov 22,Nov,2022,
+Volvo,XC40 Recharge,Nov 22,Nov,2022,
+Volvo,C40 Recharge,Nov 22,Nov,2022,
+Jaguar,F-Type,Nov 22,Nov,2022,
+Jaguar,I-Pace,Nov 22,Nov,2022,
+Audi,S5 Sportback,Nov 22,Nov,2022,
+Audi,Q5,Nov 22,Nov,2022,
+Jaguar,F-Pace,Nov 22,Nov,2022,
+Audi,Q7,Nov 22,Nov,2022,
+Audi,Q8 e-tron,Nov 22,Nov,2022,
+Porsche,Macan,Nov 22,Nov,2022,
+Porsche,Cayenne,Nov 22,Nov,2022,
+Porsche,Cayenne Coupe,Nov 22,Nov,2022,
+Citroen,C3,Nov 22,Nov,2022,804.0
+Citroen,eC3,Nov 22,Nov,2022,0.0
+Lamborghini,Urus,Nov 22,Nov,2022,
+Citroen,C5 Aircross,Nov 22,Nov,2022,21.0
+Porsche,Panamera,Nov 22,Nov,2022,
+Lamborghini,Revuelto,Nov 22,Nov,2022,
+Porsche,718,Nov 22,Nov,2022,
+BYD Auto,Atto 3,Nov 22,Nov,2022,
+Lamborghini,Huracan EVO,Nov 22,Nov,2022,
+Renault,Triber,Nov 22,Nov,2022,2550.0
+Nissan,Magnite,Nov 22,Nov,2022,2397.0
+Porsche,Taycan,Nov 22,Nov,2022,
+Lexus,LC 500h,Nov 22,Nov,2022,
+Lexus,ES,Nov 22,Nov,2022,
+Lexus,LS 500h,Nov 22,Nov,2022,
+Rolls-Royce,Cullinan,Nov 22,Nov,2022,
+Lexus,NX,Nov 22,Nov,2022,
+Lexus,RX,Nov 22,Nov,2022,
+Lexus,LM 350h,Nov 22,Nov,2022,
+Mini,Cooper SE,Nov 22,Nov,2022,
+Rolls-Royce,Phantom,Nov 22,Nov,2022,
+BYD Auto,Seal EV,Nov 22,Nov,2022,
+Rolls-Royce,Ghost,Nov 22,Nov,2022,
+Rolls-Royce,Wraith,Nov 22,Nov,2022,
+Rolls-Royce,Dawn,Nov 22,Nov,2022,
+Mini,Cooper Countryman,Nov 22,Nov,2022,
+Mini,3 Door,Nov 22,Nov,2022,
+Lexus,LX,Nov 22,Nov,2022,
+Renault,Kiger,Nov 22,Nov,2022,2278.0
+Ferrari,F8 Tributo,Nov 22,Nov,2022,
+Ferrari,SF90 Stradale,Nov 22,Nov,2022,
+Ferrari,812,Nov 22,Nov,2022,
+Maserati,Quattroporte,Nov 22,Nov,2022,
+Isuzu,S-Cab,Nov 22,Nov,2022,
+Maserati,Ghibli,Nov 22,Nov,2022,
+Isuzu,Hi-Lander,Nov 22,Nov,2022,
+Maserati,GranTurismo,Nov 22,Nov,2022,
+Maserati,GranCabrio,Nov 22,Nov,2022,
+Isuzu,V-Cross,Nov 22,Nov,2022,
+Isuzu,MU-X,Nov 22,Nov,2022,
+Isuzu,D-Max,Nov 22,Nov,2022,
+Mclaren,GT,Nov 22,Nov,2022,
+Mclaren,750S,Nov 22,Nov,2022,
+Force,Gurkha,Nov 22,Nov,2022,
+Force,Gurkha 5 Door,Nov 22,Nov,2022,
+Ferrari,Roma,Nov 22,Nov,2022,
+Ferrari,296 GTB,Nov 22,Nov,2022,
+Mercedes-Benz,G-Class,Nov 22,Nov,2022,
+Aston Martin,DBX,Nov 22,Nov,2022,
+Mercedes-Benz,C-Class,Nov 22,Nov,2022,
+Mercedes-Benz,GLS,Nov 22,Nov,2022,
+Mercedes-Benz,A Class Sedan Limousine,Nov 22,Nov,2022,
+Mercedes-Benz,GLA,Nov 22,Nov,2022,
+Mercedes-Benz,GLC,Nov 22,Nov,2022,
+Mercedes-Benz,Maybach S-Class,Nov 22,Nov,2022,
+Mercedes-Benz,E-Class,Nov 22,Nov,2022,
+Mercedes-Benz,GLE-Class,Nov 22,Nov,2022,
+Mercedes-Benz,GLB,Nov 22,Nov,2022,
+Mercedes-Benz,AMG E 53 Cabriolet,Nov 22,Nov,2022,
+Mercedes-Benz,GLC Coupe,Nov 22,Nov,2022,
+Aston Martin,Vantage,Nov 22,Nov,2022,
+Mercedes-Benz,AMG E 53,Nov 22,Nov,2022,
+Mercedes-Benz,AMG A 45 S,Nov 22,Nov,2022,
+Aston Martin,DB 12,Nov 22,Nov,2022,
+Mercedes-Benz,S Class,Nov 22,Nov,2022,
+Pravaig,Defy,Nov 22,Nov,2022,
+Mercedes-Benz,EQS,Nov 22,Nov,2022,
+Mercedes-Benz,AMG GLE 53 Coupe,Nov 22,Nov,2022,
+Mercedes-Benz,AMG GLC 43,Nov 22,Nov,2022,
+Bajaj,Qute (RE60),Nov 22,Nov,2022,
+Strom Motors,R3,Nov 22,Nov,2022,
+Bentley,Bentayga,Nov 22,Nov,2022,
+Porsche,911,Nov 22,Nov,2022,
+Audi,A6,Nov 22,Nov,2022,
+Mercedes-Benz,EQB,Nov 22,Nov,2022,
+Volkswagen,Taigun,Nov 22,Nov,2022,1979.0
+Citroen,C3 Aircross,Nov 22,Nov,2022,21.0
+BYD Auto,E6 Electric,Nov 22,Nov,2022,
+Mercedes-Benz,AMG E 63,Nov 22,Nov,2022,
+Mclaren,720S,Nov 22,Nov,2022,
+Mercedes-Benz,EQE,Nov 22,Nov,2022,
+Tata,Nexon,Nov 22,Nov,2022,15871.0
+Renault,Kwid,Nov 22,Nov,2022,1497.0
+Audi,RS E-Tron GT,Nov 22,Nov,2022,
+Audi,E-Tron GT,Nov 22,Nov,2022,
+Maruti Suzuki,Grand Vitara,Nov 23,Nov,2023,7937.0
+Maruti Suzuki,Celerio,Nov 23,Nov,2023,2215.0
+Maruti Suzuki,Baleno,Nov 23,Nov,2023,12961.0
+Maruti Suzuki,S-Presso,Nov 23,Nov,2023,1883.0
+Maruti Suzuki,Alto K10,Nov 23,Nov,2023,
+Maruti Suzuki,Dzire,Nov 23,Nov,2023,15965.0
+Maruti Suzuki,Ertiga,Nov 23,Nov,2023,12857.0
+Maruti Suzuki,Swift,Nov 23,Nov,2023,15311.0
+Maruti Suzuki,XL6,Nov 23,Nov,2023,3472.0
+Maruti Suzuki,Brezza,Nov 23,Nov,2023,
+Maruti Suzuki,Wagon R,Nov 23,Nov,2023,16567.0
+Maruti Suzuki,Jimny,Nov 23,Nov,2023,1020.0
+Hyundai,Verna,Nov 23,Nov,2023,1701.0
+Hyundai,Aura,Nov 23,Nov,2023,3850.0
+Hyundai,Grand i10 Nios,Nov 23,Nov,2023,
+Maruti Suzuki,Ciaz,Nov 23,Nov,2023,278.0
+Hyundai,Exter,Nov 23,Nov,2023,8325.0
+Hyundai,Creta N Line,Nov 23,Nov,2023,
+Hyundai,Tucson,Nov 23,Nov,2023,118.0
+Maruti Suzuki,Eeco,Nov 23,Nov,2023,10226.0
+Hyundai,i20,Nov 23,Nov,2023,
+Maruti Suzuki,Invicto,Nov 23,Nov,2023,470.0
+Hyundai,Creta,Nov 23,Nov,2023,11814.0
+Hyundai,Alcazar,Nov 23,Nov,2023,1913.0
+Hyundai,Venue,Nov 23,Nov,2023,11180.0
+Tata,Tiago NRG BS6,Nov 23,Nov,2023,
+Tata,Tiago,Nov 23,Nov,2023,5508.0
+Tata,Punch EV,Nov 23,Nov,2023,
+Tata,Tigor,Nov 23,Nov,2023,1775.0
+Tata,Nexon EV,Nov 23,Nov,2023,
+Tata,Altroz,Nov 23,Nov,2023,4955.0
+Tata,Harrier,Nov 23,Nov,2023,2326.0
+Tata,Tiago EV,Nov 23,Nov,2023,
+Hyundai,Venue N Line,Nov 23,Nov,2023,
+Hyundai,Ioniq 5,Nov 23,Nov,2023,96.0
+Tata,Safari,Nov 23,Nov,2023,2207.0
+Tata,Punch,Nov 23,Nov,2023,14383.0
+Hyundai,Kona Electric,Nov 23,Nov,2023,19.0
+Tata,Xpres-T EV,Nov 23,Nov,2023,
+Mahindra,Scorpio Classic,Nov 23,Nov,2023,
+Tata,Altroz CNG,Nov 23,Nov,2023,
+Tata,Altroz Racer,Nov 23,Nov,2023,
+Mahindra,Thar,Nov 23,Nov,2023,5810.0
+Toyota,Innova Crysta,Nov 23,Nov,2023,
+Mahindra,XUV700,Nov 23,Nov,2023,7221.0
+Mahindra,Bolero,Nov 23,Nov,2023,9333.0
+Mahindra,XUV 400 Electric,Nov 23,Nov,2023,710.0
+Mahindra,Scorpio N,Nov 23,Nov,2023,
+Mahindra,XUV 3X0,Nov 23,Nov,2023,
+Mahindra,Bolero Neo,Nov 23,Nov,2023,
+Mahindra,Bolero Neo Plus,Nov 23,Nov,2023,
+Tata,Tigor CNG,Nov 23,Nov,2023,
+Tata,Tiago CNG,Nov 23,Nov,2023,
+Tata,Punch CNG,Nov 23,Nov,2023,
+Tata,Magic Mantra 10 Seater,Nov 23,Nov,2023,
+Toyota,Fortuner,Nov 23,Nov,2023,1876.0
+Toyota,Innova Hycross,Nov 23,Nov,2023,6910.0
+Toyota,Land Cruiser LC300,Nov 23,Nov,2023,
+Toyota,Hilux,Nov 23,Nov,2023,214.0
+Toyota,Camry,Nov 23,Nov,2023,198.0
+Toyota,Vellfire,Nov 23,Nov,2023,53.0
+Toyota,Fortuner Legender,Nov 23,Nov,2023,
+Toyota,Urban Cruiser HyRyder,Nov 23,Nov,2023,3005.0
+Toyota,Glanza,Nov 23,Nov,2023,3950.0
+Mahindra,KUV100 NXT,Nov 23,Nov,2023,
+Toyota,Taisor,Nov 23,Nov,2023,
+Toyota,Rumion,Nov 23,Nov,2023,718.0
+Mahindra,XUV 300,Nov 23,Nov,2023,4673.0
+BMW,M4 Competition,Nov 23,Nov,2023,
+BMW,X7,Nov 23,Nov,2023,
+KIA,Carens,Nov 23,Nov,2023,4620.0
+BMW,7-Series,Nov 23,Nov,2023,
+BMW,X1,Nov 23,Nov,2023,
+BMW,2 Series Gran Coupe,Nov 23,Nov,2023,
+BMW,3 Series Gran Limousine,Nov 23,Nov,2023,
+BMW,Z4,Nov 23,Nov,2023,
+BMW,M2,Nov 23,Nov,2023,
+BMW,6 Series,Nov 23,Nov,2023,
+BMW,X5,Nov 23,Nov,2023,
+KIA,Sonet,Nov 23,Nov,2023,6433.0
+BMW,X3,Nov 23,Nov,2023,
+BMW,M8 Coupe Competition,Nov 23,Nov,2023,
+KIA,EV6,Nov 23,Nov,2023,25.0
+BMW,i7,Nov 23,Nov,2023,
+BMW,XM,Nov 23,Nov,2023,
+MG,Gloster,Nov 23,Nov,2023,172.0
+MG,Comet EV,Nov 23,Nov,2023,698.0
+Honda,Elevate,Nov 23,Nov,2023,4755.0
+Honda,City,Nov 23,Nov,2023,1336.0
+BMW,i5,Nov 23,Nov,2023,
+MG,Astor,Nov 23,Nov,2023,726.0
+MG,Hector,Nov 23,Nov,2023,2130.0
+MG,Hector Plus,Nov 23,Nov,2023,
+MG,ZS EV,Nov 23,Nov,2023,428.0
+BMW,X4,Nov 23,Nov,2023,
+BMW,iX Electric,Nov 23,Nov,2023,
+BMW,3-Series,Nov 23,Nov,2023,
+BMW,iX1,Nov 23,Nov,2023,
+Honda,Amaze,Nov 23,Nov,2023,2639.0
+Honda,City Hybrid,Nov 23,Nov,2023,
+Mahindra,Marazzo,Nov 23,Nov,2023,49.0
+Skoda,Superb,Nov 23,Nov,2023,0.0
+Tata,Magic Express 10 Seater,Nov 23,Nov,2023,
+Volkswagen,Virtus,Nov 23,Nov,2023,1174.0
+BMW,i4,Nov 23,Nov,2023,
+Skoda,Kushaq,Nov 23,Nov,2023,1908.0
+KIA,Seltos,Nov 23,Nov,2023,11684.0
+Tata,Tigor EV,Nov 23,Nov,2023,
+Skoda,Slavia,Nov 23,Nov,2023,1749.0
+Skoda,Kodiaq,Nov 23,Nov,2023,126.0
+Maruti Suzuki,Ignis,Nov 23,Nov,2023,1660.0
+Hyundai,i20 N Line,Nov 23,Nov,2023,
+Maruti Suzuki,Fronx,Nov 23,Nov,2023,9867.0
+Jeep,Grand Cherokee,Nov 23,Nov,2023,
+Land Rover,Range Rover Velar,Nov 23,Nov,2023,
+Land Rover,Range Rover Evoque,Nov 23,Nov,2023,
+Audi,A4,Nov 23,Nov,2023,
+Land Rover,Range Rover,Nov 23,Nov,2023,
+Land Rover,Discovery Sport,Nov 23,Nov,2023,
+Land Rover,Range Rover Sport,Nov 23,Nov,2023,
+Land Rover,Discovery,Nov 23,Nov,2023,
+Jeep,Wrangler,Nov 23,Nov,2023,
+Jeep,Compass,Nov 23,Nov,2023,216.0
+Volkswagen,Tiguan,Nov 23,Nov,2023,150.0
+Audi,Q3,Nov 23,Nov,2023,
+Audi,Q3 Sportback,Nov 23,Nov,2023,
+Jeep,Meridian,Nov 23,Nov,2023,101.0
+Land Rover,Defender,Nov 23,Nov,2023,
+Audi,RS Q8,Nov 23,Nov,2023,
+Audi,RS5,Nov 23,Nov,2023,
+Audi,e-tron,Nov 23,Nov,2023,
+Audi,Q8,Nov 23,Nov,2023,
+Volvo,S90,Nov 23,Nov,2023,
+Audi,A8L,Nov 23,Nov,2023,
+Volvo,XC60,Nov 23,Nov,2023,
+Volvo,XC90,Nov 23,Nov,2023,
+Volvo,XC40 Recharge,Nov 23,Nov,2023,
+Volvo,C40 Recharge,Nov 23,Nov,2023,
+Jaguar,F-Type,Nov 23,Nov,2023,
+Jaguar,I-Pace,Nov 23,Nov,2023,
+Audi,S5 Sportback,Nov 23,Nov,2023,
+Audi,Q5,Nov 23,Nov,2023,
+Jaguar,F-Pace,Nov 23,Nov,2023,
+Audi,Q7,Nov 23,Nov,2023,
+Audi,Q8 e-tron,Nov 23,Nov,2023,
+Porsche,Macan,Nov 23,Nov,2023,
+Porsche,Cayenne,Nov 23,Nov,2023,
+Porsche,Cayenne Coupe,Nov 23,Nov,2023,
+Citroen,C3,Nov 23,Nov,2023,265.0
+Citroen,eC3,Nov 23,Nov,2023,18.0
+Lamborghini,Urus,Nov 23,Nov,2023,
+Citroen,C5 Aircross,Nov 23,Nov,2023,5.0
+Porsche,Panamera,Nov 23,Nov,2023,
+Lamborghini,Revuelto,Nov 23,Nov,2023,
+Porsche,718,Nov 23,Nov,2023,
+BYD Auto,Atto 3,Nov 23,Nov,2023,
+Lamborghini,Huracan EVO,Nov 23,Nov,2023,
+Renault,Triber,Nov 23,Nov,2023,1312.0
+Nissan,Magnite,Nov 23,Nov,2023,2454.0
+Porsche,Taycan,Nov 23,Nov,2023,
+Lexus,LC 500h,Nov 23,Nov,2023,
+Lexus,ES,Nov 23,Nov,2023,
+Lexus,LS 500h,Nov 23,Nov,2023,
+Rolls-Royce,Cullinan,Nov 23,Nov,2023,
+Lexus,NX,Nov 23,Nov,2023,
+Lexus,RX,Nov 23,Nov,2023,
+Lexus,LM 350h,Nov 23,Nov,2023,
+Mini,Cooper SE,Nov 23,Nov,2023,
+Rolls-Royce,Phantom,Nov 23,Nov,2023,
+BYD Auto,Seal EV,Nov 23,Nov,2023,
+Rolls-Royce,Ghost,Nov 23,Nov,2023,
+Rolls-Royce,Wraith,Nov 23,Nov,2023,
+Rolls-Royce,Dawn,Nov 23,Nov,2023,
+Mini,Cooper Countryman,Nov 23,Nov,2023,
+Mini,3 Door,Nov 23,Nov,2023,
+Lexus,LX,Nov 23,Nov,2023,
+Renault,Kiger,Nov 23,Nov,2023,530.0
+Ferrari,F8 Tributo,Nov 23,Nov,2023,
+Ferrari,SF90 Stradale,Nov 23,Nov,2023,
+Ferrari,812,Nov 23,Nov,2023,
+Maserati,Quattroporte,Nov 23,Nov,2023,
+Isuzu,S-Cab,Nov 23,Nov,2023,
+Maserati,Ghibli,Nov 23,Nov,2023,
+Isuzu,Hi-Lander,Nov 23,Nov,2023,
+Maserati,GranTurismo,Nov 23,Nov,2023,
+Maserati,GranCabrio,Nov 23,Nov,2023,
+Isuzu,V-Cross,Nov 23,Nov,2023,
+Isuzu,MU-X,Nov 23,Nov,2023,
+Isuzu,D-Max,Nov 23,Nov,2023,
+Mclaren,GT,Nov 23,Nov,2023,
+Mclaren,750S,Nov 23,Nov,2023,
+Force,Gurkha,Nov 23,Nov,2023,
+Force,Gurkha 5 Door,Nov 23,Nov,2023,
+Ferrari,Roma,Nov 23,Nov,2023,
+Ferrari,296 GTB,Nov 23,Nov,2023,
+Mercedes-Benz,G-Class,Nov 23,Nov,2023,
+Aston Martin,DBX,Nov 23,Nov,2023,
+Mercedes-Benz,C-Class,Nov 23,Nov,2023,
+Mercedes-Benz,GLS,Nov 23,Nov,2023,
+Mercedes-Benz,A Class Sedan Limousine,Nov 23,Nov,2023,
+Mercedes-Benz,GLA,Nov 23,Nov,2023,
+Mercedes-Benz,GLC,Nov 23,Nov,2023,
+Mercedes-Benz,Maybach S-Class,Nov 23,Nov,2023,
+Mercedes-Benz,E-Class,Nov 23,Nov,2023,
+Mercedes-Benz,GLE-Class,Nov 23,Nov,2023,
+Mercedes-Benz,GLB,Nov 23,Nov,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,Nov 23,Nov,2023,
+Mercedes-Benz,GLC Coupe,Nov 23,Nov,2023,
+Aston Martin,Vantage,Nov 23,Nov,2023,
+Mercedes-Benz,AMG E 53,Nov 23,Nov,2023,
+Mercedes-Benz,AMG A 45 S,Nov 23,Nov,2023,
+Aston Martin,DB 12,Nov 23,Nov,2023,
+Mercedes-Benz,S Class,Nov 23,Nov,2023,
+Pravaig,Defy,Nov 23,Nov,2023,
+Mercedes-Benz,EQS,Nov 23,Nov,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,Nov 23,Nov,2023,
+Mercedes-Benz,AMG GLC 43,Nov 23,Nov,2023,
+Bajaj,Qute (RE60),Nov 23,Nov,2023,
+Strom Motors,R3,Nov 23,Nov,2023,
+Bentley,Bentayga,Nov 23,Nov,2023,
+Porsche,911,Nov 23,Nov,2023,
+Audi,A6,Nov 23,Nov,2023,
+Mercedes-Benz,EQB,Nov 23,Nov,2023,
+Volkswagen,Taigun,Nov 23,Nov,2023,1771.0
+Citroen,C3 Aircross,Nov 23,Nov,2023,5.0
+BYD Auto,E6 Electric,Nov 23,Nov,2023,
+Mercedes-Benz,AMG E 63,Nov 23,Nov,2023,
+Mclaren,720S,Nov 23,Nov,2023,
+Mercedes-Benz,EQE,Nov 23,Nov,2023,
+Tata,Nexon,Nov 23,Nov,2023,14916.0
+Renault,Kwid,Nov 23,Nov,2023,610.0
+Audi,RS E-Tron GT,Nov 23,Nov,2023,
+Audi,E-Tron GT,Nov 23,Nov,2023,
+Maruti Suzuki,Grand Vitara,Oct 22,Oct,2022,8052.0
+Maruti Suzuki,Celerio,Oct 22,Oct,2022,4296.0
+Maruti Suzuki,Baleno,Oct 22,Oct,2022,17149.0
+Maruti Suzuki,S-Presso,Oct 22,Oct,2022,3676.0
+Maruti Suzuki,Alto K10,Oct 22,Oct,2022,
+Maruti Suzuki,Dzire,Oct 22,Oct,2022,12321.0
+Maruti Suzuki,Ertiga,Oct 22,Oct,2022,10494.0
+Maruti Suzuki,Swift,Oct 22,Oct,2022,17231.0
+Maruti Suzuki,XL6,Oct 22,Oct,2022,2484.0
+Maruti Suzuki,Brezza,Oct 22,Oct,2022,
+Maruti Suzuki,Wagon R,Oct 22,Oct,2022,17945.0
+Maruti Suzuki,Jimny,Oct 22,Oct,2022,0.0
+Hyundai,Verna,Oct 22,Oct,2022,2179.0
+Hyundai,Aura,Oct 22,Oct,2022,4248.0
+Hyundai,Grand i10 Nios,Oct 22,Oct,2022,
+Maruti Suzuki,Ciaz,Oct 22,Oct,2022,1884.0
+Hyundai,Exter,Oct 22,Oct,2022,0.0
+Hyundai,Creta N Line,Oct 22,Oct,2022,
+Hyundai,Tucson,Oct 22,Oct,2022,487.0
+Maruti Suzuki,Eeco,Oct 22,Oct,2022,8861.0
+Hyundai,i20,Oct 22,Oct,2022,
+Maruti Suzuki,Invicto,Oct 22,Oct,2022,0.0
+Hyundai,Creta,Oct 22,Oct,2022,11880.0
+Hyundai,Alcazar,Oct 22,Oct,2022,2847.0
+Hyundai,Venue,Oct 22,Oct,2022,9585.0
+Tata,Tiago NRG BS6,Oct 22,Oct,2022,
+Tata,Tiago,Oct 22,Oct,2022,7187.0
+Tata,Punch EV,Oct 22,Oct,2022,
+Tata,Tigor,Oct 22,Oct,2022,4001.0
+Tata,Nexon EV,Oct 22,Oct,2022,
+Tata,Altroz,Oct 22,Oct,2022,4770.0
+Tata,Harrier,Oct 22,Oct,2022,2762.0
+Tata,Tiago EV,Oct 22,Oct,2022,
+Hyundai,Venue N Line,Oct 22,Oct,2022,
+Hyundai,Ioniq 5,Oct 22,Oct,2022,0.0
+Tata,Safari,Oct 22,Oct,2022,1751.0
+Tata,Punch,Oct 22,Oct,2022,10982.0
+Hyundai,Kona Electric,Oct 22,Oct,2022,106.0
+Tata,Xpres-T EV,Oct 22,Oct,2022,
+Mahindra,Scorpio Classic,Oct 22,Oct,2022,
+Tata,Altroz CNG,Oct 22,Oct,2022,
+Tata,Altroz Racer,Oct 22,Oct,2022,
+Mahindra,Thar,Oct 22,Oct,2022,3665.0
+Toyota,Innova Crysta,Oct 22,Oct,2022,
+Mahindra,XUV700,Oct 22,Oct,2022,5815.0
+Mahindra,Bolero,Oct 22,Oct,2022,8772.0
+Mahindra,XUV 400 Electric,Oct 22,Oct,2022,0.0
+Mahindra,Scorpio N,Oct 22,Oct,2022,
+Mahindra,XUV 3X0,Oct 22,Oct,2022,
+Mahindra,Bolero Neo,Oct 22,Oct,2022,
+Mahindra,Bolero Neo Plus,Oct 22,Oct,2022,
+Tata,Tigor CNG,Oct 22,Oct,2022,
+Tata,Tiago CNG,Oct 22,Oct,2022,
+Tata,Punch CNG,Oct 22,Oct,2022,
+Tata,Magic Mantra 10 Seater,Oct 22,Oct,2022,
+Toyota,Fortuner,Oct 22,Oct,2022,2031.0
+Toyota,Innova Hycross,Oct 22,Oct,2022,3739.0
+Toyota,Land Cruiser LC300,Oct 22,Oct,2022,
+Toyota,Hilux,Oct 22,Oct,2022,75.0
+Toyota,Camry,Oct 22,Oct,2022,59.0
+Toyota,Vellfire,Oct 22,Oct,2022,88.0
+Toyota,Fortuner Legender,Oct 22,Oct,2022,
+Toyota,Urban Cruiser HyRyder,Oct 22,Oct,2022,3384.0
+Toyota,Glanza,Oct 22,Oct,2022,3767.0
+Mahindra,KUV100 NXT,Oct 22,Oct,2022,
+Toyota,Taisor,Oct 22,Oct,2022,
+Toyota,Rumion,Oct 22,Oct,2022,0.0
+Mahindra,XUV 300,Oct 22,Oct,2022,6282.0
+BMW,M4 Competition,Oct 22,Oct,2022,
+BMW,X7,Oct 22,Oct,2022,
+KIA,Carens,Oct 22,Oct,2022,5479.0
+BMW,7-Series,Oct 22,Oct,2022,
+BMW,X1,Oct 22,Oct,2022,
+BMW,2 Series Gran Coupe,Oct 22,Oct,2022,
+BMW,3 Series Gran Limousine,Oct 22,Oct,2022,
+BMW,Z4,Oct 22,Oct,2022,
+BMW,M2,Oct 22,Oct,2022,
+BMW,6 Series,Oct 22,Oct,2022,
+BMW,X5,Oct 22,Oct,2022,
+KIA,Sonet,Oct 22,Oct,2022,7614.0
+BMW,X3,Oct 22,Oct,2022,
+BMW,M8 Coupe Competition,Oct 22,Oct,2022,
+KIA,EV6,Oct 22,Oct,2022,152.0
+BMW,i7,Oct 22,Oct,2022,
+BMW,XM,Oct 22,Oct,2022,
+MG,Gloster,Oct 22,Oct,2022,179.0
+MG,Comet EV,Oct 22,Oct,2022,0.0
+Honda,Elevate,Oct 22,Oct,2022,0.0
+Honda,City,Oct 22,Oct,2022,3250.0
+BMW,i5,Oct 22,Oct,2022,
+MG,Astor,Oct 22,Oct,2022,1774.0
+MG,Hector,Oct 22,Oct,2022,1630.0
+MG,Hector Plus,Oct 22,Oct,2022,
+MG,ZS EV,Oct 22,Oct,2022,784.0
+BMW,X4,Oct 22,Oct,2022,
+BMW,iX Electric,Oct 22,Oct,2022,
+BMW,3-Series,Oct 22,Oct,2022,
+BMW,iX1,Oct 22,Oct,2022,
+Honda,Amaze,Oct 22,Oct,2022,5443.0
+Honda,City Hybrid,Oct 22,Oct,2022,
+Mahindra,Marazzo,Oct 22,Oct,2022,213.0
+Skoda,Superb,Oct 22,Oct,2022,143.0
+Tata,Magic Express 10 Seater,Oct 22,Oct,2022,
+Volkswagen,Virtus,Oct 22,Oct,2022,1072.0
+BMW,i4,Oct 22,Oct,2022,
+Skoda,Kushaq,Oct 22,Oct,2022,1691.0
+KIA,Seltos,Oct 22,Oct,2022,9777.0
+Tata,Tigor EV,Oct 22,Oct,2022,
+Skoda,Slavia,Oct 22,Oct,2022,1376.0
+Skoda,Kodiaq,Oct 22,Oct,2022,55.0
+Maruti Suzuki,Ignis,Oct 22,Oct,2022,4743.0
+Hyundai,i20 N Line,Oct 22,Oct,2022,
+Maruti Suzuki,Fronx,Oct 22,Oct,2022,0.0
+Jeep,Grand Cherokee,Oct 22,Oct,2022,
+Land Rover,Range Rover Velar,Oct 22,Oct,2022,
+Land Rover,Range Rover Evoque,Oct 22,Oct,2022,
+Audi,A4,Oct 22,Oct,2022,
+Land Rover,Range Rover,Oct 22,Oct,2022,
+Land Rover,Discovery Sport,Oct 22,Oct,2022,
+Land Rover,Range Rover Sport,Oct 22,Oct,2022,
+Land Rover,Discovery,Oct 22,Oct,2022,
+Jeep,Wrangler,Oct 22,Oct,2022,
+Jeep,Compass,Oct 22,Oct,2022,732.0
+Volkswagen,Tiguan,Oct 22,Oct,2022,83.0
+Audi,Q3,Oct 22,Oct,2022,
+Audi,Q3 Sportback,Oct 22,Oct,2022,
+Jeep,Meridian,Oct 22,Oct,2022,404.0
+Land Rover,Defender,Oct 22,Oct,2022,
+Audi,RS Q8,Oct 22,Oct,2022,
+Audi,RS5,Oct 22,Oct,2022,
+Audi,e-tron,Oct 22,Oct,2022,
+Audi,Q8,Oct 22,Oct,2022,
+Volvo,S90,Oct 22,Oct,2022,
+Audi,A8L,Oct 22,Oct,2022,
+Volvo,XC60,Oct 22,Oct,2022,
+Volvo,XC90,Oct 22,Oct,2022,
+Volvo,XC40 Recharge,Oct 22,Oct,2022,
+Volvo,C40 Recharge,Oct 22,Oct,2022,
+Jaguar,F-Type,Oct 22,Oct,2022,
+Jaguar,I-Pace,Oct 22,Oct,2022,
+Audi,S5 Sportback,Oct 22,Oct,2022,
+Audi,Q5,Oct 22,Oct,2022,
+Jaguar,F-Pace,Oct 22,Oct,2022,
+Audi,Q7,Oct 22,Oct,2022,
+Audi,Q8 e-tron,Oct 22,Oct,2022,
+Porsche,Macan,Oct 22,Oct,2022,
+Porsche,Cayenne,Oct 22,Oct,2022,
+Porsche,Cayenne Coupe,Oct 22,Oct,2022,
+Citroen,C3,Oct 22,Oct,2022,1180.0
+Citroen,eC3,Oct 22,Oct,2022,0.0
+Lamborghini,Urus,Oct 22,Oct,2022,
+Citroen,C5 Aircross,Oct 22,Oct,2022,15.0
+Porsche,Panamera,Oct 22,Oct,2022,
+Lamborghini,Revuelto,Oct 22,Oct,2022,
+Porsche,718,Oct 22,Oct,2022,
+BYD Auto,Atto 3,Oct 22,Oct,2022,
+Lamborghini,Huracan EVO,Oct 22,Oct,2022,
+Renault,Triber,Oct 22,Oct,2022,3199.0
+Nissan,Magnite,Oct 22,Oct,2022,2819.0
+Porsche,Taycan,Oct 22,Oct,2022,
+Lexus,LC 500h,Oct 22,Oct,2022,
+Lexus,ES,Oct 22,Oct,2022,
+Lexus,LS 500h,Oct 22,Oct,2022,
+Rolls-Royce,Cullinan,Oct 22,Oct,2022,
+Lexus,NX,Oct 22,Oct,2022,
+Lexus,RX,Oct 22,Oct,2022,
+Lexus,LM 350h,Oct 22,Oct,2022,
+Mini,Cooper SE,Oct 22,Oct,2022,
+Rolls-Royce,Phantom,Oct 22,Oct,2022,
+BYD Auto,Seal EV,Oct 22,Oct,2022,
+Rolls-Royce,Ghost,Oct 22,Oct,2022,
+Rolls-Royce,Wraith,Oct 22,Oct,2022,
+Rolls-Royce,Dawn,Oct 22,Oct,2022,
+Mini,Cooper Countryman,Oct 22,Oct,2022,
+Mini,3 Door,Oct 22,Oct,2022,
+Lexus,LX,Oct 22,Oct,2022,
+Renault,Kiger,Oct 22,Oct,2022,2685.0
+Ferrari,F8 Tributo,Oct 22,Oct,2022,
+Ferrari,SF90 Stradale,Oct 22,Oct,2022,
+Ferrari,812,Oct 22,Oct,2022,
+Maserati,Quattroporte,Oct 22,Oct,2022,
+Isuzu,S-Cab,Oct 22,Oct,2022,
+Maserati,Ghibli,Oct 22,Oct,2022,
+Isuzu,Hi-Lander,Oct 22,Oct,2022,
+Maserati,GranTurismo,Oct 22,Oct,2022,
+Maserati,GranCabrio,Oct 22,Oct,2022,
+Isuzu,V-Cross,Oct 22,Oct,2022,
+Isuzu,MU-X,Oct 22,Oct,2022,
+Isuzu,D-Max,Oct 22,Oct,2022,
+Mclaren,GT,Oct 22,Oct,2022,
+Mclaren,750S,Oct 22,Oct,2022,
+Force,Gurkha,Oct 22,Oct,2022,
+Force,Gurkha 5 Door,Oct 22,Oct,2022,
+Ferrari,Roma,Oct 22,Oct,2022,
+Ferrari,296 GTB,Oct 22,Oct,2022,
+Mercedes-Benz,G-Class,Oct 22,Oct,2022,
+Aston Martin,DBX,Oct 22,Oct,2022,
+Mercedes-Benz,C-Class,Oct 22,Oct,2022,
+Mercedes-Benz,GLS,Oct 22,Oct,2022,
+Mercedes-Benz,A Class Sedan Limousine,Oct 22,Oct,2022,
+Mercedes-Benz,GLA,Oct 22,Oct,2022,
+Mercedes-Benz,GLC,Oct 22,Oct,2022,
+Mercedes-Benz,Maybach S-Class,Oct 22,Oct,2022,
+Mercedes-Benz,E-Class,Oct 22,Oct,2022,
+Mercedes-Benz,GLE-Class,Oct 22,Oct,2022,
+Mercedes-Benz,GLB,Oct 22,Oct,2022,
+Mercedes-Benz,AMG E 53 Cabriolet,Oct 22,Oct,2022,
+Mercedes-Benz,GLC Coupe,Oct 22,Oct,2022,
+Aston Martin,Vantage,Oct 22,Oct,2022,
+Mercedes-Benz,AMG E 53,Oct 22,Oct,2022,
+Mercedes-Benz,AMG A 45 S,Oct 22,Oct,2022,
+Aston Martin,DB 12,Oct 22,Oct,2022,
+Mercedes-Benz,S Class,Oct 22,Oct,2022,
+Pravaig,Defy,Oct 22,Oct,2022,
+Mercedes-Benz,EQS,Oct 22,Oct,2022,
+Mercedes-Benz,AMG GLE 53 Coupe,Oct 22,Oct,2022,
+Mercedes-Benz,AMG GLC 43,Oct 22,Oct,2022,
+Bajaj,Qute (RE60),Oct 22,Oct,2022,
+Strom Motors,R3,Oct 22,Oct,2022,
+Bentley,Bentayga,Oct 22,Oct,2022,
+Porsche,911,Oct 22,Oct,2022,
+Audi,A6,Oct 22,Oct,2022,
+Mercedes-Benz,EQB,Oct 22,Oct,2022,
+Volkswagen,Taigun,Oct 22,Oct,2022,2355.0
+Citroen,C3 Aircross,Oct 22,Oct,2022,0.0
+BYD Auto,E6 Electric,Oct 22,Oct,2022,
+Mercedes-Benz,AMG E 63,Oct 22,Oct,2022,
+Mclaren,720S,Oct 22,Oct,2022,
+Mercedes-Benz,EQE,Oct 22,Oct,2022,
+Tata,Nexon,Oct 22,Oct,2022,13767.0
+Renault,Kwid,Oct 22,Oct,2022,1894.0
+Audi,RS E-Tron GT,Oct 22,Oct,2022,
+Audi,E-Tron GT,Oct 22,Oct,2022,
+Maruti Suzuki,Grand Vitara,Oct 23,Oct,2023,10834.0
+Maruti Suzuki,Celerio,Oct 23,Oct,2023,4317.0
+Maruti Suzuki,Baleno,Oct 23,Oct,2023,16594.0
+Maruti Suzuki,S-Presso,Oct 23,Oct,2023,3368.0
+Maruti Suzuki,Alto K10,Oct 23,Oct,2023,
+Maruti Suzuki,Dzire,Oct 23,Oct,2023,14699.0
+Maruti Suzuki,Ertiga,Oct 23,Oct,2023,14209.0
+Maruti Suzuki,Swift,Oct 23,Oct,2023,20598.0
+Maruti Suzuki,XL6,Oct 23,Oct,2023,4367.0
+Maruti Suzuki,Brezza,Oct 23,Oct,2023,
+Maruti Suzuki,Wagon R,Oct 23,Oct,2023,22080.0
+Maruti Suzuki,Jimny,Oct 23,Oct,2023,1852.0
+Hyundai,Verna,Oct 23,Oct,2023,2313.0
+Hyundai,Aura,Oct 23,Oct,2023,4096.0
+Hyundai,Grand i10 Nios,Oct 23,Oct,2023,
+Maruti Suzuki,Ciaz,Oct 23,Oct,2023,695.0
+Hyundai,Exter,Oct 23,Oct,2023,8097.0
+Hyundai,Creta N Line,Oct 23,Oct,2023,
+Hyundai,Tucson,Oct 23,Oct,2023,202.0
+Maruti Suzuki,Eeco,Oct 23,Oct,2023,12975.0
+Hyundai,i20,Oct 23,Oct,2023,
+Maruti Suzuki,Invicto,Oct 23,Oct,2023,478.0
+Hyundai,Creta,Oct 23,Oct,2023,13077.0
+Hyundai,Alcazar,Oct 23,Oct,2023,1837.0
+Hyundai,Venue,Oct 23,Oct,2023,11581.0
+Tata,Tiago NRG BS6,Oct 23,Oct,2023,
+Tata,Tiago,Oct 23,Oct,2023,5356.0
+Tata,Punch EV,Oct 23,Oct,2023,
+Tata,Tigor,Oct 23,Oct,2023,1563.0
+Tata,Nexon EV,Oct 23,Oct,2023,
+Tata,Altroz,Oct 23,Oct,2023,5984.0
+Tata,Harrier,Oct 23,Oct,2023,1896.0
+Tata,Tiago EV,Oct 23,Oct,2023,
+Hyundai,Venue N Line,Oct 23,Oct,2023,
+Hyundai,Ioniq 5,Oct 23,Oct,2023,117.0
+Tata,Safari,Oct 23,Oct,2023,1340.0
+Tata,Punch,Oct 23,Oct,2023,15317.0
+Hyundai,Kona Electric,Oct 23,Oct,2023,44.0
+Tata,Xpres-T EV,Oct 23,Oct,2023,
+Mahindra,Scorpio Classic,Oct 23,Oct,2023,
+Tata,Altroz CNG,Oct 23,Oct,2023,
+Tata,Altroz Racer,Oct 23,Oct,2023,
+Mahindra,Thar,Oct 23,Oct,2023,5593.0
+Toyota,Innova Crysta,Oct 23,Oct,2023,
+Mahindra,XUV700,Oct 23,Oct,2023,9297.0
+Mahindra,Bolero,Oct 23,Oct,2023,9647.0
+Mahindra,XUV 400 Electric,Oct 23,Oct,2023,639.0
+Mahindra,Scorpio N,Oct 23,Oct,2023,
+Mahindra,XUV 3X0,Oct 23,Oct,2023,
+Mahindra,Bolero Neo,Oct 23,Oct,2023,
+Mahindra,Bolero Neo Plus,Oct 23,Oct,2023,
+Tata,Tigor CNG,Oct 23,Oct,2023,
+Tata,Tiago CNG,Oct 23,Oct,2023,
+Tata,Punch CNG,Oct 23,Oct,2023,
+Tata,Magic Mantra 10 Seater,Oct 23,Oct,2023,
+Toyota,Fortuner,Oct 23,Oct,2023,2475.0
+Toyota,Innova Hycross,Oct 23,Oct,2023,8183.0
+Toyota,Land Cruiser LC300,Oct 23,Oct,2023,
+Toyota,Hilux,Oct 23,Oct,2023,181.0
+Toyota,Camry,Oct 23,Oct,2023,197.0
+Toyota,Vellfire,Oct 23,Oct,2023,3.0
+Toyota,Fortuner Legender,Oct 23,Oct,2023,
+Toyota,Urban Cruiser HyRyder,Oct 23,Oct,2023,3987.0
+Toyota,Glanza,Oct 23,Oct,2023,4724.0
+Mahindra,KUV100 NXT,Oct 23,Oct,2023,
+Toyota,Taisor,Oct 23,Oct,2023,
+Toyota,Rumion,Oct 23,Oct,2023,792.0
+Mahindra,XUV 300,Oct 23,Oct,2023,4865.0
+BMW,M4 Competition,Oct 23,Oct,2023,
+BMW,X7,Oct 23,Oct,2023,
+KIA,Carens,Oct 23,Oct,2023,5355.0
+BMW,7-Series,Oct 23,Oct,2023,
+BMW,X1,Oct 23,Oct,2023,
+BMW,2 Series Gran Coupe,Oct 23,Oct,2023,
+BMW,3 Series Gran Limousine,Oct 23,Oct,2023,
+BMW,Z4,Oct 23,Oct,2023,
+BMW,M2,Oct 23,Oct,2023,
+BMW,6 Series,Oct 23,Oct,2023,
+BMW,X5,Oct 23,Oct,2023,
+KIA,Sonet,Oct 23,Oct,2023,6493.0
+BMW,X3,Oct 23,Oct,2023,
+BMW,M8 Coupe Competition,Oct 23,Oct,2023,
+KIA,EV6,Oct 23,Oct,2023,141.0
+BMW,i7,Oct 23,Oct,2023,
+BMW,XM,Oct 23,Oct,2023,
+MG,Gloster,Oct 23,Oct,2023,247.0
+MG,Comet EV,Oct 23,Oct,2023,1036.0
+Honda,Elevate,Oct 23,Oct,2023,4957.0
+Honda,City,Oct 23,Oct,2023,1553.0
+BMW,i5,Oct 23,Oct,2023,
+MG,Astor,Oct 23,Oct,2023,890.0
+MG,Hector,Oct 23,Oct,2023,2703.0
+MG,Hector Plus,Oct 23,Oct,2023,
+MG,ZS EV,Oct 23,Oct,2023,232.0
+BMW,X4,Oct 23,Oct,2023,
+BMW,iX Electric,Oct 23,Oct,2023,
+BMW,3-Series,Oct 23,Oct,2023,
+BMW,iX1,Oct 23,Oct,2023,
+Honda,Amaze,Oct 23,Oct,2023,2890.0
+Honda,City Hybrid,Oct 23,Oct,2023,
+Mahindra,Marazzo,Oct 23,Oct,2023,89.0
+Skoda,Superb,Oct 23,Oct,2023,0.0
+Tata,Magic Express 10 Seater,Oct 23,Oct,2023,
+Volkswagen,Virtus,Oct 23,Oct,2023,1772.0
+BMW,i4,Oct 23,Oct,2023,
+Skoda,Kushaq,Oct 23,Oct,2023,2447.0
+KIA,Seltos,Oct 23,Oct,2023,12362.0
+Tata,Tigor EV,Oct 23,Oct,2023,
+Skoda,Slavia,Oct 23,Oct,2023,1943.0
+Skoda,Kodiaq,Oct 23,Oct,2023,176.0
+Maruti Suzuki,Ignis,Oct 23,Oct,2023,2374.0
+Hyundai,i20 N Line,Oct 23,Oct,2023,
+Maruti Suzuki,Fronx,Oct 23,Oct,2023,11357.0
+Jeep,Grand Cherokee,Oct 23,Oct,2023,
+Land Rover,Range Rover Velar,Oct 23,Oct,2023,
+Land Rover,Range Rover Evoque,Oct 23,Oct,2023,
+Audi,A4,Oct 23,Oct,2023,
+Land Rover,Range Rover,Oct 23,Oct,2023,
+Land Rover,Discovery Sport,Oct 23,Oct,2023,
+Land Rover,Range Rover Sport,Oct 23,Oct,2023,
+Land Rover,Discovery,Oct 23,Oct,2023,
+Jeep,Wrangler,Oct 23,Oct,2023,
+Jeep,Compass,Oct 23,Oct,2023,398.0
+Volkswagen,Tiguan,Oct 23,Oct,2023,98.0
+Audi,Q3,Oct 23,Oct,2023,
+Audi,Q3 Sportback,Oct 23,Oct,2023,
+Jeep,Meridian,Oct 23,Oct,2023,109.0
+Land Rover,Defender,Oct 23,Oct,2023,
+Audi,RS Q8,Oct 23,Oct,2023,
+Audi,RS5,Oct 23,Oct,2023,
+Audi,e-tron,Oct 23,Oct,2023,
+Audi,Q8,Oct 23,Oct,2023,
+Volvo,S90,Oct 23,Oct,2023,
+Audi,A8L,Oct 23,Oct,2023,
+Volvo,XC60,Oct 23,Oct,2023,
+Volvo,XC90,Oct 23,Oct,2023,
+Volvo,XC40 Recharge,Oct 23,Oct,2023,
+Volvo,C40 Recharge,Oct 23,Oct,2023,
+Jaguar,F-Type,Oct 23,Oct,2023,
+Jaguar,I-Pace,Oct 23,Oct,2023,
+Audi,S5 Sportback,Oct 23,Oct,2023,
+Audi,Q5,Oct 23,Oct,2023,
+Jaguar,F-Pace,Oct 23,Oct,2023,
+Audi,Q7,Oct 23,Oct,2023,
+Audi,Q8 e-tron,Oct 23,Oct,2023,
+Porsche,Macan,Oct 23,Oct,2023,
+Porsche,Cayenne,Oct 23,Oct,2023,
+Porsche,Cayenne Coupe,Oct 23,Oct,2023,
+Citroen,C3,Oct 23,Oct,2023,222.0
+Citroen,eC3,Oct 23,Oct,2023,179.0
+Lamborghini,Urus,Oct 23,Oct,2023,
+Citroen,C5 Aircross,Oct 23,Oct,2023,5.0
+Porsche,Panamera,Oct 23,Oct,2023,
+Lamborghini,Revuelto,Oct 23,Oct,2023,
+Porsche,718,Oct 23,Oct,2023,
+BYD Auto,Atto 3,Oct 23,Oct,2023,
+Lamborghini,Huracan EVO,Oct 23,Oct,2023,
+Renault,Triber,Oct 23,Oct,2023,2080.0
+Nissan,Magnite,Oct 23,Oct,2023,2573.0
+Porsche,Taycan,Oct 23,Oct,2023,
+Lexus,LC 500h,Oct 23,Oct,2023,
+Lexus,ES,Oct 23,Oct,2023,
+Lexus,LS 500h,Oct 23,Oct,2023,
+Rolls-Royce,Cullinan,Oct 23,Oct,2023,
+Lexus,NX,Oct 23,Oct,2023,
+Lexus,RX,Oct 23,Oct,2023,
+Lexus,LM 350h,Oct 23,Oct,2023,
+Mini,Cooper SE,Oct 23,Oct,2023,
+Rolls-Royce,Phantom,Oct 23,Oct,2023,
+BYD Auto,Seal EV,Oct 23,Oct,2023,
+Rolls-Royce,Ghost,Oct 23,Oct,2023,
+Rolls-Royce,Wraith,Oct 23,Oct,2023,
+Rolls-Royce,Dawn,Oct 23,Oct,2023,
+Mini,Cooper Countryman,Oct 23,Oct,2023,
+Mini,3 Door,Oct 23,Oct,2023,
+Lexus,LX,Oct 23,Oct,2023,
+Renault,Kiger,Oct 23,Oct,2023,912.0
+Ferrari,F8 Tributo,Oct 23,Oct,2023,
+Ferrari,SF90 Stradale,Oct 23,Oct,2023,
+Ferrari,812,Oct 23,Oct,2023,
+Maserati,Quattroporte,Oct 23,Oct,2023,
+Isuzu,S-Cab,Oct 23,Oct,2023,
+Maserati,Ghibli,Oct 23,Oct,2023,
+Isuzu,Hi-Lander,Oct 23,Oct,2023,
+Maserati,GranTurismo,Oct 23,Oct,2023,
+Maserati,GranCabrio,Oct 23,Oct,2023,
+Isuzu,V-Cross,Oct 23,Oct,2023,
+Isuzu,MU-X,Oct 23,Oct,2023,
+Isuzu,D-Max,Oct 23,Oct,2023,
+Mclaren,GT,Oct 23,Oct,2023,
+Mclaren,750S,Oct 23,Oct,2023,
+Force,Gurkha,Oct 23,Oct,2023,
+Force,Gurkha 5 Door,Oct 23,Oct,2023,
+Ferrari,Roma,Oct 23,Oct,2023,
+Ferrari,296 GTB,Oct 23,Oct,2023,
+Mercedes-Benz,G-Class,Oct 23,Oct,2023,
+Aston Martin,DBX,Oct 23,Oct,2023,
+Mercedes-Benz,C-Class,Oct 23,Oct,2023,
+Mercedes-Benz,GLS,Oct 23,Oct,2023,
+Mercedes-Benz,A Class Sedan Limousine,Oct 23,Oct,2023,
+Mercedes-Benz,GLA,Oct 23,Oct,2023,
+Mercedes-Benz,GLC,Oct 23,Oct,2023,
+Mercedes-Benz,Maybach S-Class,Oct 23,Oct,2023,
+Mercedes-Benz,E-Class,Oct 23,Oct,2023,
+Mercedes-Benz,GLE-Class,Oct 23,Oct,2023,
+Mercedes-Benz,GLB,Oct 23,Oct,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,Oct 23,Oct,2023,
+Mercedes-Benz,GLC Coupe,Oct 23,Oct,2023,
+Aston Martin,Vantage,Oct 23,Oct,2023,
+Mercedes-Benz,AMG E 53,Oct 23,Oct,2023,
+Mercedes-Benz,AMG A 45 S,Oct 23,Oct,2023,
+Aston Martin,DB 12,Oct 23,Oct,2023,
+Mercedes-Benz,S Class,Oct 23,Oct,2023,
+Pravaig,Defy,Oct 23,Oct,2023,
+Mercedes-Benz,EQS,Oct 23,Oct,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,Oct 23,Oct,2023,
+Mercedes-Benz,AMG GLC 43,Oct 23,Oct,2023,
+Bajaj,Qute (RE60),Oct 23,Oct,2023,
+Strom Motors,R3,Oct 23,Oct,2023,
+Bentley,Bentayga,Oct 23,Oct,2023,
+Porsche,911,Oct 23,Oct,2023,
+Audi,A6,Oct 23,Oct,2023,
+Mercedes-Benz,EQB,Oct 23,Oct,2023,
+Volkswagen,Taigun,Oct 23,Oct,2023,2219.0
+Citroen,C3 Aircross,Oct 23,Oct,2023,224.0
+BYD Auto,E6 Electric,Oct 23,Oct,2023,
+Mercedes-Benz,AMG E 63,Oct 23,Oct,2023,
+Mclaren,720S,Oct 23,Oct,2023,
+Mercedes-Benz,EQE,Oct 23,Oct,2023,
+Tata,Nexon,Oct 23,Oct,2023,16887.0
+Renault,Kwid,Oct 23,Oct,2023,869.0
+Audi,RS E-Tron GT,Oct 23,Oct,2023,
+Audi,E-Tron GT,Oct 23,Oct,2023,
+Maruti Suzuki,Grand Vitara,Sep 22,Sep,2022,4769.0
+Maruti Suzuki,Celerio,Sep 22,Sep,2022,5390.0
+Maruti Suzuki,Baleno,Sep 22,Sep,2022,19369.0
+Maruti Suzuki,S-Presso,Sep 22,Sep,2022,4730.0
+Maruti Suzuki,Alto K10,Sep 22,Sep,2022,
+Maruti Suzuki,Dzire,Sep 22,Sep,2022,9601.0
+Maruti Suzuki,Ertiga,Sep 22,Sep,2022,9299.0
+Maruti Suzuki,Swift,Sep 22,Sep,2022,11988.0
+Maruti Suzuki,XL6,Sep 22,Sep,2022,3061.0
+Maruti Suzuki,Brezza,Sep 22,Sep,2022,
+Maruti Suzuki,Wagon R,Sep 22,Sep,2022,20078.0
+Maruti Suzuki,Jimny,Sep 22,Sep,2022,0.0
+Hyundai,Verna,Sep 22,Sep,2022,1654.0
+Hyundai,Aura,Sep 22,Sep,2022,4239.0
+Hyundai,Grand i10 Nios,Sep 22,Sep,2022,
+Maruti Suzuki,Ciaz,Sep 22,Sep,2022,1359.0
+Hyundai,Exter,Sep 22,Sep,2022,0.0
+Hyundai,Creta N Line,Sep 22,Sep,2022,
+Hyundai,Tucson,Sep 22,Sep,2022,419.0
+Maruti Suzuki,Eeco,Sep 22,Sep,2022,12697.0
+Hyundai,i20,Sep 22,Sep,2022,
+Maruti Suzuki,Invicto,Sep 22,Sep,2022,
+Hyundai,Creta,Sep 22,Sep,2022,12866.0
+Hyundai,Alcazar,Sep 22,Sep,2022,2643.0
+Hyundai,Venue,Sep 22,Sep,2022,11033.0
+Tata,Tiago NRG BS6,Sep 22,Sep,2022,
+Tata,Tiago,Sep 22,Sep,2022,6936.0
+Tata,Punch EV,Sep 22,Sep,2022,
+Tata,Tigor,Sep 22,Sep,2022,3700.0
+Tata,Nexon EV,Sep 22,Sep,2022,
+Tata,Altroz,Sep 22,Sep,2022,5227.0
+Tata,Harrier,Sep 22,Sep,2022,2993.0
+Tata,Tiago EV,Sep 22,Sep,2022,
+Hyundai,Venue N Line,Sep 22,Sep,2022,
+Hyundai,Ioniq 5,Sep 22,Sep,2022,0.0
+Tata,Safari,Sep 22,Sep,2022,2030.0
+Tata,Punch,Sep 22,Sep,2022,12251.0
+Hyundai,Kona Electric,Sep 22,Sep,2022,112.0
+Tata,Xpres-T EV,Sep 22,Sep,2022,
+Mahindra,Scorpio Classic,Sep 22,Sep,2022,
+Tata,Altroz CNG,Sep 22,Sep,2022,
+Tata,Altroz Racer,Sep 22,Sep,2022,
+Mahindra,Thar,Sep 22,Sep,2022,4249.0
+Toyota,Innova Crysta,Sep 22,Sep,2022,
+Mahindra,XUV700,Sep 22,Sep,2022,6063.0
+Mahindra,Bolero,Sep 22,Sep,2022,8108.0
+Mahindra,XUV 400 Electric,Sep 22,Sep,2022,0.0
+Mahindra,Scorpio N,Sep 22,Sep,2022,
+Mahindra,XUV 3X0,Sep 22,Sep,2022,
+Mahindra,Bolero Neo,Sep 22,Sep,2022,
+Mahindra,Bolero Neo Plus,Sep 22,Sep,2022,
+Tata,Tigor CNG,Sep 22,Sep,2022,
+Tata,Tiago CNG,Sep 22,Sep,2022,
+Tata,Punch CNG,Sep 22,Sep,2022,
+Tata,Magic Mantra 10 Seater,Sep 22,Sep,2022,
+Toyota,Fortuner,Sep 22,Sep,2022,2935.0
+Toyota,Innova Hycross,Sep 22,Sep,2022,7282.0
+Toyota,Land Cruiser LC300,Sep 22,Sep,2022,
+Toyota,Hilux,Sep 22,Sep,2022,2.0
+Toyota,Camry,Sep 22,Sep,2022,68.0
+Toyota,Vellfire,Sep 22,Sep,2022,50.0
+Toyota,Fortuner Legender,Sep 22,Sep,2022,
+Toyota,Urban Cruiser HyRyder,Sep 22,Sep,2022,1163.0
+Toyota,Glanza,Sep 22,Sep,2022,3528.0
+Mahindra,KUV100 NXT,Sep 22,Sep,2022,
+Toyota,Taisor,Sep 22,Sep,2022,
+Toyota,Rumion,Sep 22,Sep,2022,0.0
+Mahindra,XUV 300,Sep 22,Sep,2022,6080.0
+BMW,M4 Competition,Sep 22,Sep,2022,
+BMW,X7,Sep 22,Sep,2022,
+KIA,Carens,Sep 22,Sep,2022,5233.0
+BMW,7-Series,Sep 22,Sep,2022,
+BMW,X1,Sep 22,Sep,2022,
+BMW,2 Series Gran Coupe,Sep 22,Sep,2022,
+BMW,3 Series Gran Limousine,Sep 22,Sep,2022,
+BMW,Z4,Sep 22,Sep,2022,
+BMW,M2,Sep 22,Sep,2022,
+BMW,6 Series,Sep 22,Sep,2022,
+BMW,X5,Sep 22,Sep,2022,
+KIA,Sonet,Sep 22,Sep,2022,9291.0
+BMW,X3,Sep 22,Sep,2022,
+BMW,M8 Coupe Competition,Sep 22,Sep,2022,
+KIA,EV6,Sep 22,Sep,2022,0.0
+BMW,i7,Sep 22,Sep,2022,
+BMW,XM,Sep 22,Sep,2022,
+MG,Gloster,Sep 22,Sep,2022,311.0
+MG,Comet EV,Sep 22,Sep,2022,0.0
+Honda,Elevate,Sep 22,Sep,2022,0.0
+Honda,City,Sep 22,Sep,2022,3420.0
+BMW,i5,Sep 22,Sep,2022,
+MG,Astor,Sep 22,Sep,2022,980.0
+MG,Hector,Sep 22,Sep,2022,2105.0
+MG,Hector Plus,Sep 22,Sep,2022,
+MG,ZS EV,Sep 22,Sep,2022,412.0
+BMW,X4,Sep 22,Sep,2022,
+BMW,iX Electric,Sep 22,Sep,2022,
+BMW,3-Series,Sep 22,Sep,2022,
+BMW,iX1,Sep 22,Sep,2022,
+Honda,Amaze,Sep 22,Sep,2022,4082.0
+Honda,City Hybrid,Sep 22,Sep,2022,
+Mahindra,Marazzo,Sep 22,Sep,2022,162.0
+Skoda,Superb,Sep 22,Sep,2022,190.0
+Tata,Magic Express 10 Seater,Sep 22,Sep,2022,
+Volkswagen,Virtus,Sep 22,Sep,2022,1986.0
+BMW,i4,Sep 22,Sep,2022,
+Skoda,Kushaq,Sep 22,Sep,2022,2224.0
+KIA,Seltos,Sep 22,Sep,2022,11000.0
+Tata,Tigor EV,Sep 22,Sep,2022,
+Skoda,Slavia,Sep 22,Sep,2022,937.0
+Skoda,Kodiaq,Sep 22,Sep,2022,71.0
+Maruti Suzuki,Ignis,Sep 22,Sep,2022,5750.0
+Hyundai,i20 N Line,Sep 22,Sep,2022,
+Maruti Suzuki,Fronx,Sep 22,Sep,2022,0.0
+Jeep,Grand Cherokee,Sep 22,Sep,2022,
+Land Rover,Range Rover Velar,Sep 22,Sep,2022,
+Land Rover,Range Rover Evoque,Sep 22,Sep,2022,
+Audi,A4,Sep 22,Sep,2022,
+Land Rover,Range Rover,Sep 22,Sep,2022,
+Land Rover,Discovery Sport,Sep 22,Sep,2022,
+Land Rover,Range Rover Sport,Sep 22,Sep,2022,
+Land Rover,Discovery,Sep 22,Sep,2022,
+Jeep,Wrangler,Sep 22,Sep,2022,
+Jeep,Compass,Sep 22,Sep,2022,609.0
+Volkswagen,Tiguan,Sep 22,Sep,2022,123.0
+Audi,Q3,Sep 22,Sep,2022,
+Audi,Q3 Sportback,Sep 22,Sep,2022,
+Jeep,Meridian,Sep 22,Sep,2022,507.0
+Land Rover,Defender,Sep 22,Sep,2022,
+Audi,RS Q8,Sep 22,Sep,2022,
+Audi,RS5,Sep 22,Sep,2022,
+Audi,e-tron,Sep 22,Sep,2022,
+Audi,Q8,Sep 22,Sep,2022,
+Volvo,S90,Sep 22,Sep,2022,
+Audi,A8L,Sep 22,Sep,2022,
+Volvo,XC60,Sep 22,Sep,2022,
+Volvo,XC90,Sep 22,Sep,2022,
+Volvo,XC40 Recharge,Sep 22,Sep,2022,
+Volvo,C40 Recharge,Sep 22,Sep,2022,
+Jaguar,F-Type,Sep 22,Sep,2022,
+Jaguar,I-Pace,Sep 22,Sep,2022,
+Audi,S5 Sportback,Sep 22,Sep,2022,
+Audi,Q5,Sep 22,Sep,2022,
+Jaguar,F-Pace,Sep 22,Sep,2022,
+Audi,Q7,Sep 22,Sep,2022,
+Audi,Q8 e-tron,Sep 22,Sep,2022,
+Porsche,Macan,Sep 22,Sep,2022,
+Porsche,Cayenne,Sep 22,Sep,2022,
+Porsche,Cayenne Coupe,Sep 22,Sep,2022,
+Citroen,C3,Sep 22,Sep,2022,1354.0
+Citroen,eC3,Sep 22,Sep,2022,0.0
+Lamborghini,Urus,Sep 22,Sep,2022,
+Citroen,C5 Aircross,Sep 22,Sep,2022,32.0
+Porsche,Panamera,Sep 22,Sep,2022,
+Lamborghini,Revuelto,Sep 22,Sep,2022,
+Porsche,718,Sep 22,Sep,2022,
+BYD Auto,Atto 3,Sep 22,Sep,2022,
+Lamborghini,Huracan EVO,Sep 22,Sep,2022,
+Renault,Triber,Sep 22,Sep,2022,3087.0
+Nissan,Magnite,Sep 22,Sep,2022,3069.0
+Porsche,Taycan,Sep 22,Sep,2022,
+Lexus,LC 500h,Sep 22,Sep,2022,
+Lexus,ES,Sep 22,Sep,2022,
+Lexus,LS 500h,Sep 22,Sep,2022,
+Rolls-Royce,Cullinan,Sep 22,Sep,2022,
+Lexus,NX,Sep 22,Sep,2022,
+Lexus,RX,Sep 22,Sep,2022,
+Lexus,LM 350h,Sep 22,Sep,2022,
+Mini,Cooper SE,Sep 22,Sep,2022,
+Rolls-Royce,Phantom,Sep 22,Sep,2022,
+BYD Auto,Seal EV,Sep 22,Sep,2022,
+Rolls-Royce,Ghost,Sep 22,Sep,2022,
+Rolls-Royce,Wraith,Sep 22,Sep,2022,
+Rolls-Royce,Dawn,Sep 22,Sep,2022,
+Mini,Cooper Countryman,Sep 22,Sep,2022,
+Mini,3 Door,Sep 22,Sep,2022,
+Lexus,LX,Sep 22,Sep,2022,
+Renault,Kiger,Sep 22,Sep,2022,2535.0
+Ferrari,F8 Tributo,Sep 22,Sep,2022,
+Ferrari,SF90 Stradale,Sep 22,Sep,2022,
+Ferrari,812,Sep 22,Sep,2022,
+Maserati,Quattroporte,Sep 22,Sep,2022,
+Isuzu,S-Cab,Sep 22,Sep,2022,
+Maserati,Ghibli,Sep 22,Sep,2022,
+Isuzu,Hi-Lander,Sep 22,Sep,2022,
+Maserati,GranTurismo,Sep 22,Sep,2022,
+Maserati,GranCabrio,Sep 22,Sep,2022,
+Isuzu,V-Cross,Sep 22,Sep,2022,
+Isuzu,MU-X,Sep 22,Sep,2022,
+Isuzu,D-Max,Sep 22,Sep,2022,
+Mclaren,GT,Sep 22,Sep,2022,
+Mclaren,750S,Sep 22,Sep,2022,
+Force,Gurkha,Sep 22,Sep,2022,
+Force,Gurkha 5 Door,Sep 22,Sep,2022,
+Ferrari,Roma,Sep 22,Sep,2022,
+Ferrari,296 GTB,Sep 22,Sep,2022,
+Mercedes-Benz,G-Class,Sep 22,Sep,2022,
+Aston Martin,DBX,Sep 22,Sep,2022,
+Mercedes-Benz,C-Class,Sep 22,Sep,2022,
+Mercedes-Benz,GLS,Sep 22,Sep,2022,
+Mercedes-Benz,A Class Sedan Limousine,Sep 22,Sep,2022,
+Mercedes-Benz,GLA,Sep 22,Sep,2022,
+Mercedes-Benz,GLC,Sep 22,Sep,2022,
+Mercedes-Benz,Maybach S-Class,Sep 22,Sep,2022,
+Mercedes-Benz,E-Class,Sep 22,Sep,2022,
+Mercedes-Benz,GLE-Class,Sep 22,Sep,2022,
+Mercedes-Benz,GLB,Sep 22,Sep,2022,
+Mercedes-Benz,AMG E 53 Cabriolet,Sep 22,Sep,2022,
+Mercedes-Benz,GLC Coupe,Sep 22,Sep,2022,
+Aston Martin,Vantage,Sep 22,Sep,2022,
+Mercedes-Benz,AMG E 53,Sep 22,Sep,2022,
+Mercedes-Benz,AMG A 45 S,Sep 22,Sep,2022,
+Aston Martin,DB 12,Sep 22,Sep,2022,
+Mercedes-Benz,S Class,Sep 22,Sep,2022,
+Pravaig,Defy,Sep 22,Sep,2022,
+Mercedes-Benz,EQS,Sep 22,Sep,2022,
+Mercedes-Benz,AMG GLE 53 Coupe,Sep 22,Sep,2022,
+Mercedes-Benz,AMG GLC 43,Sep 22,Sep,2022,
+Bajaj,Qute (RE60),Sep 22,Sep,2022,
+Strom Motors,R3,Sep 22,Sep,2022,
+Bentley,Bentayga,Sep 22,Sep,2022,
+Porsche,911,Sep 22,Sep,2022,
+Audi,A6,Sep 22,Sep,2022,
+Mercedes-Benz,EQB,Sep 22,Sep,2022,
+Volkswagen,Taigun,Sep 22,Sep,2022,1994.0
+Citroen,C3 Aircross,Sep 22,Sep,2022,0.0
+BYD Auto,E6 Electric,Sep 22,Sep,2022,
+Mercedes-Benz,AMG E 63,Sep 22,Sep,2022,
+Mclaren,720S,Sep 22,Sep,2022,
+Mercedes-Benz,EQE,Sep 22,Sep,2022,
+Tata,Nexon,Sep 22,Sep,2022,14518.0
+Renault,Kwid,Sep 22,Sep,2022,2001.0
+Audi,RS E-Tron GT,Sep 22,Sep,2022,
+Audi,E-Tron GT,Sep 22,Sep,2022,
+Maruti Suzuki,Grand Vitara,Sep 23,Sep,2023,11736.0
+Maruti Suzuki,Celerio,Sep 23,Sep,2023,3246.0
+Maruti Suzuki,Baleno,Sep 23,Sep,2023,18417.0
+Maruti Suzuki,S-Presso,Sep 23,Sep,2023,2560.0
+Maruti Suzuki,Alto K10,Sep 23,Sep,2023,
+Maruti Suzuki,Dzire,Sep 23,Sep,2023,13880.0
+Maruti Suzuki,Ertiga,Sep 23,Sep,2023,13528.0
+Maruti Suzuki,Swift,Sep 23,Sep,2023,14703.0
+Maruti Suzuki,XL6,Sep 23,Sep,2023,4511.0
+Maruti Suzuki,Brezza,Sep 23,Sep,2023,
+Maruti Suzuki,Wagon R,Sep 23,Sep,2023,16250.0
+Maruti Suzuki,Jimny,Sep 23,Sep,2023,2651.0
+Hyundai,Verna,Sep 23,Sep,2023,2610.0
+Hyundai,Aura,Sep 23,Sep,2023,3900.0
+Hyundai,Grand i10 Nios,Sep 23,Sep,2023,
+Maruti Suzuki,Ciaz,Sep 23,Sep,2023,1491.0
+Hyundai,Exter,Sep 23,Sep,2023,8647.0
+Hyundai,Creta N Line,Sep 23,Sep,2023,
+Hyundai,Tucson,Sep 23,Sep,2023,237.0
+Maruti Suzuki,Eeco,Sep 23,Sep,2023,11147.0
+Hyundai,i20,Sep 23,Sep,2023,
+Maruti Suzuki,Invicto,Sep 23,Sep,2023,
+Hyundai,Creta,Sep 23,Sep,2023,12717.0
+Hyundai,Alcazar,Sep 23,Sep,2023,1977.0
+Hyundai,Venue,Sep 23,Sep,2023,12204.0
+Tata,Tiago NRG BS6,Sep 23,Sep,2023,
+Tata,Tiago,Sep 23,Sep,2023,6789.0
+Tata,Punch EV,Sep 23,Sep,2023,
+Tata,Tigor,Sep 23,Sep,2023,1534.0
+Tata,Nexon EV,Sep 23,Sep,2023,
+Tata,Altroz,Sep 23,Sep,2023,6684.0
+Tata,Harrier,Sep 23,Sep,2023,926.0
+Tata,Tiago EV,Sep 23,Sep,2023,
+Hyundai,Venue N Line,Sep 23,Sep,2023,
+Hyundai,Ioniq 5,Sep 23,Sep,2023,176.0
+Tata,Safari,Sep 23,Sep,2023,516.0
+Tata,Punch,Sep 23,Sep,2023,13036.0
+Hyundai,Kona Electric,Sep 23,Sep,2023,69.0
+Tata,Xpres-T EV,Sep 23,Sep,2023,
+Mahindra,Scorpio Classic,Sep 23,Sep,2023,
+Tata,Altroz CNG,Sep 23,Sep,2023,
+Tata,Altroz Racer,Sep 23,Sep,2023,
+Mahindra,Thar,Sep 23,Sep,2023,5417.0
+Toyota,Innova Crysta,Sep 23,Sep,2023,
+Mahindra,XUV700,Sep 23,Sep,2023,8555.0
+Mahindra,Bolero,Sep 23,Sep,2023,9519.0
+Mahindra,XUV 400 Electric,Sep 23,Sep,2023,825.0
+Mahindra,Scorpio N,Sep 23,Sep,2023,
+Mahindra,XUV 3X0,Sep 23,Sep,2023,
+Mahindra,Bolero Neo,Sep 23,Sep,2023,
+Mahindra,Bolero Neo Plus,Sep 23,Sep,2023,
+Tata,Tigor CNG,Sep 23,Sep,2023,
+Tata,Tiago CNG,Sep 23,Sep,2023,
+Tata,Punch CNG,Sep 23,Sep,2023,
+Tata,Magic Mantra 10 Seater,Sep 23,Sep,2023,
+Toyota,Fortuner,Sep 23,Sep,2023,2874.0
+Toyota,Innova Hycross,Sep 23,Sep,2023,8900.0
+Toyota,Land Cruiser LC300,Sep 23,Sep,2023,
+Toyota,Hilux,Sep 23,Sep,2023,143.0
+Toyota,Camry,Sep 23,Sep,2023,259.0
+Toyota,Vellfire,Sep 23,Sep,2023,0.0
+Toyota,Fortuner Legender,Sep 23,Sep,2023,
+Toyota,Urban Cruiser HyRyder,Sep 23,Sep,2023,3804.0
+Toyota,Glanza,Sep 23,Sep,2023,4727.0
+Mahindra,KUV100 NXT,Sep 23,Sep,2023,
+Toyota,Taisor,Sep 23,Sep,2023,
+Toyota,Rumion,Sep 23,Sep,2023,1461.0
+Mahindra,XUV 300,Sep 23,Sep,2023,4961.0
+BMW,M4 Competition,Sep 23,Sep,2023,
+BMW,X7,Sep 23,Sep,2023,
+KIA,Carens,Sep 23,Sep,2023,4330.0
+BMW,7-Series,Sep 23,Sep,2023,
+BMW,X1,Sep 23,Sep,2023,
+BMW,2 Series Gran Coupe,Sep 23,Sep,2023,
+BMW,3 Series Gran Limousine,Sep 23,Sep,2023,
+BMW,Z4,Sep 23,Sep,2023,
+BMW,M2,Sep 23,Sep,2023,
+BMW,6 Series,Sep 23,Sep,2023,
+BMW,X5,Sep 23,Sep,2023,
+KIA,Sonet,Sep 23,Sep,2023,4984.0
+BMW,X3,Sep 23,Sep,2023,
+BMW,M8 Coupe Competition,Sep 23,Sep,2023,
+KIA,EV6,Sep 23,Sep,2023,150.0
+BMW,i7,Sep 23,Sep,2023,
+BMW,XM,Sep 23,Sep,2023,
+MG,Gloster,Sep 23,Sep,2023,201.0
+MG,Comet EV,Sep 23,Sep,2023,1020.0
+Honda,Elevate,Sep 23,Sep,2023,5685.0
+Honda,City,Sep 23,Sep,2023,1599.0
+BMW,i5,Sep 23,Sep,2023,
+MG,Astor,Sep 23,Sep,2023,901.0
+MG,Hector,Sep 23,Sep,2023,2653.0
+MG,Hector Plus,Sep 23,Sep,2023,
+MG,ZS EV,Sep 23,Sep,2023,228.0
+BMW,X4,Sep 23,Sep,2023,
+BMW,iX Electric,Sep 23,Sep,2023,
+BMW,3-Series,Sep 23,Sep,2023,
+BMW,iX1,Sep 23,Sep,2023,
+Honda,Amaze,Sep 23,Sep,2023,2577.0
+Honda,City Hybrid,Sep 23,Sep,2023,
+Mahindra,Marazzo,Sep 23,Sep,2023,144.0
+Skoda,Superb,Sep 23,Sep,2023,0.0
+Tata,Magic Express 10 Seater,Sep 23,Sep,2023,
+Volkswagen,Virtus,Sep 23,Sep,2023,1791.0
+BMW,i4,Sep 23,Sep,2023,
+Skoda,Kushaq,Sep 23,Sep,2023,2260.0
+KIA,Seltos,Sep 23,Sep,2023,10558.0
+Tata,Tigor EV,Sep 23,Sep,2023,
+Skoda,Slavia,Sep 23,Sep,2023,1581.0
+Skoda,Kodiaq,Sep 23,Sep,2023,191.0
+Maruti Suzuki,Ignis,Sep 23,Sep,2023,2056.0
+Hyundai,i20 N Line,Sep 23,Sep,2023,
+Maruti Suzuki,Fronx,Sep 23,Sep,2023,11455.0
+Jeep,Grand Cherokee,Sep 23,Sep,2023,
+Land Rover,Range Rover Velar,Sep 23,Sep,2023,
+Land Rover,Range Rover Evoque,Sep 23,Sep,2023,
+Audi,A4,Sep 23,Sep,2023,
+Land Rover,Range Rover,Sep 23,Sep,2023,
+Land Rover,Discovery Sport,Sep 23,Sep,2023,
+Land Rover,Range Rover Sport,Sep 23,Sep,2023,
+Land Rover,Discovery,Sep 23,Sep,2023,
+Jeep,Wrangler,Sep 23,Sep,2023,
+Jeep,Compass,Sep 23,Sep,2023,391.0
+Volkswagen,Tiguan,Sep 23,Sep,2023,191.0
+Audi,Q3,Sep 23,Sep,2023,
+Audi,Q3 Sportback,Sep 23,Sep,2023,
+Jeep,Meridian,Sep 23,Sep,2023,90.0
+Land Rover,Defender,Sep 23,Sep,2023,
+Audi,RS Q8,Sep 23,Sep,2023,
+Audi,RS5,Sep 23,Sep,2023,
+Audi,e-tron,Sep 23,Sep,2023,
+Audi,Q8,Sep 23,Sep,2023,
+Volvo,S90,Sep 23,Sep,2023,
+Audi,A8L,Sep 23,Sep,2023,
+Volvo,XC60,Sep 23,Sep,2023,
+Volvo,XC90,Sep 23,Sep,2023,
+Volvo,XC40 Recharge,Sep 23,Sep,2023,
+Volvo,C40 Recharge,Sep 23,Sep,2023,
+Jaguar,F-Type,Sep 23,Sep,2023,
+Jaguar,I-Pace,Sep 23,Sep,2023,
+Audi,S5 Sportback,Sep 23,Sep,2023,
+Audi,Q5,Sep 23,Sep,2023,
+Jaguar,F-Pace,Sep 23,Sep,2023,
+Audi,Q7,Sep 23,Sep,2023,
+Audi,Q8 e-tron,Sep 23,Sep,2023,
+Porsche,Macan,Sep 23,Sep,2023,
+Porsche,Cayenne,Sep 23,Sep,2023,
+Porsche,Cayenne Coupe,Sep 23,Sep,2023,
+Citroen,C3,Sep 23,Sep,2023,179.0
+Citroen,eC3,Sep 23,Sep,2023,166.0
+Lamborghini,Urus,Sep 23,Sep,2023,
+Citroen,C5 Aircross,Sep 23,Sep,2023,3.0
+Porsche,Panamera,Sep 23,Sep,2023,
+Lamborghini,Revuelto,Sep 23,Sep,2023,
+Porsche,718,Sep 23,Sep,2023,
+BYD Auto,Atto 3,Sep 23,Sep,2023,
+Lamborghini,Huracan EVO,Sep 23,Sep,2023,
+Renault,Triber,Sep 23,Sep,2023,1642.0
+Nissan,Magnite,Sep 23,Sep,2023,2454.0
+Porsche,Taycan,Sep 23,Sep,2023,
+Lexus,LC 500h,Sep 23,Sep,2023,
+Lexus,ES,Sep 23,Sep,2023,
+Lexus,LS 500h,Sep 23,Sep,2023,
+Rolls-Royce,Cullinan,Sep 23,Sep,2023,
+Lexus,NX,Sep 23,Sep,2023,
+Lexus,RX,Sep 23,Sep,2023,
+Lexus,LM 350h,Sep 23,Sep,2023,
+Mini,Cooper SE,Sep 23,Sep,2023,
+Rolls-Royce,Phantom,Sep 23,Sep,2023,
+BYD Auto,Seal EV,Sep 23,Sep,2023,
+Rolls-Royce,Ghost,Sep 23,Sep,2023,
+Rolls-Royce,Wraith,Sep 23,Sep,2023,
+Rolls-Royce,Dawn,Sep 23,Sep,2023,
+Mini,Cooper Countryman,Sep 23,Sep,2023,
+Mini,3 Door,Sep 23,Sep,2023,
+Lexus,LX,Sep 23,Sep,2023,
+Renault,Kiger,Sep 23,Sep,2023,980.0
+Ferrari,F8 Tributo,Sep 23,Sep,2023,
+Ferrari,SF90 Stradale,Sep 23,Sep,2023,
+Ferrari,812,Sep 23,Sep,2023,
+Maserati,Quattroporte,Sep 23,Sep,2023,
+Isuzu,S-Cab,Sep 23,Sep,2023,
+Maserati,Ghibli,Sep 23,Sep,2023,
+Isuzu,Hi-Lander,Sep 23,Sep,2023,
+Maserati,GranTurismo,Sep 23,Sep,2023,
+Maserati,GranCabrio,Sep 23,Sep,2023,
+Isuzu,V-Cross,Sep 23,Sep,2023,
+Isuzu,MU-X,Sep 23,Sep,2023,
+Isuzu,D-Max,Sep 23,Sep,2023,
+Mclaren,GT,Sep 23,Sep,2023,
+Mclaren,750S,Sep 23,Sep,2023,
+Force,Gurkha,Sep 23,Sep,2023,
+Force,Gurkha 5 Door,Sep 23,Sep,2023,
+Ferrari,Roma,Sep 23,Sep,2023,
+Ferrari,296 GTB,Sep 23,Sep,2023,
+Mercedes-Benz,G-Class,Sep 23,Sep,2023,
+Aston Martin,DBX,Sep 23,Sep,2023,
+Mercedes-Benz,C-Class,Sep 23,Sep,2023,
+Mercedes-Benz,GLS,Sep 23,Sep,2023,
+Mercedes-Benz,A Class Sedan Limousine,Sep 23,Sep,2023,
+Mercedes-Benz,GLA,Sep 23,Sep,2023,
+Mercedes-Benz,GLC,Sep 23,Sep,2023,
+Mercedes-Benz,Maybach S-Class,Sep 23,Sep,2023,
+Mercedes-Benz,E-Class,Sep 23,Sep,2023,
+Mercedes-Benz,GLE-Class,Sep 23,Sep,2023,
+Mercedes-Benz,GLB,Sep 23,Sep,2023,
+Mercedes-Benz,AMG E 53 Cabriolet,Sep 23,Sep,2023,
+Mercedes-Benz,GLC Coupe,Sep 23,Sep,2023,
+Aston Martin,Vantage,Sep 23,Sep,2023,
+Mercedes-Benz,AMG E 53,Sep 23,Sep,2023,
+Mercedes-Benz,AMG A 45 S,Sep 23,Sep,2023,
+Aston Martin,DB 12,Sep 23,Sep,2023,
+Mercedes-Benz,S Class,Sep 23,Sep,2023,
+Pravaig,Defy,Sep 23,Sep,2023,
+Mercedes-Benz,EQS,Sep 23,Sep,2023,
+Mercedes-Benz,AMG GLE 53 Coupe,Sep 23,Sep,2023,
+Mercedes-Benz,AMG GLC 43,Sep 23,Sep,2023,
+Bajaj,Qute (RE60),Sep 23,Sep,2023,
+Strom Motors,R3,Sep 23,Sep,2023,
+Bentley,Bentayga,Sep 23,Sep,2023,
+Porsche,911,Sep 23,Sep,2023,
+Audi,A6,Sep 23,Sep,2023,
+Mercedes-Benz,EQB,Sep 23,Sep,2023,
+Volkswagen,Taigun,Sep 23,Sep,2023,1586.0
+Citroen,C3 Aircross,Sep 23,Sep,2023,400.0
+BYD Auto,E6 Electric,Sep 23,Sep,2023,
+Mercedes-Benz,AMG E 63,Sep 23,Sep,2023,
+Mclaren,720S,Sep 23,Sep,2023,
+Mercedes-Benz,EQE,Sep 23,Sep,2023,
+Tata,Nexon,Sep 23,Sep,2023,15325.0
+Renault,Kwid,Sep 23,Sep,2023,747.0
+Audi,RS E-Tron GT,Sep 23,Sep,2023,
+Audi,E-Tron GT,Sep 23,Sep,2023,
